@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../bioinfo/CYP/SNP_editing"
+		},
+		{
+			"path": "../../workspace/ETRI_machine_learning"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,1037 @@
+LTKBID,Compound Name,Severity Class,Label Section,vDILIConcern,Version,MW,SMILES
+LT00003,mercaptopurine,8,Warnings and precautions,vMost-DILI-Concern,1,479.1,C1=CC(=C(C=C1Cl)Cl)COC(CN2C=CN=C2)C3=C(C=C(C=C3)Cl)Cl.[N+](=O)(O)[O-]
+LT00004,acetaminophen,5,Warnings and precautions,vMost-DILI-Concern,2,151.16,CC(=O)NC1=CC=C(C=C1)O
+LT00006,azathioprine,5,Warnings and precautions,vMost-DILI-Concern,1,277.27,CN1C=NC(=C1SC2=NC=NC3=C2NC=N3)[N+](=O)[O-]
+LT00009,chlorpheniramine,0,No match,vNo-DILI-Concern,2,274.79,CN(C)CCC(C1=CC=C(C=C1)Cl)C2=CC=CC=N2
+LT00011,clofibrate,3,Warnings and precautions,vLess-DILI-Concern,1,242.70,CCOC(=O)C(C)(C)OC1=CC=C(C=C1)Cl
+LT00013,cyclophosphamide,5,Adverse reactions,vLess-DILI-Concern,1,261.08,C1CNP(=O)(OC1)N(CCCl)CCCl
+LT00015,dopamine,0,No match,vNo-DILI-Concern,2,153.18,C1=CC(=C(C=C1CCN)O)O
+LT00016,estradiol,2,Adverse reactions,vLess-DILI-Concern,1,272.4,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O
+LT00018,fluoxetine,3,Adverse reactions,vLess-DILI-Concern,1,309.33,CNCCC(C1=CC=CC=C1)OC2=CC=C(C=C2)C(F)(F)F
+LT00020,gemfibrozil,4,Warnings and precautions,vMost-DILI-Concern,1,250.33,CC1=CC(=C(C=C1)C)OCCCC(C)(C)C(=O)O
+LT00022,indomethacin,8,Warnings and precautions,vMost-DILI-Concern,1,357.8,CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O
+LT00023,ketoprofen,3,Warnings and precautions,vLess-DILI-Concern,2,254.28,CC(C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O
+LT00024,mannitol,0,No match,vNo-DILI-Concern,1,182.17,C(C(C(C(C(CO)O)O)O)O)O
+LT00026,methotrexate,3,Box warning,vMost-DILI-Concern,1,494.5,CC(=O)OCC(=O)C12C(CC3C1(CC(C4(C3CC(C5=CC(=O)C=CC54C)F)F)O)C)OC(O2)(C)C
+LT00030,phenobarbital,3,Warnings and precautions,vLess-DILI-Concern,1,232.23,CCC1(C(=O)NC(=O)NC1=O)C2=CC=CC=C2
+LT00032,phenytoin,8,Warnings and precautions,vMost-DILI-Concern,1,252.27,C1=CC=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC=CC=C3
+LT00034,rifampin,8,Warnings and precautions,vMost-DILI-Concern,1,813.0,CCOC1=C2C(OC=CC(C(C(C(C(C(C(=O)C(C=CCC(C(=O)NC3=C(C(=C2C=C3CNN4CCN(CC4)C)C(=C1C)O)O)C)C)C)O)C)OC(=O)C)C)OC)O
+LT00036,tetracycline,2,Warnings and precautions,vLess-DILI-Concern,1,446.4,CC1(C2CC3C(C(=O)C(C(=O)C3(C(C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O
+LT00040,abacavir,8,Warnings and precautions,vMost-DILI-Concern,1,286.33,C1CC1NC2=C3C(=NC(=N2)N)N(C=N3)C4CC(C=C4)CO
+LT00041,aciclovir,5,Adverse reactions,vLess-DILI-Concern,1,225.20,C1=NC2=C(N1COCCO)N=C(NC2=O)N
+LT00043,allopurinol,8,Warnings and precautions,vMost-DILI-Concern,1,356.5,CCCCCCCCCCCCCOC(=O)C1CCC(=O)OC1CO
+LT00045,amineptine,8,Withdrawn,vMost-DILI-Concern,1,337.5,C1CC2=CC=CC=C2C(C3=CC=CC=C31)NCCCCCCC(=O)O
+LT00046,amiodarone,8,Box warning,vMost-DILI-Concern,1,645.3,CCCCC1=C(C2=CC=CC=C2O1)C(=O)C3=CC(=C(C(=C3)I)OCCN(CC)CC)I
+LT00047,amitriptyline,5,Adverse reactions,vLess-DILI-Concern,2,277.4,CN(C)CCC=C1C2=CC=CC=C2CCC3=CC=CC=C31
+LT00048,amphotericin b,3,Warnings and precautions,vLess-DILI-Concern,2,924.1,CC1C=CC=CC=CC=CC=CC=CC=CC(CC2C(C(CC(O2)(CC(CC(C(CCC(CC(CC(=O)OC(C(C1O)C)C)O)O)O)O)O)O)O)C(=O)O)OC3C(C(C(C(O3)C)O)N)O
+LT00049,ampicillin,3,Warnings and precautions,vLess-DILI-Concern,2,349.4,CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=CC=C3)N)C(=O)O)C
+LT00052,donepezil,3,Adverse reactions,vLess-DILI-Concern,2,379.5,COC1=C(C=C2C(=C1)CC(C2=O)CC3CCN(CC3)CC4=CC=CC=C4)OC
+LT00053,aspirin,0,No match,vLess-DILI-Concern,2,180.16,CC(=O)OC1=CC=CC=C1C(=O)O
+LT00054,aminohippurate,0,No match,vNo-DILI-Concern,2,194.19,C1=CC(=CC=C1C(=O)NCC(=O)O)N
+LT00056,bicalutamide,8,Warnings and precautions,vMost-DILI-Concern,1,430.4,CC(CS(=O)(=O)C1=CC=C(C=C1)F)(C(=O)NC2=CC(=C(C=C2)C#N)C(F)(F)F)O
+LT00058,bupropion,5,Adverse reactions,vLess-DILI-Concern,1,239.74,CC(C(=O)C1=CC(=CC=C1)Cl)NC(C)(C)C
+LT00059,captopril,7,Adverse reactions,vLess-DILI-Concern,1,217.29,CC(CS)C(=O)N1CCCC1C(=O)O
+LT00060,carbamazepine,7,Warnings and precautions,vMost-DILI-Concern,1,236.27,C1=CC=C2C(=C1)C=CC3=CC=CC=C3N2C(=O)N
+LT00061,carboplatin,3,Warnings and precautions,vLess-DILI-Concern,1,339.21,C1CC(C1)(C(=O)O)C(=O)O.[Pt]
+LT00062,ceftazidime,3,Adverse reactions,vLess-DILI-Concern,2,546.6,CC(C)(C(=O)O)ON=C(C1=CSC(=N1)N)C(=O)NC2C3N(C2=O)C(=C(CS3)C[N+]4=CC=CC=C4)C(=O)[O-]
+LT00065,chenodiol,8,Warnings and precautions,Ambiguous DILI-concern,2,392.6,CC(CCC(=O)O)C1CCC2C1(CCC3C2C(CC4C3(CCC(C4)O)C)O)C
+LT00066,chlorcyclizine,0,No match,vLess-DILI-Concern,2,300.8,CN1CCN(CC1)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl
+LT00067,chlorzoxazone,8,Warnings and precautions,vMost-DILI-Concern,1,169.56,C1=CC2=C(C=C1Cl)NC(=O)O2
+LT00068,chlorpromazine,2,Adverse reactions,vLess-DILI-Concern,1,318.9,CN(C)CCCN1C2=CC=CC=C2SC3=C1C=C(C=C3)Cl
+LT00071,cisplatin,3,Warnings and precautions,vLess-DILI-Concern,1,298.03,[NH2-].[NH2-].Cl[Pt+2]Cl
+LT00074,dimercaprol,0,No match,vNo-DILI-Concern,2,124.23,C(C(CS)S)O
+LT00076,colchicine,6,Adverse reactions,Ambiguous DILI-concern,1,399.4,CC(=O)NC1CCC2=CC(=C(C(=C2C3=CC=C(C(=O)C=C13)OC)OC)OC)OC
+LT00077,corticotropin,0,No match,vNo-DILI-Concern,2,4541,CC(C)CC(C(=O)NC(CCC(=O)O)C(=O)NC(CC1=CC=CC=C1)C(=O)O)NC(=O)C2CCCN2C(=O)C(CC3=CC=CC=C3)NC(=O)C(C)NC(=O)C(CCC(=O)O)NC(=O)C(C)NC(=O)C(CO)NC(=O)C(CCC(=O)O)NC(=O)C(CC(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(C)NC(=O)CNC(=O)C(CC(=O)N)NC(=O)C4CCCN4C(=O)C(CC5=CC=C(C=C5)O)NC(=O)C(C(C)C)NC(=O)C(CCCCN)NC(=O)C(C(C)C)NC(=O)C6CCCN6C(=O)C(CCCNC(=N)N)NC(=O)C(CCCNC(=N)N)NC(=O)C(CCCCN)NC(=O)C(CCCCN)NC(=O)CNC(=O)C(C(C)C)NC(=O)C7CCCN7C(=O)C(CCCCN)NC(=O)CNC(=O)C(CC8=CNC9=CC=CC=C98)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC1=CC=CC=C1)NC(=O)C(CC1=CN=CN1)NC(=O)C(CCC(=O)O)NC(=O)C(CCSC)NC(=O)C(CO)NC(=O)C(CC1=CC=C(C=C1)O)NC(=O)C(CO)N
+LT00079,dactinomycin,8,Warnings and precautions,vMost-DILI-Concern,2,1255.4,CC1C(C(=O)NC(C(=O)N2CCCC2C(=O)N(CC(=O)N(C(C(=O)O1)C(C)C)C)C)C(C)C)NC(=O)C3=C4C(=C(C=C3)C)OC5=C(C(=O)C(=C(C5=N4)C(=O)NC6C(OC(=O)C(N(C(=O)CN(C(=O)C7CCCN7C(=O)C(NC6=O)C(C)C)C)C)C(C)C)C)N)C
+LT00080,dantrolene,8,Box warning,vMost-DILI-Concern,1,314.25,C1C(=O)NC(=O)N1N=CC2=CC=C(O2)C3=CC=C(C=C3)[N+](=O)[O-]
+LT00081,demeclocycline,3,Warnings and precautions,Ambiguous DILI-concern,2,225.15,C1=CC(=C(C=C1[N+](=O)[O-])CC(=O)O)C(=O)O
+LT00082,dexamethasone,3,Adverse reactions,Ambiguous DILI-concern,1,425.32,CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCOP(=O)(O)OP(=O)(O)O
+LT00083,propoxyphene,3,Adverse reactions,vLess-DILI-Concern,2,194.19,CN1C=NC2=C1C(=O)N(C(=O)N2C)C
+LT00084,diclofenac,8,Warnings and precautions,vMost-DILI-Concern,1,296.1,C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl
+LT00085,diflunisal,8,Warnings and precautions,vMost-DILI-Concern,2,250.20,C1=CC(=C(C=C1C2=C(C=C(C=C2)F)F)C(=O)O)O
+LT00087,diphenhydramine,0,No match,vNo-DILI-Concern,1,255.35,CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2
+LT00091,epirubicin,3,Warnings and precautions,Ambiguous DILI-concern,2,543.5,CC1C(C(CC(O1)OC2CC(CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)N)O
+LT00092,erythromycin,5,Warnings and precautions,vMost-DILI-Concern,1,733.9,CCC1C(C(C(C(=O)C(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)O)(C)O
+LT00094,etoposide,3,Adverse reactions,vLess-DILI-Concern,2,538.7,C1=CC=C(C=C1)CC2C(C(C(N(C(N2CC3=CC(=CC=C3)N)O)CC4=CC(=CC=C4)N)CC5=CC=CC=C5)O)O
+LT00095,famotidine,3,Adverse reactions,vLess-DILI-Concern,1,337.5,C1=C(N=C(S1)N=C(N)N)CSCCC(=NS(=O)(=O)N)N
+LT00097,felbamate,7,Box warning,vMost-DILI-Concern,1,238.24,C1=CC=C(C=C1)C(COC(=O)N)COC(=O)N
+LT00098,fenofibrate,3,Warnings and precautions,vLess-DILI-Concern,1,360.8,CC(C)OC(=O)C(C)(C)OC1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)Cl
+LT00099,fenoprofen,8,Warnings and precautions,vMost-DILI-Concern,1,242.27,CC(C1=CC(=CC=C1)OC2=CC=CC=C2)C(=O)O
+LT00101,flutamide,8,Box warning,vMost-DILI-Concern,1,276.21,CC(C)C(=O)NC1=CC(=C(C=C1)[N+](=O)[O-])C(F)(F)F
+LT00106,hydroxyurea,8,Warnings and precautions,vMost-DILI-Concern,1,76.055,C(=O)(N)NO
+LT00107,imatinib,8,Warnings and precautions,vMost-DILI-Concern,2,273.42,C(CC(CNCCCNCCCN)N)CN=C(N)N
+LT00108,imipramine,3,Adverse reactions,vLess-DILI-Concern,1,280.4,CN(C)CCCN1C2=CC=CC=C2CCC3=CC=CC=C31
+LT00109,iproniazid,8,Withdrawn,vMost-DILI-Concern,1,179.22,CC(C)NNC(=O)C1=CC=NC=C1
+LT00110,hydroxyprogesterone caproate,2,Warnings and precautions,Ambiguous DILI-concern,2,428.6,CCCCCC(=O)OC1(CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C)C(=O)C
+LT00111,ketoconazole,8,Box warning,vMost-DILI-Concern,1,121.18,C1=CC=C(C=C1)CCN
+LT00112,labetalol,8,Warnings and precautions,vMost-DILI-Concern,1,328.4,CC(CCC1=CC=CC=C1)NCC(C2=CC(=C(C=C2)O)C(=O)N)O
+LT00113,leflunomide,8,Box warning,vMost-DILI-Concern,1,270.21,CC1=C(C=NO1)C(=O)NC2=CC=C(C=C2)C(F)(F)F
+LT00116,mefenamic acid,8,Warnings and precautions,vMost-DILI-Concern,2,241.28,CC1=C(C(=CC=C1)NC2=CC=CC=C2C(=O)O)C
+LT00117,meloxicam,3,Warnings and precautions,vLess-DILI-Concern,2,373.4,CC1=CN=C(S1)NC(=O)C2=C(C3=CC=CC=C3S(=O)(=O)N2C)[O-].[Na+]
+LT00119,metformin,0,No match,vLess-DILI-Concern,2,129.16,CN(C)C(=N)N=C(N)N
+LT00121,methyldopa,8,Warnings and precautions,vMost-DILI-Concern,1,211.21,CC(CC1=CC(=C(C=C1)O)O)(C(=O)O)N
+LT00124,nefazodone,8,Box warning,vMost-DILI-Concern,1,470.0,CCC1=NN(C(=O)N1CCOC2=CC=CC=C2)CCCN3CCN(CC3)C4=CC(=CC=C4)Cl
+LT00125,nitrofurantoin,8,Warnings and precautions,vMost-DILI-Concern,1,238.16,C1C(=O)NC(=O)N1N=CC2=CC=C(O2)[N+](=O)[O-]
+LT00126,olsalazine,8,Adverse reactions,vLess-DILI-Concern,2,302.24,C1=CC(=C(C=C1N=NC2=CC(=C(C=C2)O)C(=O)O)C(=O)O)O
+LT00128,paroxetine,8,Adverse reactions,vLess-DILI-Concern,1,329.4,C1CNCC(C1C2=CC=C(C=C2)F)COC3=CC4=C(C=C3)OCO4
+LT00129,pentamidine,3,Warnings and precautions,vLess-DILI-Concern,2,340.4,C1=CC(=CC=C1C(=N)N)OCCCCCOC2=CC=C(C=C2)C(=N)N
+LT00130,pentobarbital,3,Warnings and precautions,Ambiguous DILI-concern,2,226.27,CCCC(C)C1(C(=O)NC(=O)NC1=O)CC
+LT00131,perhexiline,8,Withdrawn,vMost-DILI-Concern,1,277.5,C1CCC(CC1)C(CC2CCCCN2)C3CCCCC3
+LT00133,physostigmine,0,No match,vNo-DILI-Concern,2,275.35,CC12CCN(C1N(C3=C2C=C(C=C3)OC(=O)NC)C)C
+LT00134,pioglitazone,3,Warnings and precautions,vLess-DILI-Concern,1,356.4,CCC1=CN=C(C=C1)CCOC2=CC=C(C=C2)CC3C(=O)NC(=O)S3
+LT00136,propylthiouracil,8,Box warning,vMost-DILI-Concern,1,170.23,CCCC1=CC(=O)NC(=S)N1
+LT00137,pseudoephedrine,0,No match,vNo-DILI-Concern,2,165.23,CC(C(C1=CC=CC=C1)O)NC
+LT00138,ranitidine,5,Adverse reactions,vLess-DILI-Concern,1,242.3,CCCSP(=O)(OCC)SCCC
+LT00139,rifabutin,5,Adverse reactions,vLess-DILI-Concern,2,847.0,CC1C=CC=C(C(=O)NC2=C(C3=C(C4=C(C(=C3O)C)OC(C4=O)(OC=CC(C(C(C(C(C(C1O)C)O)C)OC(=O)C)C)OC)C)C5=NC6(CCN(CC6)CC(C)C)N=C25)O)C
+LT00140,rosiglitazone,3,Warnings and precautions,vLess-DILI-Concern,2,546.6,CC1=C(N=C(O1)C2=CC=CC=C2)CCOC3=CC=C(C=C3)CC(C(=O)O)NC4=CC=CC=C4C(=O)C5=CC=CC=C5
+LT00141,indocyanine green,0,No match,vNo-DILI-Concern,2,775.0,CC1(C(=[N+](C2=C1C3=CC=CC=C3C=C2)CCCCS(=O)(=O)[O-])C=CC=CC=CC=C4C(C5=C(N4CCCCS(=O)(=O)[O-])C=CC6=CC=CC=C65)(C)C)C.[Na+]
+LT00142,simvastatin,3,Warnings and precautions,vLess-DILI-Concern,1,418.6,CCC(C)(C)C(=O)OC1CC(C=C2C1C(C(C=C2)C)CCC3CC(CC(=O)O3)O)C
+LT00143,spironolactone,2,Adverse reactions,vLess-DILI-Concern,1,416.6,CC(=O)SC1CC2=CC(=O)CCC2(C3C1C4CCC5(C4(CC3)C)CCC(=O)O5)C
+LT00144,stavudine,8,Box warning,vMost-DILI-Concern,1,224.21,CC1=CN(C(=O)NC1=O)C2C=CC(O2)CO
+LT00145,streptomycin,0,No match,vNo-DILI-Concern,1,581.6,CC1C(C(C(O1)OC2C(C(C(C(C2O)O)N=C(N)N)O)N=C(N)N)OC3C(C(C(C(O3)CO)O)O)NC)(C=O)O
+LT00146,sulfadiazine,3,Adverse reactions,vLess-DILI-Concern,2,250.28,C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N
+LT00147,sulfasalazine,5,Warnings and precautions,vMost-DILI-Concern,2,398.4,C1=CC=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N=NC3=CC(=C(C=C3)O)C(=O)O
+LT00148,sulindac,8,Warnings and precautions,vMost-DILI-Concern,1,356.4,CC1=C(C2=C(C1=CC3=CC=C(C=C3)S(=O)C)C=CC(=C2)F)CC(=O)O
+LT00152,tamoxifen,8,Warnings and precautions,vMost-DILI-Concern,1,371.5,CCC(=C(C1=CC=CC=C1)C2=CC=C(C=C2)OCCN(C)C)C3=CC=CC=C3
+LT00153,temozolomide,4,Adverse reactions,vLess-DILI-Concern,2,194.15,CN1C(=O)N2C=NC(=C2N=N1)C(=O)N
+LT00154,theophylline,0,No match,vNo-DILI-Concern,2,180.16,CN1C2=C(C(=O)N(C1=O)C)NC=N2
+LT00155,tizanidine,8,Warnings and precautions,vMost-DILI-Concern,2,253.71,C1CN=C(N1)NC2=C(C=CC3=NSN=C32)Cl
+LT00156,tolcapone,8,Box warning,vMost-DILI-Concern,1,273.24,CC1=CC=C(C=C1)C(=O)C2=CC(=C(C(=C2)O)O)[N+](=O)[O-]
+LT00158,toremifene,3,Warnings and precautions,Ambiguous DILI-concern,1,406.0,CN(C)CCOC1=CC=C(C=C1)C(=C(CCCl)C2=CC=CC=C2)C3=CC=CC=C3
+LT00160,valproic acid,8,Box warning,vMost-DILI-Concern,1,144.21,CCCC(CCC)C(=O)O
+LT00161,vancomycin,0,No match,vLess-DILI-Concern,1,1449.2,CC1C(C(CC(O1)OC2C(C(C(OC2OC3=C4C=C5C=C3OC6=C(C=C(C=C6)C(C(C(=O)NC(C(=O)NC5C(=O)NC7C8=CC(=C(C=C8)O)C9=C(C=C(C=C9O)O)C(NC(=O)C(C(C1=CC(=C(O4)C=C1)Cl)O)NC7=O)C(=O)O)CC(=O)N)NC(=O)C(CC(C)C)NC)O)Cl)CO)O)O)(C)N)O
+LT00162,vitamin a,3,Warnings and precautions,vLess-DILI-Concern,2,284.4,CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CC=O)C)C
+LT00163,zidovudine,8,Box warning,vMost-DILI-Concern,1,267.24,CC1=CN(C(=O)NC1=O)C2CC(C(O2)CO)N=[N+]=[N-]
+LT00164,zolpidem,7,Adverse reactions,Ambiguous DILI-concern,2,307.4,CC1=CC=C(C=C1)C2=C(N3C=C(C=CC3=N2)C)CC(=O)N(C)C
+LT00165,zonisamide,2,Adverse reactions,vLess-DILI-Concern,2,212.23,C1=CC=C2C(=C1)C(=NO2)CS(=O)(=O)N
+LT00166,pyrazinamide,3,Warnings and precautions,vLess-DILI-Concern,1,123.11,C1=CN=C(C=N1)C(=O)N
+LT00167,finasteride,0,No match,vLess-DILI-Concern,2,372.5,CC12CCC3C(C1CCC2C(=O)NC(C)(C)C)CCC4C3(C=CC(=O)N4)C
+LT00168,troglitazone,8,Withdrawn,vMost-DILI-Concern,1,441.5,CC1=C(C2=C(CCC(O2)(C)COC3=CC=C(C=C3)CC4C(=O)NC(=O)S4)C(=C1O)C)C
+LT00172,fluvastatin,3,Warnings and precautions,vLess-DILI-Concern,2,411.5,CC(C)N1C2=CC=CC=C2C(=C1C=CC(CC(CC(=O)O)O)O)C3=CC=C(C=C3)F
+LT00173,glimepiride,7,Adverse reactions,vLess-DILI-Concern,1,451.5,COC1=C(C=C2C(=C1)C(=NC(=N2)N3CCN(CC3)C(=O)C4COC5=CC=CC=C5O4)N)OC
+LT00174,venlafaxine,7,Adverse reactions,vLess-DILI-Concern,1,277.4,CN(C)CC(C1=CC=C(C=C1)OC)C2(CCCCC2)O
+LT00175,amlodipine,5,Adverse reactions,vLess-DILI-Concern,2,408.9,CCOC(=O)C1=C(NC(=C(C1C2=CC=CC=C2Cl)C(=O)OC)C)COCCN
+LT00177,vinblastine,0,No match,vNo-DILI-Concern,2,811.0,CCC1(CC2CC(C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)C78CCN9C7C(C=CC9)(C(C(C8N6C)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O
+LT00178,ciprofloxacin,7,Warnings and precautions,vMost-DILI-Concern,1,331.34,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O
+LT00179,fluconazole,8,Warnings and precautions,vMost-DILI-Concern,1,306.27,C1=CC(=C(C=C1F)F)C(CN2C=NC=N2)(CN3C=NC=N3)O
+LT00180,prednisone,3,Adverse reactions,vLess-DILI-Concern,2,64.07,O=S=O
+LT00181,lorazepam,3,Warnings and precautions,Ambiguous DILI-concern,2,468.5,COC1=C(C(=C(C=C1)CN2CCN(CC2)C(C3=CC=C(C=C3)F)C4=CC=C(C=C4)F)OC)OC
+LT00182,itraconazole,8,Warnings and precautions,vMost-DILI-Concern,2,705.6,CCC(C)N1C(=O)N(C=N1)C2=CC=C(C=C2)N3CCN(CC3)C4=CC=C(C=C4)OCC5COC(O5)(CN6C=NC=N6)C7=C(C=C(C=C7)Cl)Cl
+LT00183,raloxifene,0,No match,vNo-DILI-Concern,2,473.6,C1CCN(CC1)CCOC2=CC=C(C=C2)C(=O)C3=C(SC4=C3C=CC(=C4)O)C5=CC=C(C=C5)O
+LT00184,mifepristone,0,No match,vNo-DILI-Concern,2,429.6,CC#CC1(CCC2C1(CC(C3=C4CCC(=O)C=C4CCC23)C5=CC=C(C=C5)N(C)C)C)O
+LT00185,clomipramine,8,Warnings and precautions,vMost-DILI-Concern,2,314.9,CN(C)CCCN1C2=CC=CC=C2CCC3=C1C=C(C=C3)Cl
+LT00186,pravastatin,3,Warnings and precautions,vLess-DILI-Concern,1,424.5,CCC(C)C(=O)OC1CC(C=C2C1C(C(C=C2)C)CCC(CC(CC(=O)O)O)O)O
+LT00187,clarithromycin,8,Warnings and precautions,vMost-DILI-Concern,2,748.0,CCC1C(C(C(C(=O)C(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)OC)C)C)O)(C)O
+LT00188,hydrocortisone,0,No match,vNo-DILI-Concern,2,362.5,CC12CCC(=O)C=C1CCC3C2C(CC4(C3CCC4(C(=O)CO)O)C)O
+LT00192,progesterone,2,Adverse reactions,vLess-DILI-Concern,2,386.5,CC1CC2C(CCC3(C2CCC3(C(=O)C)OC(=O)C)C)C4(C1=CC(=O)CC4)C
+LT00194,ergocalciferol,0,No match,vNo-DILI-Concern,1,396.6,CC(C)C(C)C=CC(C)C1CCC2C1(CCCC2=CC=C3CC(CCC3=C)O)C
+LT00199,ibuprofen,3,Warnings and precautions,vLess-DILI-Concern,1,206.28,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O
+LT00200,isoproterenol,0,No match,vNo-DILI-Concern,1,230.67,CC1=NS(=O)(=O)C2=C(N1)C=CC(=C2)Cl
+LT00204,ketorolac,3,Warnings and precautions,vLess-DILI-Concern,1,255.27,C1CN2C(=CC=C2C(=O)C3=CC=CC=C3)C1C(=O)O
+LT00205,promethazine,5,Adverse reactions,vLess-DILI-Concern,2,284.4,CC(CN1C2=CC=CC=C2SC3=CC=CC=C31)N(C)C
+LT00206,omeprazole,4,Adverse reactions,vLess-DILI-Concern,2,299.3,COC(=O)NC1=NC2=C(N1)C=C(C=C2)SC3=CC=CC=C3
+LT00207,carvedilol,3,Adverse reactions,vLess-DILI-Concern,2,406.5,COC1=CC=CC=C1OCCNCC(COC2=CC=CC3=C2C4=CC=CC=C4N3)O
+LT00209,cytarabine,3,Box warning,vMost-DILI-Concern,1,243.22,C1=CN(C(=O)N=C1N)C2C(C(C(O2)CO)O)O
+LT00211,norethindrone,3,Adverse reactions,Ambiguous DILI-concern,2,298.4,CC12CCC3C(C1CCC2(C#C)O)CCC4=CC(=O)CCC34
+LT00213,tromethamine,6,Adverse reactions,Ambiguous DILI-concern,2,121.14,C(C(CO)(CO)N)O
+LT00216,pergolide,3,Adverse reactions,Ambiguous DILI-concern,2,314.5,CCCN1CC(CC2C1CC3=CNC4=CC=CC2=C34)CSC
+LT00217,nisoldipine,3,Adverse reactions,Ambiguous DILI-concern,2,388.4,CC1=C(C(C(=C(N1)C)C(=O)OCC(C)C)C2=CC=CC=C2[N+](=O)[O-])C(=O)OC
+LT00219,citalopram,7,Adverse reactions,vLess-DILI-Concern,2,324.4,CN(C)CCCC1(C2=C(CO1)C=C(C=C2)C#N)C3=CC=C(C=C3)F
+LT00220,megestrol,1,Adverse reactions,Ambiguous DILI-concern,2,384.5,CC1=CC2C(CCC3(C2CCC3(C(=O)C)OC(=O)C)C)C4(C1=CC(=O)CC4)C
+LT00222,methyltestosterone,2,Warnings and precautions,vLess-DILI-Concern,2,302.5,CC12CCC(=O)C=C1CCC3C2CCC4(C3CCC4(C)O)C
+LT00223,testosterone,8,Warnings and precautions,vMost-DILI-Concern,2,288.4,CC12CCC3C(C1CCC2O)CCC4=CC(=O)CCC34C
+LT00225,praziquantel,3,Warnings and precautions,Ambiguous DILI-concern,2,312.4,C1CCC(CC1)C(=O)N2CC3C4=CC=CC=C4CCN3C(=O)C2
+LT00227,ticlopidine,4,Warnings and precautions,vMost-DILI-Concern,1,263.8,C1CN(CC2=C1SC=C2)CC3=CC=CC=C3Cl
+LT00230,diazepam,4,Adverse reactions,Ambiguous DILI-concern,2,284.74,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3
+LT00233,clomiphene,3,Warnings and precautions,vLess-DILI-Concern,2,406.0,CCN(CC)CCOC1=CC=C(C=C1)C(=C(C2=CC=CC=C2)Cl)C3=CC=CC=C3
+LT00234,isotretinoin,5,Warnings and precautions,vMost-DILI-Concern,1,300.4,CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CC(=O)O)C)C
+LT00235,oxymetholone,7,Box warning,vMost-DILI-Concern,1,332.5,CC12CCC3C(C1CCC2(C)O)CCC4C3(CC(=CO)C(=O)C4)C
+LT00240,etodolac,8,Warnings and precautions,vMost-DILI-Concern,1,287.35,CCC1=C2C(=CC=C1)C3=C(N2)C(OCC3)(CC)CC(=O)O
+LT00243,glipizide,3,Adverse reactions,vLess-DILI-Concern,2,445.5,CC1=CN=C(C=N1)C(=O)NCCC2=CC=C(C=C2)S(=O)(=O)NC(=O)NC3CCCCC3
+LT00246,pemoline,8,Withdrawn,vMost-DILI-Concern,1,176.17,C1=CC=C(C=C1)C2C(=O)N=C(O2)N
+LT00248,clotrimazole,3,Warnings and precautions,vLess-DILI-Concern,1,344.8,C1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=CC=C3Cl)N4C=CN=C4
+LT00252,celecoxib,3,Warnings and precautions,vLess-DILI-Concern,2,381.4,CC1=CC=C(C=C1)C2=CC(=NN2C3=CC=C(C=C3)S(=O)(=O)N)C(F)(F)F
+LT00256,amoxapine,3,Adverse reactions,Ambiguous DILI-concern,2,313.8,C1CN(CCN1)C2=NC3=CC=CC=C3OC4=C2C=C(C=C4)Cl
+LT00257,iothalamate sodium,0,No match,vNo-DILI-Concern,2,613.91,CC(=O)NC1=C(C(=C(C(=C1I)C(=O)O)I)C(=O)NC)I
+LT00258,atorvastatin,5,Warnings and precautions,vMost-DILI-Concern,2,558.6,CC(C)C1=C(C(=C(N1CCC(CC(CC(=O)O)O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4
+LT00259,olanzapine,3,Adverse reactions,vLess-DILI-Concern,2,238.24,C1=CC=C(C=C1)C(COC(=O)N)COC(=O)N
+LT00260,nevirapine,8,Box warning,vMost-DILI-Concern,1,266.30,CC1=C2C(=NC=C1)N(C3=C(C=CC=N3)C(=O)N2)C4CC4
+LT00261,primidone,0,No match,vNo-DILI-Concern,1,218.25,CCC1(C(=O)NCNC1=O)C2=CC=CC=C2
+LT00262,vinorelbine,3,Adverse reactions,Ambiguous DILI-concern,2,778.9,CCC1=CC2CC(C3=C(CN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)C78CCN9C7C(C=CC9)(C(C(C8N6C)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC
+LT00263,anastrozole,3,Adverse reactions,vLess-DILI-Concern,2,293.4,CC(C)(C#N)C1=CC(=CC(=C1)CN2C=NC=N2)C(C)(C)C#N
+LT00264,rabeprazole,3,Adverse reactions,vLess-DILI-Concern,2,359.4,CC1=C(C=CN=C1CS(=O)C2=NC3=CC=CC=C3N2)OCCCOC
+LT00265,azithromycin,7,Adverse reactions,vLess-DILI-Concern,2,749.0,CCC1C(C(C(N(CC(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)C)O)(C)O
+LT00266,tolazamide,2,Adverse reactions,vLess-DILI-Concern,2,311.40,CC1=CC=C(C=C1)S(=O)(=O)NC(=O)NN2CCCCCC2
+LT00267,quetiapine,3,Warnings and precautions,vLess-DILI-Concern,2,383.5,C1CN(CCN1CCOCCO)C2=NC3=CC=CC=C3SC4=CC=CC=C42
+LT00270,famciclovir,3,Adverse reactions,Ambiguous DILI-concern,2,321.33,CC(=O)OCC(CCN1C=NC2=CN=C(N=C21)N)COC(=O)C
+LT00277,atenolol,4,Adverse reactions,vLess-DILI-Concern,2,266.34,CC(C)NCC(COC1=CC=C(C=C1)CC(=O)N)O
+LT00278,benzbromarone,8,Withdrawn,vMost-DILI-Concern,1,424.1,CCC1=C(C2=CC=CC=C2O1)C(=O)C3=CC(=C(C(=C3)Br)O)Br
+LT00279,bromocriptine,3,Warnings and precautions,vLess-DILI-Concern,2,654.6,CC(C)CC1C(=O)N2CCCC2C3(N1C(=O)C(O3)(C(C)C)NC(=O)C4CN(C5CC6=C(NC7=CC=CC(=C67)C5=C4)Br)C)O
+LT00280,busulfan,8,Warnings and precautions,vMost-DILI-Concern,1,90.12,CC(C(C)O)O
+LT00286,chlorambucil,3,Warnings and precautions,vLess-DILI-Concern,2,304.2,C1=CC(=CC=C1CCCC(=O)O)N(CCCl)CCCl
+LT00287,clozapine,5,Warnings and precautions,vMost-DILI-Concern,1,377.5,CC1CC2=C(C(N1)C)C(=C(C=C2)C3=C4C=CC=C(C4=C(C=C3C)OC)OC)O
+LT00288,dacarbazine,6,Box warning,vMost-DILI-Concern,1,182.18,CN(C)N=NC1=C(NC=N1)C(=O)N
+LT00289,dapsone,3,Warnings and precautions,vLess-DILI-Concern,2,248.30,C1=CC(=CC=C1N)S(=O)(=O)C2=CC=C(C=C2)N
+LT00292,digoxin,0,No match,vNo-DILI-Concern,1,780.9,CC1C(C(CC(O1)OC2C(OC(CC2O)OC3C(OC(CC3O)OC4CCC5(C(C4)CCC6C5CC(C7(C6(CCC7C8=CC(=O)OC8)O)C)O)C)C)C)O)O
+LT00294,dipyridamole,3,Warnings and precautions,Ambiguous DILI-concern,2,504.6,C1CCN(CC1)C2=NC(=NC3=C2N=C(N=C3N4CCCCC4)N(CCO)CCO)N(CCO)CCO
+LT00295,disulfiram,8,Warnings and precautions,vMost-DILI-Concern,1,296.5,CCN(CC)C(=S)SSC(=S)N(CC)CC
+LT00296,enalapril,7,Adverse reactions,vLess-DILI-Concern,1,376.4,CCOC(=O)C(CCC1=CC=CC=C1)NC(C)C(=O)N2CCCC2C(=O)O
+LT00298,flurbiprofen,3,Warnings and precautions,Ambiguous DILI-concern,1,244.26,CC(C1=CC(=C(C=C1)C2=CC=CC=C2)F)C(=O)O
+LT00299,furosemide,2,Adverse reactions,Ambiguous DILI-concern,1,330.74,C1=COC(=C1)CNC2=CC(=C(C=C2C(=O)O)S(=O)(=O)N)Cl
+LT00300,gabapentin,3,Warnings and precautions,vLess-DILI-Concern,2,311.33,CC(C=CC=C(C)C1CNC(C1CC(=O)O)C(=O)O)C(=O)O
+LT00302,glibenclamide,3,Adverse reactions,vLess-DILI-Concern,2,494.0,COC1=C(C=C(C=C1)Cl)C(=O)NCCC2=CC=C(C=C2)S(=O)(=O)NC(=O)NC3CCCCC3
+LT00306,isoniazid,8,Box warning,vMost-DILI-Concern,1,137.14,C1=CN=CC=C1C(=O)NN
+LT00307,lansoprazole,3,Adverse reactions,vLess-DILI-Concern,2,369.4,CC1=C(C=CN=C1CS(=O)C2=NC3=CC=CC=C3N2)OCC(F)(F)F
+LT00308,mebendazole,3,Warnings and precautions,vLess-DILI-Concern,1,295.29,COC(=O)NC1=NC2=C(N1)C=C(C=C2)C(=O)C3=CC=CC=C3
+LT00309,metoprolol,5,Adverse reactions,vLess-DILI-Concern,1,267.36,CC(C)NCC(COC1=CC=C(C=C1)CCOC)O
+LT00310,mycophenolic acid,3,Adverse reactions,Ambiguous DILI-concern,2,320.3,CC1=C2COC(=O)C2=C(C(=C1OC)CC=C(C)CCC(=O)O)O
+LT00311,naltrexone,3,Warnings and precautions,Ambiguous DILI-concern,1,341.4,C1CC1CN2CCC34C5C(=O)CCC3(C2CC6=C4C(=C(C=C6)O)O5)O
+LT00312,niacin,7,Warnings and precautions,vMost-DILI-Concern,1,122.12,C1=CC(=CN=C1)C(=O)N
+LT00313,nifedipine,3,Warnings and precautions,vLess-DILI-Concern,1,346.3,CC1=C(C(C(=C(N1)C)C(=O)OC)C2=CC=CC=C2[N+](=O)[O-])C(=O)OC
+LT00314,nimesulide,8,Withdrawn,vMost-DILI-Concern,1,308.31,CS(=O)(=O)NC1=C(C=C(C=C1)[N+](=O)[O-])OC2=CC=CC=C2
+LT00315,nizatidine,5,Adverse reactions,vLess-DILI-Concern,1,331.5,CNC(=C[N+](=O)[O-])NCCSCC1=CSC(=N1)CN(C)C
+LT00322,methenamine hippurate,3,Warnings and precautions,Ambiguous DILI-concern,2,140.19,C1N2CN3CN1CN(C2)C3
+LT00327,dextrose,0,No match,vNo-DILI-Concern,2,180.16,C(C1C(C(C(C(O1)O)O)O)O)O
+LT00328,cholestyramine,3,Adverse reactions,Ambiguous DILI-concern,2,296.5,CCC1=CC=C(C=C1)C(C)CCC2=CC=C(C=C2)[N+](C)(C)C
+LT00330,sodium lactate,0,No match,vNo-DILI-Concern,2,89.07,CC(C(=O)[O-])O
+LT00332,verapamil,3,Warnings and precautions,vLess-DILI-Concern,1,454.6,CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C=C2)OC)OC
+LT00335,doxorubicin,3,Adverse reactions,vLess-DILI-Concern,2,544.5,CC1C(C(CC(O1)OC2CC(CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)[NH3+])O
+LT00338,tretinoin,3,Warnings and precautions,Ambiguous DILI-concern,2,300.4,CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CC(=O)O)C)C
+LT00340,isorbide mononitrate,3,Adverse reactions,Ambiguous DILI-concern,1,191.14,C1C(C2C(O1)C(CO2)O[N+](=O)[O-])O
+LT00341,clorazepate,3,Warnings and precautions,Ambiguous DILI-concern,2,314.72,C1=CC=C(C=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Cl)C(=O)O
+LT00349,protirelin,0,No match,vNo-DILI-Concern,2,362.38,C1CC(N(C1)C(=O)C(CC2=CN=CN2)NC(=O)C3CCC(=O)N3)C(=O)N
+LT00350,sincalide,0,No match,vNo-DILI-Concern,2,1143.3,CSCCC(C(=O)NCC(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)NC(CCSC)C(=O)NC(CC(=O)O)C(=O)NC(CC3=CC=CC=C3)C(=O)N)NC(=O)C(CC4=CC=C(C=C4)OS(=O)(=O)O)NC(=O)C(CC(=O)O)N
+LT00355,secretin,0,No match,vNo-DILI-Concern,2,3056.4,CC(C)CC(C(=O)NC(C(C)C)C(=O)O)NC(=O)CNC(=O)C(CCC(=O)N)NC(=O)C(CC(C)C)NC(=O)C(CC(C)C)NC(=O)C(CCCNC(=N)N)NC(=O)C(CCC(=O)N)NC(=O)C(CC(C)C)NC(=O)C(CCCNC(=N)N)NC(=O)C(C)NC(=O)C(CO)NC(=O)C(CC(=O)O)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC(C)C)NC(=O)C(CCCNC(=N)N)NC(=O)C(CO)NC(=O)C(CC(C)C)NC(=O)C(CCC(=O)O)NC(=O)C(CO)NC(=O)C(C(C)O)NC(=O)C(CC1=CC=CC=C1)NC(=O)C(C(C)O)NC(=O)CNC(=O)C(CC(=O)O)NC(=O)C(CO)NC(=O)C(CC2=NC=CN2)N
+LT00358,sucralfate,0,No match,vNo-DILI-Concern,2,1041.8,C(C1C(C(C(C(O1)OC2(C(C(C(O2)OS(=O)(=O)[O-])OS(=O)(=O)[O-])OS(=O)(=O)[O-])COS(=O)(=O)[O-])OS(=O)(=O)[O-])OS(=O)(=O)[O-])OS(=O)(=O)[O-])OS(=O)(=O)[O-].O.O.O.[Al]
+LT00361,cupric chloride,0,No match,vNo-DILI-Concern,2,134.45,Cl[Cu]Cl
+LT00375,trientine hydrochloride,1,No match,vNo-DILI-Concern,2,146.23,C(CNCCNCCN)N
+LT00379,chlorpropamide,2,Adverse reactions,vLess-DILI-Concern,1,276.74,CCCNC(=O)NS(=O)(=O)C1=CC=C(C=C1)Cl
+LT00380,cyclosporine,7,Warnings and precautions,vMost-DILI-Concern,1,1202.6,CCC1C(=O)N(CC(=O)N(C(C(=O)NC(C(=O)N(C(C(=O)NC(C(=O)NC(C(=O)N(C(C(=O)N(C(C(=O)N(C(C(=O)N(C(C(=O)N1)C(C(C)CC=CC)O)C)C(C)C)C)CC(C)C)C)CC(C)C)C)C)C)CC(C)C)C)C(C)C)CC(C)C)C)C
+LT00381,enalaprilat,7,Adverse reactions,Ambiguous DILI-concern,2,384.4,CC(C(=O)C1CCCN1C(=O)O)NC(CCC2=CC=CC=C2)C(=O)O.O.O
+LT00385,decitabine,4,Adverse reactions,Ambiguous DILI-concern,2,157.30,CCCCCCCCCCN
+LT00386,deferoxamine,0,No match,vLess-DILI-Concern,1,560.7,CC(=O)N(CCCCCNC(=O)CCC(=O)N(CCCCCNC(=O)CCC(=O)N(CCCCCN)O)O)O
+LT00393,doxycycline,3,Adverse reactions,vLess-DILI-Concern,1,408.4,CC1=CC2=C(C3=C1C(=O)C=C(O3)C(CO)(C4CO4)O)C(=O)C5=C(C2=O)C=CC=C5O
+LT00394,exemestane,4,Warnings and precautions,vMost-DILI-Concern,2,470.5,CCOC(=O)OC1=C(C=C(C=C1)CCNC(=O)C(CCSC)NC(=O)C)OC(=O)OCC
+LT00397,felodipine,3,Adverse reactions,vLess-DILI-Concern,2,384.2,CCOC(=O)C1=C(NC(=C(C1C2=C(C(=CC=C2)Cl)Cl)C(=O)OC)C)C
+LT00399,fludrocortisone,0,No match,vNo-DILI-Concern,2,422.5,CC(=O)OCC(=O)C1(CCC2C1(CC(C3(C2CCC4=CC(=O)CCC43C)F)O)C)O
+LT00400,fluphenazine,3,Warnings and precautions,Ambiguous DILI-concern,2,437.5,C1CN(CCN1CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)C(F)(F)F)CCO
+LT00401,fulvestrant,7,Adverse reactions,Ambiguous DILI-concern,2,334.6,CCCCCCCCCCCC[N+](C)(C)CCOC1=CC=CC=C1
+LT00402,gefitinib,4,Warnings and precautions,vMost-DILI-Concern,2,324.4,CCNC1CC(S(=O)(=O)C2=C1C=C(S2)S(=O)(=O)N)C
+LT00405,haloperidol,5,Adverse reactions,vLess-DILI-Concern,1,375.9,C1CN(CCC1(C2=CC=C(C=C2)Cl)O)CCCC(=O)C3=CC=C(C=C3)F
+LT00414,mesalazine,7,Adverse reactions,vLess-DILI-Concern,2,153.14,C1=CC(=C(C=C1N)C(=O)O)O
+LT00416,minocycline,8,Warnings and precautions,vMost-DILI-Concern,1,224.10,CC(C)(C#N)C1=CC=C(C=C1)Br
+LT00419,ioversol,0,No match,vNo-DILI-Concern,2,807.1,C(CO)N(C1=C(C(=C(C(=C1I)C(=O)NCC(CO)O)I)C(=O)NCC(CO)O)I)C(=O)CO
+LT00426,histrelin acetate,3,Adverse reactions,Ambiguous DILI-concern,2,1323.5,CCNC(=O)C1CCCN1C(=O)C(CCCN=C(N)N)NC(=O)C(CC(C)C)NC(=O)C(CC2=CN(C=N2)CC3=CC=CC=C3)NC(=O)C(CC4=CC=C(C=C4)O)NC(=O)C(CO)NC(=O)C(CC5=CNC6=CC=CC=C65)NC(=O)C(CC7=CN=CN7)NC(=O)C8CCC(=O)N8
+LT00429,oxaprozin,3,Warnings and precautions,vLess-DILI-Concern,2,361.4,CC1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O
+LT00430,paclitaxel,4,Adverse reactions,vLess-DILI-Concern,2,848.9,CC12CC(=O)NC13CC4C(C(C(=N4)CC5=C(C6=C(N5)C(=C7C(C(C(=CC(C2CCC(=O)O)N3)N7)CC(=O)O)CCC(=O)O)C(=O)CC6)CC(=O)O)(C)CC(=O)N)CCC(=O)O
+LT00433,phentolamine,0,No match,vNo-DILI-Concern,1,281.35,CC1=CC=C(C=C1)N(CC2=NCCN2)C3=CC(=CC=C3)O
+LT00435,prazosin,3,Adverse reactions,Ambiguous DILI-concern,2,383.4,COC1=C(C=C2C(=C1)C(=NC(=N2)N3CCN(CC3)C(=O)C4=CC=CO4)N)OC
+LT00437,prochlorperazine,2,Adverse reactions,vLess-DILI-Concern,2,373.9,CN1CCN(CC1)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)Cl
+LT00438,corticorelin ovine triflutate,0,No match,vNo-DILI-Concern,2,4670,CCC(C)C(C(=O)NC(CO)C(=O)NC(CC(C)C)C(=O)NC(CC(=O)O)C(=O)NC(CC(C)C)C(=O)NC(C(C)O)C(=O)NC(CC1=CC=CC=C1)C(=O)NC(CC2=CN=CN2)C(=O)NC(CC(C)C)C(=O)NC(CC(C)C)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCC(=O)O)C(=O)NC(C(C)C)C(=O)NC(CC(C)C)C(=O)NC(CCC(=O)O)C(=O)NC(CCSC)C(=O)NC(C(C)O)C(=O)NC(CCCCN)C(=O)NC(C)C(=O)NC(CC(=O)O)C(=O)NC(CCC(=O)N)C(=O)NC(CC(C)C)C(=O)NC(C)C(=O)NC(CCC(=O)N)C(=O)NC(CCC(=O)N)C(=O)NC(C)C(=O)NC(CC3=CN=CN3)C(=O)NC(CO)C(=O)NC(CC(=O)N)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCCN)C(=O)NC(CC(C)C)C(=O)NC(CC(C)C)C(=O)NC(CC(=O)O)C(=O)NC(C(C)CC)C(=O)NC(C)C(=O)N)NC(=O)C4CCCN4C(=O)C5CCCN5C(=O)C(CCC(=O)O)NC(=O)C(CCC(=O)N)NC(=O)C(CO)N
+LT00439,sodium thiosulfate,0,No match,vNo-DILI-Concern,2,158.11,[O-]S(=O)(=S)[O-].[Na+].[Na+]
+LT00443,sirolimus,8,Adverse reactions,vLess-DILI-Concern,2,914.2,CC1CCC2CC(C(=CC=CC=CC(CC(C(=O)C(C(C(=CC(C(=O)CC(OC(=O)C3CCCCN3C(=O)C(=O)C1(O2)O)C(C)CC4CCC(C(C4)OC)O)C)C)O)OC)C)C)C)OC
+LT00448,tacrolimus,5,Adverse reactions,vLess-DILI-Concern,1,804.0,CC1CC(C2C(CC(C(O2)(C(=O)C(=O)N3CCCCC3C(=O)OC(C(C(CC(=O)C(C=C(C1)C)CC=C)O)C)C(=CC4CCC(C(C4)OC)O)C)O)C)OC)OC
+LT00450,thalidomide,4,Adverse reactions,vLess-DILI-Concern,2,270.24,CC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)O
+LT00451,thioridazine,5,Adverse reactions,vLess-DILI-Concern,2,370.6,CN1CCCCC1CCN2C3=CC=CC=C3SC4=C2C=C(C=C4)SC
+LT00452,thioguanine,2,Warnings and precautions,vLess-DILI-Concern,1,167.19,C1=NC2=C(N1)C(=S)N=C(N2)N
+LT00453,tolbutamide,2,Adverse reactions,Ambiguous DILI-concern,1,302.5,CCC=CCC=CCC=CCC=CCC=CCCCC(=O)O
+LT00455,topiramate,3,Adverse reactions,vLess-DILI-Concern,2,339.36,CC1(OC2COC3(C(C2O1)OC(O3)(C)C)COS(=O)(=O)N)C
+LT00457,trifluoperazine,2,Warnings and precautions,Ambiguous DILI-concern,1,407.5,CN1CCN(CC1)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)C(F)(F)F
+LT00460,triptorelin pamoate,3,Adverse reactions,vLess-DILI-Concern,2,1699.8,CC(C)CC(C(=O)NC(CCCN=C(N)N)C(=O)N1CCCC1C(=O)NCC(=O)N)NC(=O)C(CC2=CNC3=CC=CC=C32)NC(=O)C(CC4=CC=C(C=C4)O)NC(=O)C(CO)NC(=O)C(CC5=CNC6=CC=CC=C65)NC(=O)C(CC7=CN=CN7)NC(=O)C8CCC(=O)N8.C1=CC=C2C(=C1)C=C(C(=C2CC3=C(C(=CC4=CC=CC=C43)C(=O)O)O)O)C(=O)O
+LT00461,alatrofloxacin mesylate,8,Withdrawn,vMost-DILI-Concern,1,558.5,CC(C(=O)NC(C)C(=O)NC1C2C1CN(C2)C3=C(C=C4C(=O)C(=CN(C4=N3)C5=C(C=C(C=C5)F)F)C(=O)O)F)N
+LT00462,vorinostat,0,No match,vNo-DILI-Concern,2,360.43,CC(C)CC(C(=O)NCCCC[NH+]=C(N)N)NC(=O)C(CC(=O)O)O
+LT00463,sacrosidase,3,Adverse reactions,Ambiguous DILI-concern,2,192.25,CC1OC2=C(O1)C=C(C=C2)C(C)(C)C
+LT00464,doxercalciferol,3,Adverse reactions,Ambiguous DILI-concern,2,412.6,CC(C)C(C)C=CC(C)C1CCC2C1(CCCC2=CC=C3CC(CC(C3=C)O)O)C
+LT00465,nesiritide,0,No match,vNo-DILI-Concern,2,3464.0,CCC(C)C1C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NCC(=O)NC(C(=O)NCC(=O)NC(CSSCC(C(=O)NC(C(=O)NCC(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N1)CCCNC(=N)N)CC(=O)O)CCSC)CCCCN)CCCNC(=N)N)CC2=CC=CC=C2)NC(=O)CNC(=O)C(CO)NC(=O)CNC(=O)C(CCC(=O)N)NC(=O)C(C(C)C)NC(=O)C(CCSC)NC(=O)C(CCCCN)NC(=O)C3CCCN3C(=O)C(CO)N)C(=O)NC(CCCCN)C(=O)NC(C(C)C)C(=O)NC(CC(C)C)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCNC(=N)N)C(=O)NC(CC4C=NC=N4)C(=O)O)CC(C)C)CO)CO)CO)CO
+LT00475,ganirelix acetate,0,No match,vNo-DILI-Concern,2,1570.3,CCNC(=NCCCCC(C(=O)NC(CC(C)C)C(=O)NC(CCCCN=C(NCC)NCC)C(=O)N1CCCC1C(=O)NC(C)C(=O)N)NC(=O)C(CC2=CC=C(C=C2)O)NC(=O)C(CO)NC(=O)C(CC3=CN=CC=C3)NC(=O)C(CC4=CC=C(C=C4)Cl)NC(=O)C(CC5=CC6=CC=CC=C6C=C5)NC(=O)C)NCC
+LT00477,gemtuzumab ozogamicin,8,Box warning,vMost-DILI-Concern,1,ND,ND
+LT00478,methylprednisolone,3,Adverse reactions,vLess-DILI-Concern,2,374.5,CC1CC2C3CCC(C3(CC(C2C4(C1=CC(=O)C=C4)C)O)C)(C(=O)CO)O
+LT00480,gamma hydroxybutyric acid,0,No match,vNo-DILI-Concern,2,104.10,C(CC(=O)O)CO
+LT00482,l-glutamine,3,Adverse reactions,Ambiguous DILI-concern,2,146.14,C(CC(=O)N)C(C(=O)O)N
+LT00484,cetrorelix,3,Warnings and precautions,Ambiguous DILI-concern,2,171.24,CC(C)C1=NC=CC2=CC=CC=C21
+LT00485,tegaserod,3,Adverse reactions,Ambiguous DILI-concern,2,301.39,CCCCCN=C(N)NN=CC1=CNC2=C1C=C(C=C2)OC
+LT00488,penicillamine,2,Warnings and precautions,vLess-DILI-Concern,1,149.21,CC(C)(C(C(=O)O)N)S
+LT00492,pramlintide,0,No match,vNo-DILI-Concern,2,187.19,CN1C2=CC=CC=C2C(=CC1=O)C=O
+LT00493,lanthanum carbonate,0,No match,vNo-DILI-Concern,2,457.84,C(=O)([O-])[O-].C(=O)([O-])[O-].C(=O)([O-])[O-].[La+3].[La+3]
+LT00494,fomepizole,3,Warnings and precautions,Ambiguous DILI-concern,2,82.10,CC1=CNN=C1
+LT00498,acetazolamide,8,Warnings and precautions,vMost-DILI-Concern,2,222.3,CC(=O)NC1=NN=C(S1)S(=O)(=O)N
+LT00499,albendazole,7,Warnings and precautions,vMost-DILI-Concern,2,265.33,CCCSC1=CC2=C(C=C1)N=C(N2)NC(=O)OC
+LT00501,alprazolam,7,Adverse reactions,vLess-DILI-Concern,2,308.8,CC1=NN=C2N1C3=C(C=C(C=C3)Cl)C(=NC2)C4=CC=CC=C4
+LT00502,altretamine,2,Adverse reactions,Ambiguous DILI-concern,1,210.28,CN(C)C1=NC(=NC(=N1)N(C)C)N(C)C
+LT00503,amantadine,3,Warnings and precautions,Ambiguous DILI-concern,1,151.25,C1C2CC3CC1CC(C2)(C3)N
+LT00505,4-aminosalicylic acid,5,Warnings and precautions,vMost-DILI-Concern,1,153.14,C1=CC(=C(C=C1N)O)C(=O)O
+LT00507,amoxicillin,5,Adverse reactions,vLess-DILI-Concern,1,365.4,CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=C(C=C3)O)N)C(=O)O)C
+LT00511,atropine,0,No match,vNo-DILI-Concern,1,289.4,CN1C2CCC1CC(C2)OC(=O)C(CO)C3=CC=CC=C3
+LT00512,balsalazide,8,Adverse reactions,Ambiguous DILI-concern,2,128.09,C1C(=O)NC(=O)NC1=O
+LT00513,benoxaprofen,8,Withdrawn,vMost-DILI-Concern,1,301.72,CC(C1=CC2=C(C=C1)OC(=N2)C3=CC=C(C=C3)Cl)C(=O)O
+LT00515,emtricitabine,2,Warnings and precautions,Ambiguous DILI-concern,2,390.6,CCCCCCCCCC(=O)NC(CN1CCOCC1)C(C2=CC=CC=C2)O
+LT00516,trospium,0,No match,vNo-DILI-Concern,2,392.5,C1CC[N+]2(C1)C3CCC2CC(C3)OC(=O)C(C4=CC=CC=C4)(C5=CC=CC=C5)O
+LT00519,bromfenac,8,Withdrawn,vMost-DILI-Concern,1,334.16,C1=CC(=C(C(=C1)C(=O)C2=CC=C(C=C2)Br)N)CC(=O)O
+LT00528,gadofosveset trisodium,0,No match,vNo-DILI-Concern,2,975.9,C1CC(CCC1OP(=O)([O-])OCC(CN(CCN(CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])N(CC(=O)[O-])CC(=O)[O-])(C2=CC=CC=C2)C3=CC=CC=C3.O.[Na+].[Na+].[Na+].[Gd+3]
+LT00532,clonazepam,3,Adverse reactions,vLess-DILI-Concern,2,315.71,C1C(=O)NC2=C(C=C(C=C2)[N+](=O)[O-])C(=N1)C3=CC=CC=C3Cl
+LT00537,exenatide,0,No match,vNo-DILI-Concern,2,4187,CCC(C)C(C(=O)NC(CCC(=O)O)C(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)NC(CC(C)C)C(=O)NC(CCCCN)C(=O)NC(CC(=O)N)C(=O)NCC(=O)NCC(=O)N3CCCC3C(=O)NC(CO)C(=O)NC(CO)C(=O)NCC(=O)NC(C)C(=O)N4CCCC4C(=O)N5CCCC5C(=O)N6CCCC6C(=O)NC(CO)C(=O)N)NC(=O)C(CC7=CC=CC=C7)NC(=O)C(CC(C)C)NC(=O)C(CCCNC(=N)N)NC(=O)C(C(C)C)NC(=O)C(C)NC(=O)C(CCC(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(CCSC)NC(=O)C(CCC(=O)N)NC(=O)C(CCCCN)NC(=O)C(CO)NC(=O)C(CC(C)C)NC(=O)C(CC(=O)O)NC(=O)C(CO)NC(=O)C(C(C)O)NC(=O)C(CC8=CC=CC=C8)NC(=O)C(C(C)O)NC(=O)CNC(=O)C(CCC(=O)O)NC(=O)CNC(=O)C(CC9=CN=CN9)N
+LT00538,entecavir,7,Warnings and precautions,Ambiguous DILI-concern,2,277.28,C=C1C(CC(C1CO)O)N2C=NC3C2=NC(=NC3=O)N
+LT00539,danazol,8,Box warning,vMost-DILI-Concern,1,337.5,CC12CCC3C(C1CCC2(C#C)O)CCC4=CC5=C(CC34C)C=NO5
+LT00540,daunorubicin,0,No match,vNo-DILI-Concern,2,527.5,CC1C(C(CC(O1)OC2CC(CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)C)O)N)O
+LT00545,dimenhydrinate,0,No match,vNo-DILI-Concern,2,255.35,CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2
+LT00547,doxapram,0,No match,vNo-DILI-Concern,2,378.5,CCN1CC(C(C1=O)(C2=CC=CC=C2)C3=CC=CC=C3)CCN4CCOCC4
+LT00554,febuxostat,8,Warnings and precautions,vMost-DILI-Concern,2,44.10,CCC
+LT00557,granisetron,3,Adverse reactions,Ambiguous DILI-concern,2,312.4,CN1C2CCCC1CC(C2)NC(=O)C3=NN(C4=CC=CC=C43)C
+LT00558,griseofulvin,8,Warnings and precautions,vMost-DILI-Concern,1,352.8,CC1CC(=O)C=C(C12C(=O)C3=C(O2)C(=C(C=C3OC)OC)Cl)OC
+LT00559,hydralazine,3,Adverse reactions,vLess-DILI-Concern,2,160.18,C1=CC=C2C(=C1)C=NN=C2NN
+LT00560,ibufenac,8,Withdrawn,vMost-DILI-Concern,1,192.25,CC(C)CC1=CC=C(C=C1)CC(=O)O
+LT00562,ifosfamide,4,Adverse reactions,vLess-DILI-Concern,1,261.08,C1CN(P(=O)(OC1)NCCCl)CCCl
+LT00563,deferasirox,7,Box warning,vMost-DILI-Concern,1,373.4,C1=CC=C(C(=C1)C2=NN(C(=N2)C3=CC=CC=C3O)C4=CC=C(C=C4)C(=O)O)O
+LT00564,rufinamide,3,Warnings and precautions,Ambiguous DILI-concern,2,456.6,CCC(=O)OC1CC2C3CCC4=C(C3CCC2(C1OC(=O)CC)C)C=CC(=C4)OC(=O)CC
+LT00565,sunitinib,8,Box warning,vMost-DILI-Concern,1,398.5,CCN(CC)CCNC(=O)C1=C(NC(=C1C)C=C2C3=C(C=CC(=C3)F)NC2=O)C
+LT00568,ivermectin,3,Adverse reactions,vLess-DILI-Concern,2,875.1,CCC(C)C1C(CCC2(O1)CC3CC(O2)CC=C(C(C(C=CC=C4COC5C4(C(C=C(C5O)C)C(=O)O3)O)C)OC6CC(C(C(O6)C)OC7CC(C(C(O7)C)O)OC)OC)C)C
+LT00569,lamivudine,3,Warnings and precautions,vLess-DILI-Concern,1,229.26,C1C(OC(S1)CO)N2C=CC(=NC2=O)N
+LT00570,methylnaltrexone bromide,0,No match,vNo-DILI-Concern,2,436.3,C[N+]1(CCC23C4C(=O)CCC2(C1CC5=C3C(=C(C=C5)O)O4)O)CC6CC6.[Br-]
+LT00571,lisdexamfetamine,3,Adverse reactions,Ambiguous DILI-concern,2,455.6,CC(CC1=CC=CC=C1)NC(=O)C(CCCCN)N.CS(=O)(=O)O.CS(=O)(=O)O
+LT00572,letrozole,2,Warnings and precautions,vLess-DILI-Concern,2,500.6,CCC(=O)OC1(C(CC2C1(CC(C3(C2CC(C4=CC(=O)C=CC43C)F)F)O)C)C)C(=O)SCF
+LT00573,desvenlafaxine,3,Adverse reactions,vLess-DILI-Concern,2,358.8,CC1=NC=C(C=C1)C2=C(C=C(C=N2)Cl)C3=CC=C(C=C3)S(=O)(=O)C
+LT00574,lomefloxacin,4,Adverse reactions,Ambiguous DILI-concern,2,351.35,CCN1C=C(C(=O)C2=CC(=C(C(=C21)F)N3CCNC(C3)C)F)C(=O)O
+LT00575,lomustine,3,Warnings and precautions,vLess-DILI-Concern,2,233.69,C1CCC(CC1)NC(=O)N(CCCl)N=O
+LT00576,lovastatin,3,Warnings and precautions,vLess-DILI-Concern,1,458.5,C1C(C(C(C1O)C=CC(COC2=CC=CC(=C2)C(F)(F)F)O)CC=CCCCC(=O)O)O
+LT00577,telbivudine,2,Warnings and precautions,Ambiguous DILI-concern,2,242.23,CC1=CN(C(=O)NC1=O)C2CC(C(O2)CO)O
+LT00580,methimazole,8,Warnings and precautions,vMost-DILI-Concern,1,82.10,CN1C=CN=C1
+LT00581,methocarbamol,5,Adverse reactions,Ambiguous DILI-concern,2,241.24,COC1=CC=CC=C1OCC(COC(=O)N)O
+LT00584,metronidazole,3,No match,vLess-DILI-Concern,1,171.15,CC1=NC=C(N1CCO)[N+](=O)[O-]
+LT00587,minoxidil,0,No match,vNo-DILI-Concern,1,209.25,C1CCN(CC1)C2=NC(=N)N(C(=C2)N)O
+LT00588,mitomycin,0,No match,vLess-DILI-Concern,1,334.33,CC1=C(C(=O)C2=C(C1=O)N3CC4C(C3(C2COC(=O)N)OC)N4)N
+LT00589,modafinil,3,Warnings and precautions,vLess-DILI-Concern,2,273.4,C1=CC=C(C=C1)C(C2=CC=CC=C2)S(=O)CC(=O)N
+LT00590,fesoterodine,0,No match,vNo-DILI-Concern,2,411.6,CC(C)C(=O)OC1=C(C=C(C=C1)CO)C(CCN(C(C)C)C(C)C)C2=CC=CC=C2
+LT00592,naloxone,0,No match,vNo-DILI-Concern,2,327.4,C=CCN1CCC23C4C(=O)CCC2(C1CC5=C3C(=C(C=C5)O)O4)O
+LT00593,naproxen,3,Warnings and precautions,vLess-DILI-Concern,1,252.24,CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)[O-].[Na+]
+LT00594,nateglinide,3,Adverse reactions,Ambiguous DILI-concern,2,317.4,CC(C)C1CCC(CC1)C(=O)NC(CC2=CC=CC=C2)C(=O)O
+LT00595,neomycin,0,No match,vNo-DILI-Concern,1,614.6,C1C(C(C(C(C1N)OC2C(C(C(C(O2)CN)O)O)N)OC3C(C(C(O3)CO)OC4C(C(C(C(O4)CN)O)O)N)O)O)N
+LT00600,levocetirizine dihydrochloride,4,Adverse reactions,vLess-DILI-Concern,2,461.8,C1CN(CCN1CCOCC(=O)O)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl.Cl.Cl
+LT00602,nystatin,0,No match,vNo-DILI-Concern,1,926.1,CC1C=CC=CCCC=CC=CC=CC=CC(CC2C(C(CC(O2)(CC(C(CCC(CC(CC(CC(=O)OC(C(C1O)C)C)O)O)O)O)O)O)O)C(=O)O)OC3C(C(C(C(O3)C)O)N)O
+LT00605,oxytetracycline,2,Warnings and precautions,Ambiguous DILI-concern,1,958.9,CC1(C2C(C3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)[O-])C(=O)N)N(C)C)O)O.CC1(C2C(C3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)[O-])C(=O)N)N(C)C)O)O.[Ca+2]
+LT00606,pantoprazole,3,Adverse reactions,vLess-DILI-Concern,2,383.4,COC1=C(C(=NC=C1)CS(=O)C2=NC3=C(N2)C=C(C=C3)OC(F)F)OC
+LT00607,nilotinib,4,Warnings and precautions,Ambiguous DILI-concern,2,941.2,CC1CC(C2C(CC(C(O2)(C(=O)C(=O)N3CCCCC3C(=O)OC(C(C(CC(=O)C(C=C(C1)C)CCOC(=O)NCC4=CC=CC=C4)O)C)C(=CC5CCC(C(C5)OC)O)C)O)C)OC)OC
+LT00610,pralidoxime,3,Adverse reactions,Ambiguous DILI-concern,2,137.16,C[N+]1=CC=CC=C1C=NO
+LT00612,prednisolone,3,Adverse reactions,vLess-DILI-Concern,1,360.4,CC12CC(C3C(C1CCC2(C(=O)CO)O)CCC4=CC(=O)C=CC34C)O
+LT00613,primaquine,0,No match,vNo-DILI-Concern,1,259.35,CC(CCCN)NC1=C2C(=CC(=C1)OC)C=CC=N2
+LT00614,procarbazine,3,Warnings and precautions,vLess-DILI-Concern,2,221.30,CC(C)NC(=O)C1=CC=C(C=C1)CNNC
+LT00617,lanreotide acetate,2,Adverse reactions,Ambiguous DILI-concern,2,1156.4,CC(C)C1C(=O)NC(CSSCC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N1)CCCCN)CC2=CNC3=CC=CC=C32)CC4=CC=C(C=C4)O)NC(=O)C(CC5=CC6=CC=CC=C6C=C5)N)C(=O)NC(C(C)O)C(=O)N.CC(=O)O
+LT00618,ambrisentan,7,Adverse reactions,Ambiguous DILI-concern,1,273.4,C1=CC=C(C=C1)C(C2=CC=CC=C2)S(=O)CC(=O)N
+LT00623,doripenem,3,Adverse reactions,Ambiguous DILI-concern,2,420.5,CC1C2C(C(=O)N2C(=C1SC3CC(NC3)CNS(=O)(=O)N)C(=O)O)C(C)O
+LT00624,secobarbital,3,Warnings and precautions,Ambiguous DILI-concern,2,238.28,CCCC(C)C1(C(=O)NC(=O)NC1=O)CC=C
+LT00625,sertraline,3,Adverse reactions,vLess-DILI-Concern,1,306.2,CNC1CCC(C2=CC=CC=C12)C3=CC(=C(C=C3)Cl)Cl
+LT00627,sotalol,3,Adverse reactions,Ambiguous DILI-concern,2,272.37,CC(C)NCC(C1=CC=C(C=C1)NS(=O)(=O)C)O
+LT00628,streptozocin,3,Warnings and precautions,Ambiguous DILI-concern,1,265.22,CN(C(=O)NC(C=O)C(C(C(CO)O)O)O)N=O
+LT00632,sulfathiazole,8,Withdrawn,vMost-DILI-Concern,1,355.4,C1=CC(=CC=C1NC(=O)CCC(=O)O)S(=O)(=O)NC2=NC=CS2
+LT00634,terbinafine,8,Warnings and precautions,vMost-DILI-Concern,1,291.4,CC(C)(C)C#CC=CCN(C)CC1=CC=CC2=CC=CC=C21
+LT00635,thiabendazole,7,Warnings and precautions,vMost-DILI-Concern,2,201.25,C1=CC=C2C(=C1)NC(=N2)C3=CSC=N3
+LT00636,ticrynafen,8,Withdrawn,vMost-DILI-Concern,1,331.2,C1=CSC(=C1)C(=O)C2=C(C(=C(C=C2)OCC(=O)O)Cl)Cl
+LT00637,tinidazole,3,Adverse reactions,vLess-DILI-Concern,2,247.27,CCS(=O)(=O)CCN1C(=NC=C1[N+](=O)[O-])C
+LT00639,torasemide,2,Warnings and precautions,Ambiguous DILI-concern,2,348.4,CC1=CC(=CC=C1)NC2=C(C=NC=C2)S(=O)(=O)NC(=O)NC(C)C
+LT00640,maraviroc,3,Box warning,vMost-DILI-Concern,1,591.8,CCCCCCCCCC(=O)OCCN1CCN(CC1)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)C(F)(F)F
+LT00642,raltegravir,7,Warnings and precautions,vMost-DILI-Concern,2,327.8,CC(C1=CC=CC=C1)(C(CC2=CC=C(C=C2)Cl)N3C=NC=N3)O
+LT00644,clevidipine,0,No match,vNo-DILI-Concern,2,456.3,CCCC(=O)OCOC(=O)C1=C(NC(=C(C1C2=C(C(=CC=C2)Cl)Cl)C(=O)OC)C)C
+LT00645,trovafloxacin,8,Withdrawn,vMost-DILI-Concern,1,416.4,C1C2C(C2N)CN1C3=C(C=C4C(=O)C(=CN(C4=N3)C5=C(C=C(C=C5)F)F)C(=O)O)F
+LT00646,regadenoson,0,No match,vNo-DILI-Concern,2,390.35,CNC(=O)C1=CN(N=C1)C2=NC(=C3C(=N2)N(C=N3)C4C(C(C(O4)CO)O)O)N
+LT00647,warfarin,5,Adverse reactions,vLess-DILI-Concern,1,307.3,CC(=O)CC(C1=CC=CC=C1)C2=C(C3=CC=CC=C3OC2=O)[O-]
+LT00648,zaleplon,0,No match,vNo-DILI-Concern,2,305.33,CCN(C1=CC=CC(=C1)C2=CC=NC3=C(C=NN23)C#N)C(=O)C
+LT00649,zileuton,5,Warnings and precautions,vMost-DILI-Concern,1,236.29,CC(C1=CC2=CC=CC=C2S1)N(C(=O)N)O
+LT00650,ferumoxytol,0,No match,vNo-DILI-Concern,2,233.55,O[Fe]=O.O[Fe]=O.[Fe]
+LT00653,etravirine,8,Warnings and precautions,vMost-DILI-Concern,2,435.3,CC1=CC(=CC(=C1OC2=NC(=NC(=C2Br)N)NC3=CC=C(C=C3)C#N)C)C#N
+LT00654,iloperidone,2,Adverse reactions,Ambiguous DILI-concern,2,426.5,CC(=O)C1=CC(=C(C=C1)OCCCN2CCC(CC2)C3=NOC4=C3C=CC(=C4)F)OC
+LT00655,degarelix,3,Adverse reactions,Ambiguous DILI-concern,2,1632.3,CC(C)CC(C(=O)NC(CCCCNC(C)C)C(=O)N1CCCC1C(=O)NC(C)C(=O)N)NC(=O)C(CC2=CC=C(C=C2)NC(=O)N)NC(=O)C(CC3=CC=C(C=C3)NC(=O)C4CC(=O)NC(=O)N4)NC(=O)C(CO)NC(=O)C(CC5=CN=CC=C5)NC(=O)C(CC6=CC=C(C=C6)Cl)NC(=O)C(CC7=CC8=CC=CC=C8C=C7)NC(=O)C
+LT00656,silodosin,3,Adverse reactions,Ambiguous DILI-concern,2,495.5,CC(CC1=CC2=C(C(=C1)C(=O)N)N(CC2)CCCO)NCCOC3=CC=CC=C3OCC(F)(F)F
+LT00658,fospropofol,0,No match,vLess-DILI-Concern,2,332.24,CC(C)C1=C(C(=CC=C1)C(C)C)OCOP(=O)([O-])[O-].[Na+].[Na+]
+LT00659,bendamustine,0,No match,vNo-DILI-Concern,2,358.3,CN1C2=C(C=C(C=C2)N(CCCl)CCCl)N=C1CCCC(=O)O
+LT00660,lacosamide,3,Warnings and precautions,Ambiguous DILI-concern,2,250.29,CC(=O)NC(COC)C(=O)NCC1=CC=CC=C1
+LT00661,tolvaptan,8,Warnings and precautions,vMost-DILI-Concern,2,308.5,CCCCCCCCCCCC=CCC=CCCCC(=O)O
+LT00663,eltrombopag olamine,4,Box warning,vMost-DILI-Concern,1,564.6,CC1=C(C=C(C=C1)N2C(=O)C(=C(N2)C)N=NC3=CC=CC(=C3O)C4=CC(=CC=C4)C(=O)O)C.C(CO)N.C(CO)N
+LT00664,tapentadol,0,No match,vNo-DILI-Concern,2,221.34,CCC(C1=CC(=CC=C1)O)C(C)CN(C)C
+LT00665,prasugrel hydrochloride,0,No match,vLess-DILI-Concern,2,373.4,CC(=O)OC1=CC2=C(S1)CCN(C2)C(C3=CC=CC=C3F)C(=O)C4CC4
+LT00667,saxagliptin,0,No match,vNo-DILI-Concern,2,118.14,C1=CC=C(C(=C1)C#N)N
+LT00668,pitavastatin,3,Warnings and precautions,Ambiguous DILI-concern,2,421.5,C1CC1C2=NC3=CC=CC=C3C(=C2C=CC(CC(CC(=O)O)O)O)C4=CC=C(C=C4)F
+LT00669,romidepsin,0,No match,vNo-DILI-Concern,2,540.7,CC=C1C(=O)NC(C(=O)OC2CC(=O)NC(C(=O)NC(CSSCCC=C2)C(=O)N1)C(C)C)C(C)C
+LT00670,fenofibric acid,2,Warnings and precautions,Ambiguous DILI-concern,2,360.8,CC(C)OC(=O)C(C)(C)OC1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)Cl
+LT00671,dronedarone,7,Warnings and precautions,vMost-DILI-Concern,2,556.8,CCCCC1=C(C2=C(O1)C=CC(=C2)NS(=O)(=O)C)C(=O)C3=CC=C(C=C3)OCCCN(CCCC)CCCC
+LT00672,pazopanib,8,Box warning,vMost-DILI-Concern,1,437.5,CC1=C(C=C(C=C1)NC2=NC=CC(=N2)N(C)C3=CC4=NN(C(=C4C=C3)C)C)S(=O)(=O)N
+LT00673,pralatrexate,3,Warnings and precautions,Ambiguous DILI-concern,2,290.36,CCOC(=O)C1=CC=C(C=C1)NC(=O)CN2CCCCC2
+LT00674,pancrelipase,0,No match,vNo-DILI-Concern,2,230.13,C1CC2C(C(C1O2)C(=O)[O-])C(=O)[O-].[Na+].[Na+]
+LT00677,estropipate,2,Adverse reactions,Ambiguous DILI-concern,2,436.6,CC12CCC3C(C1CCC2=O)CCC4=C3C=CC(=C4)OS(=O)(=O)O.C1CNCCN1
+LT00682,dexchlorpheniramine,0,No match,vNo-DILI-Concern,2,274.79,CN(C)CCC(C1=CC=C(C=C1)Cl)C2=CC=CC=N2
+LT00683,ecallantide,0,No match,vNo-DILI-Concern,2,7054,CCC(C)C1C(=O)NC(C(=O)NCC(=O)NCC(=O)NC2CSSCC3C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N4CCCC4C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(CSSCC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(CSSCC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NCC(=O)N5CCCC5C(=O)N3)CC(=O)O)CC(=O)O)C)CCCCN)CC6=CC=CC=C6)C)NC(=O)C(CC7=CC=CC=C7)NC(=O)C(CO)NC(=O)C(CC8=CN=CN8)NC(=O)C(CCSC)NC(=O)C(C)NC(=O)C(CCC(=O)O)N)C(=O)NC(C(C)O)C(=O)NC(CCCNC(=N)N)C(=O)NC(CC(=O)O)C(=O)O)CCSC)CCCCN)CCCCN)NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)CNC(=O)C(NC2=O)CCC(=O)O)CC(=O)N)CCC(=O)N)CC(=O)N)CCCNC(=N)N)CC9=CC=CC=C9)CCC(=O)O)CO)CC(C)C)CCC(=O)O)CCC(=O)O)C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N1)CC1=CC=CC=C1)CCC(=O)O)CCC(=O)O)CCC(=O)N)CCCNC(=N)N)C(C)O)CC1=CC=CC=C1)C(C)CC)CC(=O)N)CC1=CC=CC=C1)CC1=CC=CC=C1)CC1=CNC2=CC=CC=C21)CCCNC(=N)N)CC1=CN=CN1)C)C)CCCNC(=N)N)CC1=CC=C(C=C1)O
+LT00684,divalproex sodium,8,Box warning,vMost-DILI-Concern,2,274.4,CCOP(=S)(OCC)SCCSCC
+LT00686,lumiracoxib,8,Withdrawn,vMost-DILI-Concern,1,293.72,CC1=CC(=C(C=C1)NC2=C(C=CC=C2Cl)F)CC(=O)O
+LT00687,tasosartan,8,Discontinued,vMost-DILI-Concern,1,411.5,CC1=C2CCC(=O)N(C2=NC(=N1)C)CC3=CC=C(C=C3)C4=CC=CC=C4C5=NNN=N5
+LT00690,oxyphenisatin,8,Withdrawn,vMost-DILI-Concern,1,401.4,CC(=O)OC1=CC=C(C=C1)C2(C3=CC=CC=C3NC2=O)C4=CC=C(C=C4)OC(=O)C
+LT00691,tilbroquinol,8,Withdrawn,vMost-DILI-Concern,1,238.08,CC1=CC(=C(C2=C1C=CC=N2)O)Br
+LT00692,alclofenac,8,Withdrawn,vMost-DILI-Concern,1,226.65,C=CCOC1=C(C=C(C=C1)CC(=O)O)Cl
+LT00693,aplaviroc,8,Discontinued,vMost-DILI-Concern,1,577.7,CCCCN1C(=O)C(NC(=O)C12CCN(CC2)CC3=CC=C(C=C3)OC4=CC=C(C=C4)C(=O)O)C(C5CCCCC5)O
+LT00694,clomacran,8,Withdrawn,vMost-DILI-Concern,1,300.8,CN(C)CCCC1C2=CC=CC=C2NC3=C1C=C(C=C3)Cl
+LT00695,dermatan,8,Discontinued,vMost-DILI-Concern,1,475.4,CC(=O)NC1C(C(C(OC1O)CO)OS(=O)(=O)[O-])OC2C(C(C(C(O2)C(=O)[O-])O)O)O
+LT00696,isaxonine,8,Withdrawn,vMost-DILI-Concern,1,137.18,CC(C)NC1=NC=CC=N1
+LT00697,pipamazine,8,Withdrawn,vMost-DILI-Concern,1,402.0,C1CN(CCC1C(=O)N)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)Cl
+LT00698,pralnacasan,8,Discontinued,vMost-DILI-Concern,1,523.5,CCOC1C(CC(=O)O1)NC(=O)C2CCCN3N2C(=O)C(CCC3=O)NC(=O)C4=NC=CC5=CC=CC=C54
+LT00699,sulfacarbamide,8,Withdrawn,vMost-DILI-Concern,1,215.23,C1=CC(=CC=C1N)S(=O)(=O)NC(=O)N
+LT00700,triacetyldiphenolisatin,8,Withdrawn,vMost-DILI-Concern,1,443.4,CC(=O)N1C2=CC=CC=C2C(C1=O)(C3=CC=C(C=C3)OC(=O)C)C4=CC=C(C=C4)OC(=O)C
+LT00701,fiduxosin,8,Discontinued,vMost-DILI-Concern,1,555.6,COC1=CC=CC2=C1C3CN(CC3CO2)CCCCN4C(=O)C5=C(C6=NC(=CN=C6S5)C7=CC=CC=C7)NC4=O
+LT00702,pafuraidine,8,Discontinued,vMost-DILI-Concern,1,ND,ND
+LT00703,phenoxypropazine,8,Withdrawn,vMost-DILI-Concern,1,166.22,CC(COC1=CC=CC=C1)NN
+LT00706,histamine diphosphate,0,No match,vNo-DILI-Concern,2,111.15,C1=C(NC=N1)CCN
+LT00707,butabarbital,3,Adverse reactions,Ambiguous DILI-concern,2,212.25,CCC(C)C1(C(=O)NC(=O)NC1=O)CC
+LT00708,guanidine,3,Adverse reactions,Ambiguous DILI-concern,2,59.07,C(=N)(N)N
+LT00711,aminophylline,0,No match,vNo-DILI-Concern,2,180.16,CN1C2=C(C(=O)N(C1=O)C)NC=N2
+LT00713,meperidine,0,No match,vNo-DILI-Concern,2,247.33,CCOC(=O)C1(CCN(CC1)C)C2=CC=CC=C2
+LT00716,methamphetamine,0,No match,vNo-DILI-Concern,2,149.23,CC(CC1=CC=CC=C1)NC
+LT00723,methadone,3,Adverse reactions,Ambiguous DILI-concern,2,309.4,CCC(=O)C(CC(C)N(C)C)(C1=CC=CC=C1)C2=CC=CC=C2
+LT00725,hyaluronidase,0,No match,vNo-DILI-Concern,2,342.3,C1OC2=C(O1)C=C(C=C2)C(CC(=O)C3=CC4=C(C=C3)OCO4)C(=O)O
+LT00727,doxylamine,0,No match,vNo-DILI-Concern,2,270.37,CC(C1=CC=CC=C1)(C2=CC=CC=N2)OCCN(C)C
+LT00728,protamine sulfate,0,No match,vNo-DILI-Concern,2,151.21,CCCC1=CC(=NC(=N1)C)N
+LT00730,bethanechol,0,No match,vNo-DILI-Concern,1,161.22,CC(C[N+](C)(C)C)OC(=O)N
+LT00734,cortisone acetate,0,No match,vNo-DILI-Concern,2,402.5,CC(=O)OCC(=O)C1(CCC2C1(CC(=O)C3C2CCC4=CC(=O)CCC34C)C)O
+LT00737,dicyclomine,0,No match,vNo-DILI-Concern,2,309.5,CCN(CC)CCOC(=O)C1(CCCCC1)C2CCCCC2
+LT00738,norepinephrine,0,No match,vNo-DILI-Concern,1,169.18,C1=CC(=C(C=C1C(CN)O)O)O
+LT00740,dyphylline,0,No match,vNo-DILI-Concern,2,254.24,CN1C2=C(C(=O)N(C1=O)C)N(C=N2)CC(CO)O
+LT00742,epinephrine,0,No match,vNo-DILI-Concern,1,183.20,CNCC(C1=CC(=C(C=C1)O)O)O
+LT00749,succinylcholine,0,No match,vNo-DILI-Concern,1,290.40,C[N+](C)(C)CCOC(=O)CCC(=O)OCC[N+](C)(C)C
+LT00751,thyrotropin alfa,0,No match,vNo-DILI-Concern,2,362.38,C1CC(N(C1)C(=O)C(CC2=CN=CN2)NC(=O)C3CCC(=O)N3)C(=O)N
+LT00752,levorphanol,0,No match,vNo-DILI-Concern,2,257.37,CN1CCC23CCCCC2C1CC4=C3C=C(C=C4)O
+LT00753,propantheline,0,No match,vNo-DILI-Concern,2,368.5,CC(C)[N+](C)(CCOC(=O)C1C2=CC=CC=C2OC3=CC=CC=C13)C(C)C
+LT00759,carbinoxamine,0,No match,vNo-DILI-Concern,1,290.79,CN(C)CCOC(C1=CC=C(C=C1)Cl)C2=CC=CC=N2
+LT00760,edetic acid,3,Warnings and precautions,Ambiguous DILI-concern,2,292.24,C(CN(CC(=O)O)CC(=O)O)N(CC(=O)O)CC(=O)O
+LT00774,diatrizoate,0,No match,vNo-DILI-Concern,2,613.91,CC(=O)NC1=C(C(=C(C(=C1I)C(=O)O)I)NC(=O)C)I
+LT00780,phytonadione,0,No match,vNo-DILI-Concern,2,450.7,CC1=C(C(=O)C2=CC=CC=C2C1=O)CC=C(C)CCCC(C)CCCC(C)CCCC(C)C
+LT00781,mecamylamine,0,No match,vNo-DILI-Concern,2,167.29,CC1(C2CCC(C2)C1(C)NC)C
+LT00783,liothyronine,0,No match,vNo-DILI-Concern,1,650.97,C1=CC(=C(C=C1OC2=C(C=C(C=C2I)CC(C(=O)O)N)I)I)O
+LT00787,methsuximide,0,No match,vNo-DILI-Concern,2,203.24,CC1(CC(=O)N(C1=O)C)C2=CC=CC=C2
+LT00790,mepenzolate,0,No match,vNo-DILI-Concern,2,340.4,C[N+]1(CCCC(C1)OC(=O)C(C2=CC=CC=C2)(C3=CC=CC=C3)O)C
+LT00792,meclizine,0,No match,vNo-DILI-Concern,1,390.9,CC1=CC(=CC=C1)CN2CCN(CC2)C(C3=CC=CC=C3)C4=CC=C(C=C4)Cl
+LT00795,ethotoin,3,Warnings and precautions,Ambiguous DILI-concern,2,204.22,CCN1C(=O)C(NC1=O)C2=CC=CC=C2
+LT00798,triprolidine,0,No match,vNo-DILI-Concern,2,278.4,CC1=CC=C(C=C1)C(=CCN2CCCC2)C3=CC=CC=N3
+LT00800,benzonatate,0,No match,vLess-DILI-Concern,1,603.7,CCCCNC1=CC=C(C=C1)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOC
+LT00801,Sodium polystyrene sulfonate,0,No match,vNo-DILI-Concern,2,184.21,C=CC1=CC=C(C=C1)S(=O)(=O)O
+LT00802,dichlorphenamide,0,No match,vNo-DILI-Concern,2,305.2,C1=C(C=C(C(=C1S(=O)(=O)N)Cl)Cl)S(=O)(=O)N
+LT00803,methohexital,3,Adverse reactions,Ambiguous DILI-concern,2,262.30,CCC#CC(C)C1(C(=O)NC(=O)N(C1=O)C)CC=C
+LT00805,phentermine,0,No match,vLess-DILI-Concern,1,149.23,CC(C)(CC1=CC=CC=C1)N
+LT00806,diethylpropion,0,No match,vNo-DILI-Concern,2,205.30,CCN(CC)C(C)C(=O)C1=CC=CC=C1
+LT00808,oxymorphone,0,No match,vNo-DILI-Concern,2,301.34,CN1CCC23C4C(=O)CCC2(C1CC5=C3C(=C(C=C5)O)O4)O
+LT00810,dexbrompheniramine,0,No match,vNo-DILI-Concern,2,319.24,CN(C)CCC(C1=CC=C(C=C1)Br)C2=CC=CC=N2
+LT00814,hydroflumethiazide,2,Adverse reactions,Ambiguous DILI-concern,2,331.3,C1NC2=C(C=C(C(=C2)C(F)(F)F)S(=O)(=O)N)S(=O)(=O)N1
+LT00817,biperiden,0,No match,vNo-DILI-Concern,1,311.5,C1CCN(CC1)CCC(C2CC3CC2C=C3)(C4=CC=CC=C4)O
+LT00818,isosorbide dinitrate,0,No match,vNo-DILI-Concern,2,62.005,[N+](=O)([O-])[O-]
+LT00822,mepivacaine,0,No match,vNo-DILI-Concern,2,246.35,CC1=C(C(=CC=C1)C)NC(=O)C2CCCCN2C
+LT00825,bendroflumethiazide,5,Adverse reactions,vLess-DILI-Concern,2,421.4,C1=CC=C(C=C1)CC2NC3=C(C=C(C(=C3)C(F)(F)F)S(=O)(=O)N)S(=O)(=O)N2
+LT00826,phendimetrazine,0,No match,vNo-DILI-Concern,1,191.27,CC1C(OCCN1C)C2=CC=CC=C2
+LT00827,oxytocin,0,No match,vNo-DILI-Concern,2,1007.2,CCC(C)C1C(=O)NC(C(=O)NC(C(=O)NC(CSSCC(C(=O)NC(C(=O)N1)CC2=CC=C(C=C2)O)N)C(=O)N3CCCC3C(=O)NC(CC(C)C)C(=O)NCC(=O)N)CC(=O)N)CCC(=O)N
+LT00829,guanethidine,0,No match,vNo-DILI-Concern,1,198.31,C1CCCN(CCC1)CCN=C(N)N
+LT00831,ethosuximide,3,Warnings and precautions,Ambiguous DILI-concern,2,141.17,CCC1(CC(=O)NC1=O)C
+LT00832,benzphetamine,0,No match,vNo-DILI-Concern,1,239.35,CC(CC1=CC=CC=C1)N(C)CC2=CC=CC=C2
+LT00833,methyclothiazide,2,Adverse reactions,Ambiguous DILI-concern,2,360.2,CN1C(NC2=CC(=C(C=C2S1(=O)=O)S(=O)(=O)N)Cl)CCl
+LT00836,glycopyrrolate,0,No match,vNo-DILI-Concern,2,318.4,C[N+]1(CCC(C1)OC(=O)C(C2CCCC2)(C3=CC=CC=C3)O)C
+LT00838,metyrapone,0,No match,vNo-DILI-Concern,1,226.27,CC(C)(C1=CN=CC=C1)C(=O)C2=CN=CC=C2
+LT00841,metaxalone,5,Adverse reactions,vLess-DILI-Concern,2,221.25,CC1=CC(=CC(=C1)OCC2CNC(=O)O2)C
+LT00845,oxandrolone,8,Box warning,vMost-DILI-Concern,1,306.4,CC12CCC3C(C1CCC2(C)O)CCC4C3(COC(=O)C4)C
+LT00847,oxazepam,5,Adverse reactions,Ambiguous DILI-concern,2,286.71,C1=CC=C(C=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Cl)O
+LT00848,protriptyline,0,No match,vNo-DILI-Concern,2,263.4,CNCCCC1C2=CC=CC=C2C=CC3=CC=CC=C13
+LT00855,cosyntropin,0,No match,vNo-DILI-Concern,2,2933.4,CC(C)C(C(=O)NCC(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCNC(=N)N)C(=O)N1CCCC1C(=O)NC(C(C)C)C(=O)NC(CCCCN)C(=O)NC(C(C)C)C(=O)NC(CC2=CC=C(C=C2)O)C(=O)N3CCCC3C(=O)O)NC(=O)C4CCCN4C(=O)C(CCCCN)NC(=O)CNC(=O)C(CC5=CNC6=CC=CC=C65)NC(=O)C(CCCNC(=N)N)NC(=O)C(CC7=CC=CC=C7)NC(=O)C(CC8=CNC=N8)NC(=O)C(CCC(=O)O)NC(=O)C(CCSC)NC(=O)C(CO)NC(=O)C(CC9=CC=C(C=C9)O)NC(=O)C(CO)N
+LT00857,flavoxate,0,No match,vNo-DILI-Concern,1,391.5,CC1=C(OC2=C(C1=O)C=CC=C2C(=O)OCCN3CCCCC3)C4=CC=CC=C4
+LT00859,ketamine,0,No match,vLess-DILI-Concern,1,237.72,CNC1(CCCCC1=O)C2=CC=CC=C2Cl
+LT00865,diazoxide,3,Warnings and precautions,Ambiguous DILI-concern,2,230.67,CC1=NS(=O)(=O)C2=C(N1)C=CC(=C2)Cl
+LT00867,pancuronium,0,No match,vNo-DILI-Concern,2,572.9,CC(=O)OC1CC2CCC3C(C2(CC1[N+]4(CCCCC4)C)C)CCC5(C3CC(C5OC(=O)C)[N+]6(CCCCC6)C)C
+LT00869,pentagastrin,0,No match,vNo-DILI-Concern,2,767.9,CC(C)(C)OC(=O)NCCC(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)NC(CCSC)C(=O)NC(CC(=O)O)C(=O)NC(CC3=CC=CC=C3)C(=O)N
+LT00870,dextroamphetamine,0,No match,vNo-DILI-Concern,2,135.21,CC(CC1=CC=CC=C1)N
+LT00877,terbutaline,3,Adverse reactions,vLess-DILI-Concern,2,225.28,CC(C)(C)NCC(C1=CC(=CC(=C1)O)O)O
+LT00878,calcitonin salmon,0,No match,vNo-DILI-Concern,2,3431.9,CC(C)CC1C(=O)NC(C(=O)NC(C(=O)NC(CSSCC(C(=O)NC(C(=O)NC(C(=O)N1)CC(=O)N)CO)N)C(=O)NC(C(C)C)C(=O)NC(CC(C)C)C(=O)NCC(=O)NC(CCCCN)C(=O)NC(CC(C)C)C(=O)NC(CO)C(=O)NC(CCC(=O)N)C(=O)NC(CCC(=O)O)C(=O)NC(CC(C)C)C(=O)NC(CC2=CN=CN2)C(=O)NC(CCCCN)C(=O)NC(CC(C)C)C(=O)NC(CCC(=O)N)C(=O)NC(C(C)O)C(=O)NC(CC3=CC=C(C=C3)O)C(=O)N4CCCC4C(=O)NC(CCCNC(=N)N)C(=O)NC(C(C)O)C(=O)NC(CC(=O)N)C(=O)NC(C(C)O)C(=O)NCC(=O)NC(CO)C(=O)NCC(=O)NC(C(C)O)C(=O)N5CCCC5C(=O)N)C(C)O)CO
+LT00879,pentetic acid,0,No match,vNo-DILI-Concern,2,393.35,C(CN(CC(=O)O)CC(=O)O)N(CCN(CC(=O)O)CC(=O)O)CC(=O)O
+LT00880,nitroprusside,0,No match,vNo-DILI-Concern,2,215.94,[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[N-]=O.[Fe+6]
+LT00881,colestipol,3,Adverse reactions,Ambiguous DILI-concern,2,189.30,C(CNCCNCCNCCN)N
+LT00886,lactulose,0,No match,vNo-DILI-Concern,1,342.30,C(C1C(C(C(C(O1)OC2C(OC(C2O)(CO)O)CO)O)O)O)O
+LT00888,somatropin recombinant,0,No match,vNo-DILI-Concern,2,5234,CCC(C)C(C(=O)NC(CC1=CC=CC=C1)C(=O)NC(C(C)O)C(=O)NC(CO)C(=O)NC(CO)C(=O)NC(CC2=CC=C(C=C2)O)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCNC(=N)N)C(=O)NC(C(C)CC)C(=O)NC(CC(C)C)C(=O)NCC(=O)NC(CCC(=O)N)C(=O)NC(CC(C)C)C(=O)NC(CC3=CC=C(C=C3)O)C(=O)NC(C)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCCN)C(=O)NC(CC(C)C)C(=O)NC(CC(C)C)C(=O)NC(CC4=CN=CN4)C(=O)NC(CCC(=O)O)C(=O)NC(C(C)CC)C(=O)NC(CCSC)C(=O)NC(CC(=O)O)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCC(=O)N)C(=O)NC(CCC(=O)N)C(=O)NCC(=O)NC(CCC(=O)O)C(=O)NC(CCCNC(=N)N)C(=O)NC(CC(=O)N)C(=O)NC(CCC(=O)N)C(=O)NC(CCC(=O)O)C(=O)NC(CCC(=O)N)C(=O)NC(CCCNC(=N)N)C(=O)NC(CO)C(=O)NC(CCCNC(=N)N)C(=O)NC(CC5=CC=CC=C5)C(=O)NC(CC(=O)N)C(=O)O)NC(=O)C(C)NC(=O)C(CC(=O)O)NC(=O)C(C)NC(=O)C(CC6=CN=CN6)N
+LT00894,fluorescein,0,No match,vNo-DILI-Concern,2,332.3,C1=CC=C(C(=C1)C2=C3C=CC(=O)C=C3OC4=C2C=CC(=C4)O)C(=O)O
+LT00895,metyrosine,0,No match,vNo-DILI-Concern,1,195.21,CC(CC1=CC=C(C=C1)O)(C(=O)O)N
+LT00896,desmopressin,3,Adverse reactions,Ambiguous DILI-concern,2,1069.2,C1CC(N(C1)C(=O)C2CSSCCC(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N2)CC(=O)N)CCC(=O)N)CC3=CC=CC=C3)CC4=CC=C(C=C4)O)C(=O)NC(CCCN=C(N)N)C(=O)NCC(=O)N
+LT00898,carboprost tromethamine,0,No match,vNo-DILI-Concern,2,489.6,CCCCCC(C)(C=CC1C(CC(C1CC=CCCCC(=O)O)O)O)O.C(C(CO)(CO)N)O
+LT00899,calcitriol,0,No match,vNo-DILI-Concern,2,416.6,CC(CCCC(C)(C)O)C1CCC2C1(CCCC2=CC=C3CC(CC(C3=C)O)O)C
+LT00905,morphine,0,No match,vNo-DILI-Concern,2,285.34,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(C=C4)O
+LT00909,marinol,3,Adverse reactions,Ambiguous DILI-concern,2,314.5,CCCCCC1=CC(=C2C3C=C(CCC3C(OC2=C1)(C)C)C)O
+LT00910,nabilone,0,No match,vNo-DILI-Concern,2,372.5,CCCCCCC(C)(C)C1=CC(=C2C3CC(=O)CCC3C(OC2=C1)(C)C)O
+LT00913,acetohydroxamic acid,3,Warnings and precautions,Ambiguous DILI-concern,2,75.07,CC(=O)NO
+LT00916,vecuronium,0,No match,vNo-DILI-Concern,2,637.7,CC(=O)OC1CC2CCC3C(C2(CC1N4CCCCC4)C)CCC5(C3CC(C5OC(=O)C)[N+]6(CCCCC6)C)C.[Br-]
+LT00917,atracurium,0,No match,vNo-DILI-Concern,1,929.1,C[N+]1(CCC2=CC(=C(C=C2C1CC3=CC(=C(C=C3)OC)OC)OC)OC)CCC(=O)OCCCCCOC(=O)CC[N+]4(CCC5=CC(=C(C=C5C4CC6=CC(=C(C=C6)OC)OC)OC)OC)C
+LT00919,hydromorphone,3,Adverse reactions,Ambiguous DILI-concern,2,285.34,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(=O)CC4
+LT00920,sufentanil,0,No match,vNo-DILI-Concern,2,386.6,CCC(=O)N(C1=CC=CC=C1)C2(CCN(CC2)CCC3=CC=CS3)COC
+LT00922,misoprostol,3,Adverse reactions,Ambiguous DILI-concern,2,382.5,CCCCC(C)(CC=CC1C(CC(=O)C1CCCCCCC(=O)OC)O)O
+LT00923,tranexamic acid,0,No match,vNo-DILI-Concern,1,283.11,C1=CC(=CN=C1)CC(O)(P(=O)(O)O)P(=O)(O)O
+LT00925,alfentanil,0,No match,vNo-DILI-Concern,2,416.5,CCC(=O)N(C1=CC=CC=C1)C2(CCN(CC2)CCN3C(=O)N(N=N3)CC)COC
+LT00926,ethanolamine oleate,0,No match,vNo-DILI-Concern,1,343.5,CCCCCCCCC=CCCCCCCCC(=O)O.C(CO)N
+LT00928,rubidium chloride rb-82,0,No match,vNo-DILI-Concern,2,117.37,[Cl-].[Rb+]
+LT00929,urofollitropin,0,No match,vNo-DILI-Concern,2,980.2,CCC(C)C1C(=O)NC(C(=O)NC(C(=O)NC(CSSCC(C(=O)NC(C(=O)N1)CC2=CC=C(C=C2)O)N)C(=O)N3CCCC3C(=O)NC(CC(C)C)C(=O)NCC(=O)N)CC(=O)N)C(C)O
+LT00931,milrinone,3,Adverse reactions,Ambiguous DILI-concern,2,211.22,CC1=C(C=C(C(=O)N1)C#N)C2=CC=NC=C2
+LT00932,teriparatide,0,No match,vNo-DILI-Concern,2,4118,CCC(C)C(C(=O)NC(CCC(=O)N)C(=O)NC(CC(C)C)C(=O)NC(CCSC)C(=O)NC(CC1=CNC=N1)C(=O)NC(CC(=O)N)C(=O)NC(CC(C)C)C(=O)NCC(=O)NC(CCCCN)C(=O)NC(CC2=CNC=N2)C(=O)NC(CC(C)C)C(=O)NC(CC(=O)N)C(=O)NC(CO)C(=O)NC(CCSC)C(=O)NC(CCC(=O)O)C(=O)NC(CCCNC(=N)N)C(=O)NC(C(C)C)C(=O)NC(CCC(=O)O)C(=O)NC(CC3=CNC4=CC=CC=C43)C(=O)NC(CC(C)C)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(CC(C)C)C(=O)NC(CCC(=O)N)C(=O)NC(CC(=O)O)C(=O)NC(C(C)C)C(=O)NC(CC5=CNC=N5)C(=O)NC(CC(=O)N)C(=O)NC(CC6=CC=CC=C6)C(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(CO)NC(=O)C(C(C)C)NC(=O)C(CO)N
+LT00933,l-cysteine,3,Warnings and precautions,Ambiguous DILI-concern,2,121.16,C(C(C(=O)O)N)S
+LT00935,gadopentetate dimeglumine,0,No match,vNo-DILI-Concern,2,938.0,CNCC(C(C(C(CO)O)O)O)O.CNCC(C(C(C(CO)O)O)O)O.C(CN(CC(=O)O)CC(=O)[O-])N(CCN(CC(=O)O)CC(=O)[O-])CC(=O)[O-].[Gd+3]
+LT00937,rimantadine,0,No match,vNo-DILI-Concern,2,179.30,CC(C12CC3CC(C1)CC(C3)C2)N
+LT00939,goserelin,3,Adverse reactions,Ambiguous DILI-concern,2,1269.4,CC(C)CC(C(=O)NC(CCCN=C(N)N)C(=O)N1CCCC1C(=O)NNC(=O)N)NC(=O)C(COC(C)(C)C)NC(=O)C(CC2=CC=C(C=C2)O)NC(=O)C(CO)NC(=O)C(CC3=CNC4=CC=CC=C43)NC(=O)C(CC5=CN=CN5)NC(=O)C6CCC(=O)N6
+LT00941,pegademase bovine,0,No match,vNo-DILI-Concern,2,ND,ND
+LT00944,fenoldopam,0,No match,vNo-DILI-Concern,2,305.75,C1CNCC(C2=CC(=C(C(=C21)Cl)O)O)C3=CC=C(C=C3)O
+LT00946,metoprolol succinate,3,Adverse reactions,Ambiguous DILI-concern,2,267.36,CC(C)NCC(COC1=CC=C(C=C1)CCOC)O
+LT00947,calcium acetate,0,No match,vNo-DILI-Concern,2,158.17,CC(=O)[O-].CC(=O)[O-].[Ca+2]
+LT00950,mivacurium,0,No match,vNo-DILI-Concern,2,1029.3,C[N+]1(CCC2=CC(=C(C=C2C1CC3=CC(=C(C(=C3)OC)OC)OC)OC)OC)CCCOC(=O)CCC=CCCC(=O)OCCC[N+]4(CCC5=CC(=C(C=C5C4CC6=CC(=C(C(=C6)OC)OC)OC)OC)OC)C
+LT00951,gadodiamide,3,Adverse reactions,Ambiguous DILI-concern,2,591.7,CNC(=O)CN(CCN(CCN(CC(=O)NC)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-].O.[Gd+3]
+LT00952,gadoteridol,0,No match,vNo-DILI-Concern,2,558.7,CC(CN1CCN(CCN(CCN(CC1)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])O.[Gd+3]
+LT00954,enoxaparin,3,Adverse reactions,vLess-DILI-Concern,2,1134.9,CC(=O)NC1C(C(C(OC1O)COS(=O)(=O)O)OC2C(C(C(C(O2)C(=O)O)OC3C(C(C(C(O3)CO)OC4C(C(C(C(O4)C(=O)O)O)O)OS(=O)(=O)O)OS(=O)(=O)O)NS(=O)(=O)O)O)OS(=O)(=O)O)O
+LT00955,perindopril,3,Adverse reactions,Ambiguous DILI-concern,2,368.5,CCCC(C(=O)OCC)NC(C)C(=O)N1C2CCCCC2CC1C(=O)O
+LT00956,pentosan polysulfate,3,Adverse reactions,Ambiguous DILI-concern,2,602.5,C1C(C(C(C(O1)OC2COC(C(C2OS(=O)(=O)O)OS(=O)(=O)O)O)OS(=O)(=O)O)OS(=O)(=O)O)O
+LT00957,rocuronium,0,No match,vNo-DILI-Concern,2,609.7,CC(=O)OC1C(CC2C1(CCC3C2CCC4C3(CC(C(C4)O)N5CCOCC5)C)C)[N+]6(CCCC6)CC=C.[Br-]
+LT00961,dalteparin sodium,3,Adverse reactions,vLess-DILI-Concern,2,1134.9,CC(=O)NC1C(C(C(OC1O)COS(=O)(=O)O)OC2C(C(C(C(O2)C(=O)O)OC3C(C(C(C(O3)CO)OC4C(C(C(C(O4)C(=O)O)O)O)OS(=O)(=O)O)OS(=O)(=O)O)NS(=O)(=O)O)O)OS(=O)(=O)O)O
+LT00962,aprotinin,7,Adverse reactions,Ambiguous DILI-concern,2,190.20,CC(C)(COC(=O)N)COC(=O)N
+LT00964,anagrelide,3,Warnings and precautions,Ambiguous DILI-concern,2,256.08,C1C2=C(C=CC(=C2Cl)Cl)NC3=NC(=CN31)O
+LT00966,ferumoxsil,0,No match,vNo-DILI-Concern,2,ND,ND
+LT00967,ferumoxides,0,No match,vNo-DILI-Concern,2,231.53,[O-2].[O-2].[O-2].[O-2].[Fe+2].[Fe+3].[Fe+3]
+LT00969,vigabatrin,2,Adverse reactions,Ambiguous DILI-concern,2,129.16,C=CC(CCC(=O)O)N
+LT00971,epoprostenol,7,Adverse reactions,Ambiguous DILI-concern,2,352.5,CCCCCC(C=CC1C(CC2C1CC(=CCCCC(=O)O)O2)O)O
+LT00972,porfimer,0,No match,vNo-DILI-Concern,2,1179.4,CC1=C(C2=CC3=NC(=CC4=NC(=CC5=C(C(=C(N5)C=C1N2)C(C)OC(C)C6=C(C7=CC8=C(C(=C(N8)C=C9C(=C(C(=N9)C=C1C(=C(C(=N1)C=C6N7)C)CCC(=O)O)CCC(=O)O)C)C)C(C)O)C)C)C(=C4CCC(=O)O)C)C(=C3C)CCC(=O)O)C(C)O
+LT00973,tinzaparin,3,Adverse reactions,Ambiguous DILI-concern,2,1134.9,CC(=O)NC1C(C(C(OC1O)COS(=O)(=O)O)OC2C(C(C(C(O2)C(=O)O)OC3C(C(C(C(O3)CO)OC4C(C(C(C(O4)C(=O)O)O)O)OS(=O)(=O)O)OS(=O)(=O)O)NS(=O)(=O)O)O)OS(=O)(=O)O)O
+LT00974,ibutilide,0,No match,vNo-DILI-Concern,2,384.6,CCCCCCCN(CC)CCCC(C1=CC=C(C=C1)NS(=O)(=O)C)O
+LT00978,cisatracurium besylate,0,No match,vNo-DILI-Concern,2,929.1,C[N+]1(CCC2=CC(=C(C=C2C1CC3=CC(=C(C=C3)OC)OC)OC)OC)CCC(=O)OCCCCCOC(=O)CC[N+]4(CCC5=CC(=C(C=C5C4CC6=CC(=C(C=C6)OC)OC)OC)OC)C
+LT00979,oxycodone,0,No match,vNo-DILI-Concern,2,315.4,CN1CCC23C4C(=O)CCC2(C1CC5=C3C(=C(C=C5)OC)O4)O
+LT00980,alendronate,0,No match,vLess-DILI-Concern,1,249.10,C(CC(O)(P(=O)(O)O)P(=O)(O)O)CN
+LT00982,tamsulosin,0,No match,vLess-DILI-Concern,1,408.5,CCOC1=CC=CC=C1OCCNC(C)CC2=CC(=C(C=C2)OC)S(=O)(=O)N
+LT00985,glatiramer acetate,3,Adverse reactions,Ambiguous DILI-concern,2,60.05,CC(=O)O
+LT00986,dolasetron,3,Adverse reactions,Ambiguous DILI-concern,2,324.4,C1C2CC3CC(CC1N3CC2=O)OC(=O)C4=CNC5=CC=CC=C54
+LT00987,remifentanil,3,Adverse reactions,vLess-DILI-Concern,2,412.9,CCC(=O)N(C1=CC=CC=C1)C2(CCN(CC2)CCC(=O)OC)C(=O)OC.Cl
+LT00988,sibutramine,4,Adverse reactions,vLess-DILI-Concern,2,279.8,CC(C)CC(C1(CCC1)C2=CC=C(C=C2)Cl)N(C)C
+LT00989,tiagabine,3,Adverse reactions,Ambiguous DILI-concern,2,375.6,CC1=C(SC=C1)C(=CCCN2CCCC(C2)C(=O)O)C3=C(C=CS3)C
+LT00990,ropinirole,4,Adverse reactions,vLess-DILI-Concern,2,260.37,CCCN(CCC)CCC1=C2CC(=O)NC2=CC=C1
+LT00991,pramipexole,2,Adverse reactions,Ambiguous DILI-concern,2,211.33,CCCNC1CCC2=C(C1)SC(=N2)N
+LT00992,miglitol,0,No match,vNo-DILI-Concern,2,207.22,C1C(C(C(C(N1CCO)CO)O)O)O
+LT00995,polyethylene glycol 3350,0,No match,vNo-DILI-Concern,2,62.07,C(CO)O
+LT00996,delavirdine,5,Adverse reactions,Ambiguous DILI-concern,2,456.6,CC(C)NC1=C(N=CC=C1)N2CCN(CC2)C(=O)C3=CC4=C(N3)C=CC(=C4)NS(=O)(=O)C
+LT00998,tiludronate,0,No match,vNo-DILI-Concern,2,362.57,C1=CC(=CC=C1SC(P(=O)(O)[O-])P(=O)(O)[O-])Cl.[Na+].[Na+]
+LT00999,eptifibatide,0,No match,vNo-DILI-Concern,2,357.9,CC(C1=CC=CC=C1)(C2=CC=C(C=C2)Cl)OCCN3CCCCCC3
+LT01001,eprosartan,3,Adverse reactions,Ambiguous DILI-concern,2,424.5,CCCCC1=NC=C(N1CC2=CC=C(C=C2)C(=O)O)C=C(CC3=CC=CS3)C(=O)O
+LT01002,repaglinide,5,Adverse reactions,vLess-DILI-Concern,2,296.4,CC12CCC3C(C1CCC2(C#C)O)CCC4=C3C=CC(=C4)O
+LT01005,irbesartan,5,Adverse reactions,vLess-DILI-Concern,2,428.5,CCCCC1=NC2(CCCC2)C(=O)N1CC3=CC=C(C=C3)C4=CC=CC=C4C5=NNN=N5
+LT01007,naratriptan,4,Adverse reactions,Ambiguous DILI-concern,2,285.23,C1=NC2=C(N=C(N=C2N1C3C(C(C(O3)CO)O)O)F)N
+LT01010,zolmitriptan,3,Adverse reactions,Ambiguous DILI-concern,2,287.36,CN(C)CCC1=CNC2=C1C=C(C=C2)CC3COC(=O)N3
+LT01011,tolterodine,0,No match,vNo-DILI-Concern,2,325.5,CC1=CC(=C(C=C1)O)C(CCN(C(C)C)C(C)C)C2=CC=CC=C2
+LT01012,nelfinavir,3,Adverse reactions,vLess-DILI-Concern,2,567.8,CC1=C(C=CC=C1O)C(=O)NC(CSC2=CC=CC=C2)C(CN3CC4CCCCC4CC3C(=O)NC(C)(C)C)O
+LT01013,lepirudin,3,Adverse reactions,Ambiguous DILI-concern,2,6985,CCC(C)C(C(=O)NC(CC(C)C)C(=O)NCC(=O)NC(CO)C(=O)NC(CC(=O)O)C(=O)NCC(=O)NC(CCC(=O)O)C(=O)NC(CCCCN)C(=O)NC(CC(=O)N)C(=O)NC(CCC(=O)N)C(=O)NC(CS)C(=O)NC(C(C)C)C(=O)NC(C(C)O)C(=O)NCC(=O)NC(CCC(=O)O)C(=O)NCC(=O)NC(C(C)O)C(=O)N1CCCC1C(=O)NC(CCCCN)C(=O)N2CCCC2C(=O)NC(CCC(=O)N)C(=O)NC(CO)C(=O)NC(CC3=CN=CN3)C(=O)NC(CC(=O)N)C(=O)NC(CC(=O)O)C(=O)NCC(=O)NC(CC(=O)O)C(=O)NC(CC4=CC=CC=C4)C(=O)NC(CCC(=O)O)C(=O)NC(CCC(=O)O)C(=O)NC(C(C)CC)C(=O)N5CCCC5C(=O)NC(CCC(=O)O)C(=O)NC(CCC(=O)O)C(=O)NC(CC6=CC=C(C=C6)O)C(=O)NC(CC(C)C)C(=O)NC(CCC(=O)N)C(=O)O)NC(=O)C(CS)NC(=O)C(CCCCN)NC(=O)C(CC(=O)N)NC(=O)CNC(=O)C(CCC(=O)N)NC(=O)CNC(=O)C(CS)NC(=O)C(C(C)C)NC(=O)C(CC(=O)N)NC(=O)C(CO)NC(=O)CNC(=O)C(CCC(=O)O)NC(=O)C(CS)NC(=O)C(CC(C)C)NC(=O)C(CS)NC(=O)C(CC(C)C)NC(=O)C(CC(=O)N)NC(=O)C(CCC(=O)N)NC(=O)CNC(=O)C(CO)NC(=O)C(CCC(=O)O)NC(=O)C(C(C)O)NC(=O)C(CS)NC(=O)C(CC(=O)O)NC(=O)C(C(C)O)NC(=O)C(CC7=CC=C(C=C7)O)NC(=O)C(C(C)O)NC(=O)C(CC(C)C)N
+LT01015,paricalcitol,3,Adverse reactions,Ambiguous DILI-concern,2,416.6,CC(C=CC(C)C(C)(C)O)C1CCC2C1(CCCC2=CC=C3CC(CC(C3)O)O)C
+LT01016,rivastigmine,3,Adverse reactions,vLess-DILI-Concern,2,250.34,CCN(C)C(=O)OC1=CC=CC(=C1)C(C)N(C)C
+LT01017,ziprasidone,3,Adverse reactions,vLess-DILI-Concern,2,54.05,C#CC=O
+LT01020,risedronate,3,Adverse reactions,Ambiguous DILI-concern,2,283.11,C1=CC(=CN=C1)CC(O)(P(=O)(O)O)P(=O)(O)O
+LT01022,candesartan,3,Adverse reactions,vLess-DILI-Concern,2,610.7,CCOC1=NC2=CC=CC(=C2N1CC3=CC=C(C=C3)C4=CC=CC=C4C5=NNN=N5)C(=O)OC(C)OC(=O)OC6CCCCC6
+LT01023,clopidogrel,7,Adverse reactions,vLess-DILI-Concern,2,321.8,COC(=O)C(C1=CC=CC=C1Cl)N2CCC3=C(C2)C=CS3
+LT01025,cilostazol,5,Adverse reactions,Ambiguous DILI-concern,2,369.5,C1CCC(CC1)N2C(=NN=N2)CCCCOC3=CC4=C(C=C3)NC(=O)CC4
+LT01026,rizatriptan,0,No match,vNo-DILI-Concern,2,269.34,CN(C)CCC1=CNC2=C1C=C(C=C2)CN3C=NC=N3
+LT01027,bivalirudin,0,No match,vNo-DILI-Concern,2,2180.3,CCC(C)C(C(=O)N1CCCC1C(=O)NC(CCC(=O)O)C(=O)NC(CCC(=O)O)C(=O)NC(CC2=CC=C(C=C2)O)C(=O)NC(CC(C)C)C(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(CC3=CC=CC=C3)NC(=O)C(CC(=O)O)NC(=O)CNC(=O)C(CC(=O)N)NC(=O)CNC(=O)CNC(=O)CNC(=O)CNC(=O)C4CCCN4C(=O)C(CCCNC(=N)N)NC(=O)C5CCCN5C(=O)C(CC6=CC=CC=C6)N
+LT01028,azacitidine,8,Warnings and precautions,Ambiguous DILI-concern,2,244.20,C1=NC(=NC(=O)N1C2C(C(C(O2)CO)O)O)N
+LT01029,fluorouracil,0,No match,vLess-DILI-Concern,2,130.08,C1=C(C(=O)NC(=O)N1)F
+LT01030,argatroban,0,No match,vNo-DILI-Concern,2,508.6,CC1CCN(C(C1)C(=O)O)C(=O)C(CCCN=C(N)N)NS(=O)(=O)C2=CC=CC3=C2NCC(C3)C
+LT01033,sildenafil,3,Adverse reactions,vLess-DILI-Concern,2,216.66,CCC1=NN(C(=C1Cl)C(=O)OCC)C
+LT01034,acarbose,8,Warnings and precautions,vMost-DILI-Concern,1,152.19,C1=CC2=C3C(=C1)C=CC3=CC=C2
+LT01035,acebutolol,3,Adverse reactions,vLess-DILI-Concern,2,336.4,CCCC(=O)NC1=CC(=C(C=C1)OCC(CNC(C)C)O)C(=O)C
+LT01037,tirofiban,0,No match,vNo-DILI-Concern,2,440.6,CCCCS(=O)(=O)NC(CC1=CC=C(C=C1)OCCCCC2CCNCC2)C(=O)O
+LT01039,sevelamer,0,No match,vNo-DILI-Concern,2,186.08,C=CCN.C1C(O1)CCl.Cl
+LT01040,dofetilide,0,No match,vNo-DILI-Concern,2,441.6,CN(CCC1=CC=C(C=C1)NS(=O)(=O)C)CCOC2=CC=C(C=C2)NS(=O)(=O)C
+LT01041,acetylcysteine,0,No match,vNo-DILI-Concern,2,163.20,CC(=O)NC(CS)C(=O)O
+LT01042,acitretin,5,Box warning,vMost-DILI-Concern,1,326.4,CC1=CC(=C(C(=C1C=CC(=CC=CC(=CC(=O)O)C)C)C)C)OC
+LT01044,gadoversetamide,0,No match,vNo-DILI-Concern,2,661.8,COCCNC(=O)CN(CCN(CCN(CC(=O)NCCOC)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-].[Gd+3]
+LT01047,adenosine,0,No match,vNo-DILI-Concern,2,135.13,C1=NC2=NC=NC(=C2N1)N
+LT01048,cevimeline,3,Adverse reactions,Ambiguous DILI-concern,2,199.32,CC1OC2(CN3CCC2CC3)CS1
+LT01051,salbutamol,0,No match,vNo-DILI-Concern,1,239.31,CC(C)(C)NCC(C1=CC(=C(C=C1)O)CO)O
+LT01053,almotriptan,0,No match,vNo-DILI-Concern,2,335.5,CN(C)CCC1=CNC2=C1C=C(C=C2)CS(=O)(=O)N3CCCC3
+LT01054,frovatriptan,0,No match,vNo-DILI-Concern,2,243.30,CNC1CCC2=C(C1)C3=C(N2)C=CC(=C3)C(=O)N
+LT01055,amprenavir,3,Warnings and precautions,Ambiguous DILI-concern,2,505.6,CC(C)CN(CC(C(CC1=CC=CC=C1)NC(=O)OC2CCOC2)O)S(=O)(=O)C3=CC=C(C=C3)N
+LT01056,oxcarbazepine,3,Warnings and precautions,vLess-DILI-Concern,2,252.27,C1C2=CC=CC=C2N(C3=CC=CC=C3C1=O)C(=O)N
+LT01057,rifapentine,4,Warnings and precautions,Ambiguous DILI-concern,2,879.0,CC1C=CC=C(C(=O)NC2=C(C(=C3C(=C2O)C(=C(C4=C3C(=O)C(O4)(OC=CC(C(C(C(C(C(C1O)C)O)C)OC(=O)C)C)OC)C)C)O)O)CNN5CCN(CC5)C6CCCC6)C
+LT01059,levetiracetam,8,Adverse reactions,vLess-DILI-Concern,2,32.042,CO
+LT01060,alpidem,8,Withdrawn,vMost-DILI-Concern,1,404.3,CCCN(CCC)C(=O)CC1=C(N=C2N1C=C(C=C2)Cl)C3=CC=C(C=C3)Cl
+LT01063,dexmedetomidine,4,Adverse reactions,Ambiguous DILI-concern,2,186.25,CC1=C(C(=CC=C1)CC2=CN=CN2)C
+LT01064,bexarotene,8,Warnings and precautions,vMost-DILI-Concern,2,162.23,CCCC1=CC=C(C=C1)C(=O)C
+LT01065,perflutren,0,No match,vNo-DILI-Concern,2,188.02,C(C(F)(F)F)(C(F)(F)F)(F)F
+LT01067,amifostine,0,No match,vNo-DILI-Concern,1,214.23,C(CN)CNCCSP(=O)(O)O
+LT01068,amikacin,0,No match,vNo-DILI-Concern,2,585.6,C1C(C(C(C(C1NC(=O)C(CCN)O)OC2C(C(C(C(O2)CO)O)N)O)O)OC3C(C(C(C(O3)CN)O)O)O)N
+LT01069,pegvisomant,3,Warnings and precautions,Ambiguous DILI-concern,2,ND,ND
+LT01070,alosetron,4,Adverse reactions,vLess-DILI-Concern,2,294.35,CC1=C(N=CN1)CN2CCC3=C(C2=O)C4=CC=CC=C4N3C
+LT01071,aminocaproic acid,0,No match,vNo-DILI-Concern,2,60.05,CC(=O)O
+LT01072,levothyroxine,3,Adverse reactions,vLess-DILI-Concern,2,776.87,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N
+LT01075,verteporfin,3,Adverse reactions,Ambiguous DILI-concern,2,718.8,CC1=C(C2=CC3=NC(=CC4=C(C(=C(N4)C=C5C6(C(C(=CC=C6C(=N5)C=C1N2)C(=O)OC)C(=O)OC)C)C)CCC(=O)OC)C(=C3C)CCC(=O)O)C=C
+LT01076,amrinone,5,Adverse reactions,Ambiguous DILI-concern,2,187.20,C1=CN=CC=C1C2=CNC(=O)C(=C2)N
+LT01077,linezolid,3,Adverse reactions,vLess-DILI-Concern,2,337.35,CC(=O)NCC1CN(C(=O)O1)C2=CC(=C(C=C2)N3CCOCC3)F
+LT01080,colesevelam,3,Adverse reactions,Ambiguous DILI-concern,2,618.2,CCCCCCCCCCNCC=C.C[N+](C)(C)CCCCCCNCC=C.C=CCN.C1C(O1)CCl.Cl.[Cl-]
+LT01082,choriogonadotropin alfa,3,Warnings and precautions,Ambiguous DILI-concern,2,ND,ND
+LT01084,gemifloxacin,3,Warnings and precautions,vLess-DILI-Concern,2,389.4,CON=C1CN(CC1CN)C2=C(C=C3C(=O)C(=CN(C3=N2)C4CC4)C(=O)O)F
+LT01085,desloratadine,3,Adverse reactions,vLess-DILI-Concern,2,310.8,C1CC2=C(C=CC(=C2)Cl)C(=C3CCNCC3)C4=C1C=CC=N4
+LT01086,galantamine,3,Adverse reactions,Ambiguous DILI-concern,2,287.35,CN1CCC23C=CC(CC2OC4=C(C=CC(=C34)C1)OC)O
+LT01087,cefditoren,2,Adverse reactions,Ambiguous DILI-concern,2,202.20,CCOC(=O)CCC(=O)C(=O)OCC
+LT01088,zoledronate,0,No match,vLess-DILI-Concern,2,272.09,C1=CN(C=N1)CC(O)(P(=O)(O)O)P(=O)(O)O
+LT01089,caspofungin,7,Warnings and precautions,Ambiguous DILI-concern,2,1093.3,CCC(C)CC(C)CCCCCCCCC(=O)NC1CC(C(NC(=O)C2C(CCN2C(=O)C(NC(=O)C(NC(=O)C3CC(CN3C(=O)C(NC1=O)C(C)O)O)C(C(C4=CC=C(C=C4)O)O)O)C(CCN)O)O)NCCN)O
+LT01092,nitisinone,7,Adverse reactions,Ambiguous DILI-concern,2,329.23,C1CC(=O)C(C(=O)C1)C(=O)C2=C(C=C(C=C2)C(F)(F)F)[N+](=O)[O-]
+LT01093,arsenic trioxide,3,Adverse reactions,Ambiguous DILI-concern,2,125.944,O[As](O)O
+LT01096,atovaquone,8,Warnings and precautions,Ambiguous DILI-concern,2,366.8,C1CC(CCC1C2=CC=C(C=C2)Cl)C3=C(C4=CC=CC=C4C(=O)C3=O)O
+LT01097,voriconazole,8,Warnings and precautions,vMost-DILI-Concern,2,349.31,CC(C1=NC=NC=C1F)C(CN2C=NC=N2)(C3=C(C=C(C=C3)F)F)O
+LT01100,guaifenesin,0,No match,vNo-DILI-Concern,2,198.22,COC1=CC=CC=C1OCC(CO)O
+LT01102,olmesartan,4,Adverse reactions,Ambiguous DILI-concern,2,558.6,CCCC1=NC(=C(N1CC2=CC=C(C=C2)C3=CC=CC=C3C4=NNN=N4)C(=O)OCC5=C(OC(=O)O5)C)C(C)(C)O
+LT01107,alfuzosin,5,Adverse reactions,vLess-DILI-Concern,2,389.4,CN(CCCNC(=O)C1CCCO1)C2=NC3=CC(=C(C=C3C(=N2)N)OC)OC
+LT01109,valganciclovir,3,Adverse reactions,Ambiguous DILI-concern,2,354.36,CC(C)C(C(=O)OCC(CO)OCN1C=NC2C1=NC(=NC2=O)N)N
+LT01110,aztreonam,5,Adverse reactions,Ambiguous DILI-concern,2,435.4,CC1C(C(=O)N1S(=O)(=O)O)NC(=O)C(=NOC(C)(C)C(=O)O)C2=CSC(=N2)N
+LT01112,dutasteride,0,No match,vNo-DILI-Concern,2,528.5,CC12CCC3C(C1CCC2C(=O)NC4=C(C=CC(=C4)C(F)(F)F)C(F)(F)F)CCC5C3(C=CC(=O)N5)C
+LT01113,baclofen,3,Adverse reactions,vLess-DILI-Concern,2,213.66,C1=CC(=CC=C1C(CC(=O)O)CN)Cl
+LT01116,benazepril,4,Adverse reactions,vLess-DILI-Concern,2,424.5,CCOC(=O)C(CCC1=CC=CC=C1)NC2CCC3=CC=CC=C3N(C2=O)CC(=O)O
+LT01117,bendazac,8,Withdrawn,vMost-DILI-Concern,1,282.29,C1=CC=C(C=C1)CN2C3=CC=CC=C3C(=N2)OCC(=O)O
+LT01120,benzarone,8,Withdrawn,vMost-DILI-Concern,1,230.30,CC(C1=CC=C(C=C1)C2=CCCCC2)C(=O)O
+LT01121,benziodarone,8,Withdrawn,vMost-DILI-Concern,1,518.08,CCC1=C(C2=CC=CC=C2O1)C(=O)C3=CC(=C(C(=C3)I)O)I
+LT01122,ertapenem,3,Warnings and precautions,Ambiguous DILI-concern,2,475.5,CC1C2C(C(=O)N2C(=C1SC3CC(NC3)C(=O)NC4=CC=CC(=C4)C(=O)O)C(=O)O)C(C)O
+LT01123,benztropine,0,No match,vNo-DILI-Concern,1,307.4,CN1C2CCC1CC(C2)OC(C3=CC=CC=C3)C4=CC=CC=C4
+LT01125,fondaparinux sodium,3,Adverse reactions,vLess-DILI-Concern,2,1728.1,COC1C(C(C(C(O1)COS(=O)(=O)[O-])OC2C(C(C(C(O2)C(=O)[O-])OC3C(C(C(C(O3)COS(=O)(=O)[O-])OC4C(C(C(C(O4)C(=O)[O-])OC5C(C(C(C(O5)COS(=O)(=O)[O-])O)O)NS(=O)(=O)[O-])O)O)OS(=O)(=O)[O-])NS(=O)(=O)[O-])O)OS(=O)(=O)[O-])O)NS(=O)(=O)[O-].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+]
+LT01126,miglustat,0,No match,vNo-DILI-Concern,2,219.28,CCCCN1CC(C(C(C1CO)O)O)O
+LT01127,gadobenate dimeglumine,0,No match,vNo-DILI-Concern,2,513.5,C1=CC=C(C=C1)COCC(C(=O)O)N(CCN(CCN(CC(=O)O)CC(=O)O)CC(=O)O)CC(=O)O
+LT01128,rifaximin,7,Adverse reactions,Ambiguous DILI-concern,2,785.9,CC1C=CC=C(C(=O)NC2=C(C3=C(C4=C(C(=C3O)C)OC(C4=O)(OC=CC(C(C(C(C(C(C1O)C)O)C)OC(=O)C)C)OC)C)C5=C2N6C=CC(=CC6=N5)C)O)C
+LT01129,tadalafil,3,Adverse reactions,Ambiguous DILI-concern,2,389.4,CN1CC(=O)N2C(C1=O)CC3=C(C2C4=CC5=C(C=C4)OCO5)NC6=CC=CC=C36
+LT01130,palonosetron,4,Adverse reactions,Ambiguous DILI-concern,2,294.4,C1CC2=C3C(=CN(C(=O)C3=CC=C2)C4CN5CCC4CC5)C1
+LT01132,betaxolol,3,Adverse reactions,Ambiguous DILI-concern,2,307.4,CC(C)NCC(COC1=CC=C(C=C1)CCOCC2CC2)O
+LT01135,vardenafil,3,Adverse reactions,Ambiguous DILI-concern,2,490.6,CCCC1=NC(=C2N1NC(NC2=O)C3=C(C=CC(=C3)S(=O)(=O)N4CCN(CC4)CC)OCC)C
+LT01136,bisoprolol,3,Adverse reactions,Ambiguous DILI-concern,1,325.4,CC(C)NCC(COC1=CC=C(C=C1)COCCOC(C)C)O
+LT01138,bleomycin,3,Warnings and precautions,Ambiguous DILI-concern,2,1512.6,CC1=C(N=C(N=C1N)C(CC(=O)N)NCC(C(=O)N)N)C(=O)NC(C(C2=CN=CN2)OC3C(C(C(C(O3)CO)O)O)OC4C(C(C(C(O4)CO)O)OC(=O)N)O)C(=O)NC(C)C(C(C)C(=O)NC(C(C)O)C(=O)NCCC5=NC(=CS5)C6=NC(=CS6)C(=O)NCCC[S+](C)C)O.OS(=O)(=O)[O-]
+LT01139,atomoxetine,8,Warnings and precautions,vMost-DILI-Concern,2,291.8,CC1=CC=CC=C1OC(CCNC)C2=CC=CC=C2.Cl
+LT01140,bosentan,7,Box warning,vMost-DILI-Concern,1,551.6,CC(C)(C)C1=CC=C(C=C1)S(=O)(=O)NC2=C(C(=NC(=N2)C3=NC=CC=N3)OCCO)OC4=CC=CC=C4OC
+LT01141,acamprosate,3,Adverse reactions,vLess-DILI-Concern,2,181.21,CC(=O)NCCCS(=O)(=O)O
+LT01143,aripiprazole,5,Adverse reactions,Ambiguous DILI-concern,2,448.4,C1CC(=O)NC2=C1C=CC(=C2)OCCCCN3CCN(CC3)C4=C(C(=CC=C4)Cl)Cl
+LT01144,budesonide,0,No match,vNo-DILI-Concern,2,430.5,CCCC1OC2CC3C4CCC5=CC(=O)C=CC5(C4C(CC3(C2(O1)C(=O)CO)C)O)C
+LT01145,bumetanide,3,Warnings and precautions,Ambiguous DILI-concern,2,364.4,CCCCNC1=C(C(=CC(=C1)C(=O)O)S(=O)(=O)N)OC2=CC=CC=C2
+LT01148,buspirone,3,Adverse reactions,Ambiguous DILI-concern,1,385.5,C1CCC2(C1)CC(=O)N(C(=O)C2)CCCCN3CCN(CC3)C4=NC=CC=N4
+LT01149,eplerenone,4,Adverse reactions,Ambiguous DILI-concern,2,414.5,CC12CCC(=O)C=C1CC(C3C24C(O4)CC5(C3CCC56CCC(=O)O6)C)C(=O)OC
+LT01151,butorphanol,0,No match,vNo-DILI-Concern,2,327.5,C1CCC2(C3CC4=C(C2(C1)CCN3CC5CCC5)C=C(C=C4)O)O
+LT01152,cabergoline,0,No match,vNo-DILI-Concern,2,451.6,CCNC(=O)N(CCCN(C)C)C(=O)C1CC2C(CC3=CNC4=CC=CC2=C34)N(C1)CC=C
+LT01153,ezetimibe,3,Warnings and precautions,vLess-DILI-Concern,2,409.4,C1=CC(=CC=C1C2C(C(=O)N2C3=CC=C(C=C3)F)CCC(C4=CC=C(C=C4)F)O)O
+LT01154,pregabalin,0,No match,vLess-DILI-Concern,2,159.23,CC(C)CC(CC(=O)O)CN
+LT01155,adefovir,2,Warnings and precautions,vLess-DILI-Concern,2,135.13,C1=NC2=NC=NC(=C2N1)N
+LT01156,ibandronate,0,No match,vNo-DILI-Concern,2,319.23,CCCCCN(C)CCC(O)(P(=O)(O)O)P(=O)(O)O
+LT01157,pemetrexed,3,Adverse reactions,Ambiguous DILI-concern,2,336.5,CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3
+LT01159,carbenicillin,3,Warnings and precautions,vLess-DILI-Concern,2,217.29,CC(CS)C(=O)N1CCCC1C(=O)O
+LT01160,carbidopa,3,Warnings and precautions,Ambiguous DILI-concern,2,226.23,CC(CC1=CC(=C(C=C1)O)O)(C(=O)O)NN
+LT01161,eszopiclone,3,Adverse reactions,Ambiguous DILI-concern,2,388.8,CN1CCN(CC1)C(=O)OC2C3=NC=CN=C3C(=O)N2C4=NC=C(C=C4)Cl
+LT01166,cefaclor,3,Adverse reactions,vLess-DILI-Concern,2,367.8,C1C(=C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=CC=C3)N)C(=O)O)Cl
+LT01167,cefadroxil,7,Adverse reactions,vLess-DILI-Concern,2,363.4,CC1=C(N2C(C(C2=O)NC(=O)C(C3=CC=C(C=C3)O)N)SC1)C(=O)O
+LT01169,enfuvirtide,3,Warnings and precautions,Ambiguous DILI-concern,2,4492,CCC(C)C(C(=O)NC(CCC(=O)O)C(=O)NC(CCC(=O)O)C(=O)NC(CO)C(=O)NC(CCC(=O)N)C(=O)NC(CC(=O)N)C(=O)NC(CCC(=O)N)C(=O)NC(CCC(=O)N)C(=O)NC(CCC(=O)O)C(=O)NC(CCCCN)C(=O)NC(CC(=O)N)C(=O)NC(CCC(=O)O)C(=O)NC(CCC(=O)N)C(=O)NC(CCC(=O)O)C(=O)NC(CC(C)C)C(=O)NC(CC(C)C)C(=O)NC(CCC(=O)O)C(=O)NC(CC(C)C)C(=O)NC(CC(=O)O)C(=O)NC(CCCCN)C(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)NC(C)C(=O)NC(CO)C(=O)NC(CC(C)C)C(=O)NC(CC3=CNC4=CC=CC=C43)C(=O)NC(CC(=O)N)C(=O)NC(CC5=CNC6=CC=CC=C65)C(=O)NC(CC7=CC=CC=C7)C(=O)N)NC(=O)C(CC(C)C)NC(=O)C(CO)NC(=O)C(CC8=CN=CN8)NC(=O)C(C(C)CC)NC(=O)C(CC(C)C)NC(=O)C(CO)NC(=O)C(C(C)O)NC(=O)C(CC9=CC=C(C=C9)O)NC(=O)C
+LT01171,cefazolin,3,Adverse reactions,vLess-DILI-Concern,2,454.5,CC1=NN=C(S1)SCC2=C(N3C(C(C3=O)NC(=O)CN4C=NN=N4)SC2)C(=O)O
+LT01172,cefepime,3,Adverse reactions,vLess-DILI-Concern,2,480.6,C[N+]1(CCCC1)CC2=C(N3C(C(C3=O)NC(=O)C(=NOC)C4=CSC(=N4)N)SC2)C(=O)[O-]
+LT01173,cefixime,4,Adverse reactions,Ambiguous DILI-concern,2,453.5,C=CC1=C(N2C(C(C2=O)NC(=O)C(=NOCC(=O)O)C3=CSC(=N3)N)SC1)C(=O)O
+LT01176,cefoperazone,3,Adverse reactions,vLess-DILI-Concern,2,645.7,CCN1CCN(C(=O)C1=O)C(=O)NC(C2=CC=C(C=C2)O)C(=O)NC3C4N(C3=O)C(=C(CS4)CSC5=NN=NN5C)C(=O)O
+LT01177,cefotaxime,5,Adverse reactions,vLess-DILI-Concern,2,455.5,CC(=O)OCC1=C(N2C(C(C2=O)NC(=O)C(=NOC)C3=CSC(=N3)N)SC1)C(=O)O
+LT01178,cefotetan,3,Adverse reactions,Ambiguous DILI-concern,2,575.6,CN1C(=NN=N1)SCC2=C(N3C(C(C3=O)(NC(=O)C4SC(=C(C(=O)N)C(=O)O)S4)OC)SC2)C(=O)O
+LT01179,cefoxitin,3,Warnings and precautions,Ambiguous DILI-concern,2,426.4,COC1(C2N(C1=O)C(=C(CS2)COC(=O)N)C(=O)[O-])NC(=O)CC3=CC=CS3
+LT01180,cefpodoxime,3,Adverse reactions,Ambiguous DILI-concern,2,157.21,C1CC(CCC1CN)C(=O)O
+LT01181,oxaliplatin,4,Warnings and precautions,vMost-DILI-Concern,2,397.29,C1CCC(C(C1)[NH-])[NH-].C(=O)(C(=O)O)O.[Pt+2]
+LT01182,cefprozil,4,Adverse reactions,vLess-DILI-Concern,2,389.4,CC=CC1=C(N2C(C(C2=O)NC(=O)C(C3=CC=C(C=C3)O)N)SC1)C(=O)O
+LT01183,ceftibuten,3,Adverse reactions,Ambiguous DILI-concern,2,410.4,C1C=C(N2C(S1)C(C2=O)NC(=O)C(=CCC(=O)O)C3=CSC(=N3)N)C(=O)O
+LT01184,nitazoxanide,0,No match,vNo-DILI-Concern,2,307.28,CC(=O)OC1=CC=CC=C1C(=O)NC2=NC=C(S2)[N+](=O)[O-]
+LT01185,ceftriaxone,4,Adverse reactions,vLess-DILI-Concern,2,554.6,CN1C(=NC(=O)C(=O)N1)SCC2=C(N3C(C(C3=O)NC(=O)C(=NOC)C4=CSC(=N4)N)SC2)C(=O)O
+LT01186,cefuroxime,5,Adverse reactions,vLess-DILI-Concern,2,424.4,CON=C(C1=CC=CO1)C(=O)NC2C3N(C2=O)C(=C(CS3)COC(=O)N)C(=O)O
+LT01187,micafungin,7,Warnings and precautions,vMost-DILI-Concern,2,1270.3,CCCCCOC1=CC=C(C=C1)C2=CC(=NO2)C3=CC=C(C=C3)C(=O)NC4CC(C(NC(=O)C5C(C(CN5C(=O)C(NC(=O)C(NC(=O)C6CC(CN6C(=O)C(NC4=O)C(C)O)O)C(C(C7=CC(=C(C=C7)O)OS(=O)(=O)O)O)O)C(CC(=O)N)O)C)O)O)O
+LT01188,darifenacin,0,No match,vNo-DILI-Concern,2,426.5,C1CN(CC1C(C2=CC=CC=C2)(C3=CC=CC=C3)C(=O)N)CCC4=CC5=C(C=C4)OCC5
+LT01189,cephalexin,4,Adverse reactions,vLess-DILI-Concern,2,347.4,CC1=C(N2C(C(C2=O)NC(=O)C(C3=CC=CC=C3)N)SC1)C(=O)O
+LT01190,cetirizine,3,Adverse reactions,vLess-DILI-Concern,2,388.9,C1CN(CCN1CCOCC(=O)O)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl
+LT01191,solifenacin,3,Adverse reactions,Ambiguous DILI-concern,2,362.5,C1CN2CCC1C(C2)OC(=O)N3CCC4=CC=CC=C4C3C5=CC=CC=C5
+LT01192,ranolazine,0,No match,vNo-DILI-Concern,2,427.5,CC1=C(C(=CC=C1)C)NC(=O)CN2CCN(CC2)CC(COC3=CC=CC=C3OC)O
+LT01193,etonogestrel,5,Warnings and precautions,Ambiguous DILI-concern,2,324.5,CCC12CC(=C)C3C(C1CCC2(C#C)O)CCC4=CC(=O)CCC34
+LT01194,fosamprenavir,3,Warnings and precautions,Ambiguous DILI-concern,2,585.6,CC(C)CN(CC(C(CC1=CC=CC=C1)NC(=O)OC2CCOC2)OP(=O)(O)O)S(=O)(=O)C3=CC=C(C=C3)N
+LT01195,aprepitant,3,Adverse reactions,Ambiguous DILI-concern,2,536.4,CC(C1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F)OC2C(N(CCO2)CC3NC(=O)NN3)C4=CC=C(C=C4)F
+LT01196,chloramphenicol,0,No match,vNo-DILI-Concern,2,323.13,C1=CC(=CC=C1C(C(CO)NC(=O)C(Cl)Cl)O)[N+](=O)[O-]
+LT01198,chlordiazepoxide,5,Adverse reactions,vLess-DILI-Concern,2,299.75,CN=C1CN(C(=C2C=C(C=CC2=N1)Cl)C3=CC=CC=C3)O
+LT01199,atazanavir,3,Warnings and precautions,vLess-DILI-Concern,2,704.9,CC(C)(C)C(C(=O)NC(CC1=CC=CC=C1)C(CN(CC2=CC=C(C=C2)C3=CC=CC=N3)NC(=O)C(C(C)(C)C)NC(=O)OC)O)NC(=O)OC
+LT01200,daptomycin,5,Adverse reactions,vLess-DILI-Concern,2,1620.7,CCCCCCCCCC(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)NC(CC(=O)N)C(=O)NC(CC(=O)O)C(=O)NC3C(OC(=O)C(NC(=O)C(NC(=O)C(NC(=O)CNC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)CNC3=O)CCCN)CC(=O)O)C)CC(=O)O)CO)C(C)CC(=O)O)CC(=O)C4=CC=CC=C4N)C
+LT01201,chlormezanone,8,Withdrawn,vMost-DILI-Concern,1,273.74,CN1C(S(=O)(=O)CCC1=O)C2=CC=C(C=C2)Cl
+LT01202,bortezomib,7,Warnings and precautions,vMost-DILI-Concern,2,384.2,B(C(CC(C)C)NC(=O)C(CC1=CC=CC=C1)NC(=O)C2=NC=CN=C2)(O)O
+LT01203,anidulafungin,7,Warnings and precautions,Ambiguous DILI-concern,2,1140.2,CCCCCOC1=CC=C(C=C1)C2=CC=C(C=C2)C3=CC=C(C=C3)C(=O)NC4CC(C(NC(=O)C5C(C(CN5C(=O)C(NC(=O)C(NC(=O)C6CC(CN6C(=O)C(NC4=O)C(C)O)O)C(C(C7=CC=C(C=C7)O)O)O)C(C)O)C)O)O)O
+LT01204,rasagiline,3,Adverse reactions,Ambiguous DILI-concern,2,171.24,C#CCNC1CCC2=CC=CC=C12
+LT01206,clofarabine,8,Warnings and precautions,Ambiguous DILI-concern,2,303.68,C1=NC2=C(N=C(N=C2N1C3C(C(C(O3)CO)O)F)Cl)N
+LT01207,chloroquine,3,Adverse reactions,vLess-DILI-Concern,1,319.9,CCN(CC)CCCC(C)NC1=C2C=CC(=CC2=NC=C1)Cl
+LT01208,chlorothiazide,2,Adverse reactions,vLess-DILI-Concern,2,295.7,C1=C2C(=CC(=C1Cl)S(=O)(=O)N)S(=O)(=O)N=CN2
+LT01209,cinacalcet,0,No match,vNo-DILI-Concern,2,393.9,CC(C1=CC=CC2=CC=CC=C21)NCCCC3=CC(=CC=C3)C(F)(F)F.Cl
+LT01210,conivaptan,0,No match,vNo-DILI-Concern,2,498.6,CC1=NC2=C(N1)CCN(C3=CC=CC=C32)C(=O)C4=CC=C(C=C4)NC(=O)C5=CC=CC=C5C6=CC=CC=C6
+LT01212,nebivolol,3,Adverse reactions,Ambiguous DILI-concern,2,405.4,C1CC2=C(C=CC(=C2)F)OC1C(CNCC(C3CCC4=C(O3)C=CC(=C4)F)O)O
+LT01213,chlorthalidone,2,Adverse reactions,Ambiguous DILI-concern,2,338.8,C1=CC=C2C(=C1)C(=O)NC2(C3=CC(=C(C=C3)Cl)S(=O)(=O)N)O
+LT01214,erlotinib,8,Warnings and precautions,vMost-DILI-Concern,2,393.4,COCCOC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC=CC(=C3)C#C)OCCOC
+LT01215,alvimopan,0,No match,vNo-DILI-Concern,2,187.71,C1C2CC3CC1CC(C2)(C3)N.Cl
+LT01216,cidofovir,5,Adverse reactions,Ambiguous DILI-concern,2,279.19,C1=CN(C(=O)N=C1N)CC(CO)OCP(=O)(O)O
+LT01217,ramelteon,0,No match,vNo-DILI-Concern,2,312.5,CCN(CC)C(C)CN1C2=CC=CC=C2SC3=CC=CC=C31
+LT01218,cimetidine,2,Adverse reactions,vLess-DILI-Concern,1,252.34,CC1=C(N=CN1)CSCCNC(=NC)NC#N
+LT01219,cinchophen,8,Withdrawn,vMost-DILI-Concern,1,249.26,C1=CC=C(C=C1)C2=NC3=CC=CC=C3C(=C2)C(=O)O
+LT01220,tipranavir,8,Box warning,vMost-DILI-Concern,1,234.20,CCOC(=O)C1=CC(=O)OC2=C1C=CC(=C2)O
+LT01222,tigecycline,8,Warnings and precautions,Ambiguous DILI-concern,2,196.24,CC1=CC(=CC=C1)C2=CC=CC(=C2)C=O
+LT01224,cladribine,3,Warnings and precautions,Ambiguous DILI-concern,2,285.69,C1C(C(OC1N2C=NC3=C(N=C(N=C32)Cl)N)CO)O
+LT01225,clindamycin,3,Warnings and precautions,vLess-DILI-Concern,2,425.0,CCCC1CC(N(C1)C)C(=O)NC(C2C(C(C(C(O2)SC)O)O)O)C(C)Cl
+LT01227,mecasermin,3,Adverse reactions,Ambiguous DILI-concern,2,ND,ND
+LT01228,clometacin,8,Withdrawn,vMost-DILI-Concern,1,331.22,C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)(O)O)O
+LT01229,urokinase,0,No match,vNo-DILI-Concern,2,302.35,CC(C)OC(=O)NC1=CC2=C(C=C1)N=C(N2)C3=CSC=N3
+LT01230,armodafinil,3,Warnings and precautions,Ambiguous DILI-concern,2,273.4,C1=CC=C(C=C1)C(C2=CC=CC=C2)S(=O)CC(=O)N
+LT01231,clonidine,3,Adverse reactions,Ambiguous DILI-concern,1,230.09,C1CN=C(N1)NC2=C(C=CC=C2Cl)Cl
+LT01233,nelarabine,4,Adverse reactions,vLess-DILI-Concern,2,297.27,COC1=NC(=NC2=C1N=CN2C3C(C(C(O3)CO)O)O)N
+LT01235,cloxacillin,3,Warnings and precautions,vLess-DILI-Concern,2,434.9,CC1=C(C(=NO1)C2=CC=CC=C2Cl)C(=O)NC3C4N(C3=O)C(C(S4)(C)C)C(=O)[O-]
+LT01238,lenalidomide,3,Warnings and precautions,vLess-DILI-Concern,2,342.8,C1CC1CN2C(=O)CN=C(C3=C2C=CC(=C3)Cl)C4=CC=CC=C4F
+LT01239,tetrabenazine,3,Adverse reactions,Ambiguous DILI-concern,2,317.4,CC(C)CC1CN2CCC3=CC(=C(C=C3C2CC1=O)OC)OC
+LT01240,lubiprostone,0,No match,vNo-DILI-Concern,2,390.5,CCCCC(C1(CCC2C(O1)CC(=O)C2CCCCCCC(=O)O)O)(F)F
+LT01241,sorafenib,8,Warnings and precautions,vMost-DILI-Concern,2,116.16,C1CCOC(C1)CO
+LT01242,varenicline,2,Adverse reactions,vLess-DILI-Concern,2,372.75,C[Si](C)(C)O[Si](C1=CC=CC=C1)(O[Si](C)(C)C)O[Si](C)(C)C
+LT01243,darunavir,8,Warnings and precautions,vMost-DILI-Concern,2,547.7,CC(C)CN(CC(C(CC1=CC=CC=C1)NC(=O)OC2COC3C2CCO3)O)S(=O)(=O)C4=CC=C(C=C4)N
+LT01244,aliskiren,0,No match,vLess-DILI-Concern,2,170.25,CC1(CC(=NO)CC(N1)(C)C)C
+LT01248,dasatinib,4,Adverse reactions,vLess-DILI-Concern,2,311.36,CC1=C(C(=O)N(N1C)C2=CC=CC=C2)N(C)CS(=O)(=O)O
+LT01249,cyclobenzaprine,5,Adverse reactions,vLess-DILI-Concern,2,275.4,CN(C)CCC=C1C2=CC=CC=C2C=CC3=CC=CC=C31
+LT01250,cyclofenil,8,Withdrawn,vMost-DILI-Concern,1,364.4,CC(=O)OC1=CC=C(C=C1)C(=C2CCCCC2)C3=CC=C(C=C3)OC(=O)C
+LT01251,sitagliptin,4,Adverse reactions,vLess-DILI-Concern,2,407.31,C1CN2C(=NN=C2C(F)(F)F)CN1C(=O)CC(CC3=CC(=C(C=C3F)F)F)N
+LT01252,paliperidone,0,No match,vNo-DILI-Concern,2,426.5,CC1=C(C(=O)N2CCCC(C2=N1)O)CCN3CCC(CC3)C4=NOC5=C4C=CC(=C5)F
+LT01253,cycloserine,3,Warnings and precautions,Ambiguous DILI-concern,2,102.09,C1C(C(=O)NO1)N
+LT01254,posaconazole,8,Warnings and precautions,Ambiguous DILI-concern,2,207.64,C1=CC(=C(C=C1N)S(=O)(=O)O)Cl
+LT01255,cyproheptadine,7,Adverse reactions,vLess-DILI-Concern,2,287.4,CN1CCC(=C2C3=CC=CC=C3C=CC4=CC=CC=C42)CC1
+LT01256,cysteamine,3,Adverse reactions,Ambiguous DILI-concern,2,77.15,C(CS)N
+LT01257,fosaprepitant,3,Adverse reactions,Ambiguous DILI-concern,2,614.4,CC(C1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F)OC2C(N(CCO2)CC3=NN(C(=O)N3)P(=O)(O)O)C4=CC=C(C=C4)F
+LT01258,hydroxocobalamin,3,Adverse reactions,Ambiguous DILI-concern,2,1347.4,CC1=CC2=C(C=C1C)N(C=N2)C3C(C(C(O3)CO)OP(=O)([O-])OC(C)CNC(=O)CCC4(C(C5C6(C(C(C(=N6)C(=C7C(C(C(=N7)C=C8C(C(C(=N8)C(=C4[N-]5)C)CCC(=O)N)(C)C)CCC(=O)N)(C)CC(=O)N)C)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.O.[Co+2]
+LT01261,temsirolimus,0,No match,vNo-DILI-Concern,2,329.3,CN1C=C(C(=O)C(=C1)C2=CC(=CC=C2)C(F)(F)F)C3=CC=CC=C3
+LT01262,tetrahydrobiopterin,0,No match,vNo-DILI-Concern,2,196.20,CCCC(=O)C1=CC(=C(C=C1O)O)O
+LT01263,milnacipran,7,Warnings and precautions,vMost-DILI-Concern,2,246.35,CCN(CC)C(=O)C1(CC1CN)C2=CC=CC=C2
+LT01265,desipramine,3,Adverse reactions,Ambiguous DILI-concern,1,266.4,CNCCCN1C2=CC=CC=C2CCC3=CC=CC=C31
+LT01266,dexlansoprazole,4,Adverse reactions,vLess-DILI-Concern,2,32.042,CO
+LT01267,everolimus,4,Adverse reactions,Ambiguous DILI-concern,2,227.23,C[Si](C=C)(O[Si](C)(C=C)Cl)Cl
+LT01269,codeine,0,No match,vNo-DILI-Concern,2,299.4,CN1CCC23C4C1CC5=C2C(=C(C=C5)OC)OC3C(C=C4)O
+LT01273,dexrazoxane,4,Adverse reactions,Ambiguous DILI-concern,2,268.27,CC(CN1CC(=O)NC(=O)C1)N2CC(=O)NC(=O)C2
+LT01275,colistimethate,0,No match,vNo-DILI-Concern,1,1749.8,CCC(C)CCCCC(=O)NC(CCNCS(=O)(=O)[O-])C(=O)NC(C(C)O)C(=O)NC(CCNCS(=O)(=O)[O-])C(=O)NC1CCNC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC1=O)CCNCS(=O)(=O)[O-])CC(C)C)CC(C)C)CCNCS(=O)(=O)[O-])CCNCS(=O)(=O)[O-])C(C)O.[Na+].[Na+].[Na+].[Na+].[Na+]
+LT01276,benzylpenicilloyl polylysine,0,No match,vNo-DILI-Concern,2,465.6,CC1(C(NC(S1)C(C(=O)NCCCCCC(=O)O)NC(=O)CC2=CC=CC=C2)C(=O)O)C
+LT01279,cephradine,4,Adverse reactions,Ambiguous DILI-concern,2,349.4,CC1=C(N2C(C(C2=O)NC(=O)C(C3=CCC=CC3)N)SC1)C(=O)O
+LT01281,ceftizoxime,4,Adverse reactions,Ambiguous DILI-concern,2,383.4,CON=C(C1=CSC(=N1)N)C(=O)NC2C3N(C2=O)C(=CCS3)C(=O)O
+LT01285,didanosine,8,Warnings and precautions,vMost-DILI-Concern,1,236.23,C1CC(OC1CO)N2C=NC3C2=NC=NC3=O
+LT01288,mycophenolate mofetil,3,Adverse reactions,vLess-DILI-Concern,2,302.73,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3F
+LT01289,cefdinir,7,Adverse reactions,vLess-DILI-Concern,2,395.4,C=CC1=C(N2C(C(C2=O)NC(=O)C(=NO)C3=CSC(=N3)N)SC1)C(=O)O
+LT01291,polymyxin b sulfate,0,No match,vNo-DILI-Concern,2,1203.5,CCC(C)CCCCC(=O)NC(CCN)C(=O)NC(C(C)O)C(=O)NC(CCN)C(=O)NC1CCNC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC1=O)CCN)CC2=CC=CC=C2)CC(C)C)CCN)CCN)C(C)O
+LT01292,diltiazem,4,Warnings and precautions,vMost-DILI-Concern,2,414.5,CC(=O)OC1C(SC2=CC=CC=C2N(C1=O)CCN(C)C)C3=CC=C(C=C3)OC
+LT01294,sterile water,0,No match,vNo-DILI-Concern,2,18.015,O
+LT01302,disopyramide,2,Adverse reactions,vLess-DILI-Concern,2,339.5,CC(C)N(CCC(C1=CC=CC=C1)(C2=CC=CC=N2)C(=O)N)C(C)C
+LT01303,asparaginase,7,Warnings and precautions,vMost-DILI-Concern,2,131.11,C(C(C(=O)[O-])N)C(=O)N
+LT01305,botulinum toxin type a,0,No match,vNo-DILI-Concern,2,ND,ND
+LT01306,interferon alfa-2b,8,Warnings and precautions,vMost-DILI-Concern,2,746.5,CCCN(CCOC1=C(C=C(C=C1Cl)Cl)Cl)C(=O)N2C=CN=C2.C(S(=O)(=O)[O-])(I)I.[Na+]
+LT01308,dobutamine,0,No match,vNo-DILI-Concern,1,301.4,CC(CCC1=CC=C(C=C1)O)NCCC2=CC(=C(C=C2)O)O
+LT01309,docetaxel,3,Warnings and precautions,vLess-DILI-Concern,1,807.9,CC1=C2C(C(=O)C3(C(CC4C(C3C(C(C2(C)C)(CC1OC(=O)C(C(C5=CC=CC=C5)NC(=O)OC(C)(C)C)O)O)OC(=O)C6=CC=CC=C6)(CO4)OC(=O)C)O)C)O
+LT01311,"interferon alfa-2a, recombinant",8,Warnings and precautions,vMost-DILI-Concern,2,ND,ND
+LT01313,doxazosin,3,Adverse reactions,Ambiguous DILI-concern,2,451.5,COC1=C(C=C2C(=C1)C(=NC(=N2)N3CCN(CC3)C(=O)C4COC5=CC=CC=C5O4)N)OC
+LT01314,doxepin,4,Adverse reactions,vLess-DILI-Concern,2,279.4,CN(C)CCC=C1C2=CC=CC=C2COC3=CC=CC=C31
+LT01315,alteplase,0,No match,vNo-DILI-Concern,2,568.7,CC1=CC=C(C=C1)N(C2=CC=C(C=C2)C)C3=C4C=CC=CC4=C(C5=CC=CC=C53)N(C6=CC=C(C=C6)C)C7=CC=C(C=C7)C
+LT01316,epoetin alfa,0,No match,vNo-DILI-Concern,2,325.4,C1=CC=C(C=C1)CC(CC(=O)CNC(=O)C2=CC=CC=C2)C(=O)O
+LT01317,droperidol,0,No match,vNo-DILI-Concern,2,379.4,C1CN(CC=C1N2C3=CC=CC=C3NC2=O)CCCC(=O)C4=CC=C(C=C4)F
+LT01318,droxicam,8,Withdrawn,vMost-DILI-Concern,1,357.3,CN1C2=C(C3=CC=CC=C3S1(=O)=O)OC(=O)N(C2=O)C4=CC=CC=N4
+LT01319,aldesleukin,3,Warnings and precautions,Ambiguous DILI-concern,2,ND,ND
+LT01320,filgrastim,1,Adverse reactions,Ambiguous DILI-concern,2,ND,ND
+LT01321,sargramostim,0,No match,vNo-DILI-Concern,2,ND,ND
+LT01322,pegaspargase,3,Adverse reactions,vLess-DILI-Concern,2,217.31,CC1=CC(=C(C=C1)C(=O)C(=C)CN(C)C)C
+LT01323,efavirenz,7,Warnings and precautions,vMost-DILI-Concern,2,315.67,C1CC1C#CC2(C3=C(C=CC(=C3)Cl)NC(=O)O2)C(F)(F)F
+LT01326,muromonab-cd3,3,Warnings and precautions,Ambiguous DILI-concern,2,ND,ND
+LT01328,interferon beta-1b,7,Warnings and precautions,vMost-DILI-Concern,2,ND,ND
+LT01330,abciximab,0,No match,vNo-DILI-Concern,2,463.0,CC1=CC(=C(C=C1Cl)C)S(=O)(=O)N2CCC(CC2)C3=NC=CN3CC4=C(ON=C4C)C
+LT01332,interferon beta-1a,7,Warnings and precautions,vMost-DILI-Concern,2,ND,ND
+LT01333,esmolol,0,No match,vNo-DILI-Concern,1,295.37,CC(C)NCC(COC1=CC=C(C=C1)CCC(=O)OC)O
+LT01334,estazolam,0,No match,vNo-DILI-Concern,2,294.74,C1C2=NN=CN2C3=C(C=C(C=C3)Cl)C(=N1)C4=CC=CC=C4
+LT01336,interferon alfacon-1,7,Warnings and precautions,vMost-DILI-Concern,2,219.67,CNC(CC1=CN=CN1)C(=O)OC.Cl
+LT01339,oprelvekin,0,No match,vNo-DILI-Concern,2,ND,ND
+LT01342,estramustine,4,Warnings and precautions,vMost-DILI-Concern,2,520.4,CC12CCC3C(C1CCC2OP(=O)(O)O)CCC4=C3C=CC(=C4)OC(=O)N(CCCl)CCCl
+LT01344,ethacrynic acid,5,Adverse reactions,Ambiguous DILI-concern,1,303.13,CCC(=C)C(=O)C1=C(C(=C(C=C1)OCC(=O)O)Cl)Cl
+LT01345,ethambutol,8,Warnings and precautions,vMost-DILI-Concern,1,204.31,CCC(CO)NCCNC(CC)CO
+LT01346,basiliximab,0,No match,vNo-DILI-Concern,2,ND,ND
+LT01347,denileukin diftitox,3,Adverse reactions,Ambiguous DILI-concern,2,504.6,C1CCCC2=C(CC1)C(=C(C(=O)O2)C(C3CC3)C4=CC(=CC=C4)NS(=O)(=O)C5=CC=C(C=C5)C#N)O
+LT01348,ethionamide,3,Warnings and precautions,vLess-DILI-Concern,2,167.20,C#CC1(CCCCC1)OC(=O)N
+LT01349,palivizumab,0,No match,vNo-DILI-Concern,2,ND,ND
+LT01350,infliximab,8,Warnings and precautions,vMost-DILI-Concern,2,ND,ND
+LT01351,reteplase,0,No match,vNo-DILI-Concern,2,157.21,C1CC(CCC1CN)C(=O)O
+LT01352,trastuzumab,0,No match,vLess-DILI-Concern,2,489.6,C1C(N(CC2=C(N1CC3=CN=CN3)C=CC(=C2)C#N)S(=O)(=O)C4=CC=CS4)CC5=CC=CC=C5
+LT01353,etanercept,3,Warnings and precautions,vLess-DILI-Concern,2,ND,ND
+LT01354,interferon gamma-1b,3,Warnings and precautions,Ambiguous DILI-concern,2,ND,ND
+LT01355,etidronic acid,0,No match,vNo-DILI-Concern,1,206.03,CC(O)(P(=O)(O)O)P(=O)(O)O
+LT01356,botulinum toxin type b,0,No match,vNo-DILI-Concern,2,ND,ND
+LT01357,etomidate,0,No match,vNo-DILI-Concern,2,244.29,CCOC(=O)C1=CN=CN1C(C)C2=CC=CC=C2
+LT01359,exifone,8,Withdrawn,vMost-DILI-Concern,1,278.21,C1=CC(=C(C(=C1C(=O)C2=CC(=C(C(=C2)O)O)O)O)O)O
+LT01360,tenecteplase,0,No match,vNo-DILI-Concern,2,ND,ND
+LT01363,rasburicase,0,No match,vNo-DILI-Concern,2,263.14,CC(=O)NC(=S)NC1=C(C=C(C=C1)Cl)Cl
+LT01364,alemtuzumab,0,No match,vNo-DILI-Concern,2,ND,ND
+LT01367,peginterferon alfa-2b,4,Warnings and precautions,vMost-DILI-Concern,2,ND,ND
+LT01370,fexofenadine,0,No match,vNo-DILI-Concern,2,501.7,CC(C)(C1=CC=C(C=C1)C(CCCN2CCC(CC2)C(C3=CC=CC=C3)(C4=CC=CC=C4)O)O)C(=O)O
+LT01371,fialuridine,8,Discontinued,vMost-DILI-Concern,1,372.09,C1=C(C(=O)NC(=O)N1C2C(C(C(O2)CO)O)F)I
+LT01372,fipexide,8,Withdrawn,vMost-DILI-Concern,1,388.8,C1CN(CCN1CC2=CC3=C(C=C2)OCO3)C(=O)COC4=CC=C(C=C4)Cl
+LT01373,anakinra,0,No match,vLess-DILI-Concern,2,509.6,CC(C)(C)C(=O)OCON=C(C1=CSC(=N1)N)C(=O)NC2C3N(C2=O)C(=C(CS3)C=C)C(=O)O
+LT01374,darbepoetin alfa,0,No match,vLess-DILI-Concern,2,ND,ND
+LT01375,flecainide,7,Adverse reactions,vLess-DILI-Concern,2,414.34,C1CCNC(C1)CNC(=O)C2=C(C=CC(=C2)OCC(F)(F)F)OCC(F)(F)F
+LT01376,peginterferon alfa-2a,7,Warnings and precautions,Ambiguous DILI-concern,2,ND,ND
+LT01377,omalizumab,0,No match,vNo-DILI-Concern,2,ND,ND
+LT01378,ibritumomab tiuxetan,0,No match,vNo-DILI-Concern,2,569.6,CC(CN(CC(CC1=CC=C(C=C1)NC(=O)NC)N(CC(=O)O)CC(=O)O)CC(=O)O)N(CC(=O)O)CC(=O)O
+LT01380,pegfilgrastim,0,No match,vNo-DILI-Concern,2,429.5,CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCN(CC3)C)F)C(=O)O.CS(=O)(=O)O
+LT01381,flucytosine,3,Warnings and precautions,Ambiguous DILI-concern,2,129.09,C1=NC(=O)NC(=C1F)N
+LT01382,fludarabine,0,No match,vNo-DILI-Concern,2,334.5,CCC=CCC=CCC=CCCCCCCCCCCCC(=O)O
+LT01384,flumazenil,0,No match,vNo-DILI-Concern,2,303.29,CCOC(=O)C1=C2CN(C(=O)C3=C(N2C=N1)C=CC(=C3)F)C
+LT01387,adalimumab,7,Adverse reactions,vLess-DILI-Concern,2,434.5,CC(C)(C)C(=O)OC1=CC=C(C=C1)S(=O)(=O)NC2=CC=CC=C2C(=O)NCC(=O)O
+LT01389,cetuximab,0,No match,vNo-DILI-Concern,2,344.5,CCCCCC=CCC=CCC=CCC=CCC=CCCC(=O)OC
+LT01390,bevacizumab,0,No match,vNo-DILI-Concern,2,ND,ND
+LT01392,palifermin,0,No match,vNo-DILI-Concern,2,ND,ND
+LT01393,natalizumab,5,Warnings and precautions,vMost-DILI-Concern,2,842.0,CC(C)CC(C(=O)NC(CCSC)C(=O)N)NC(=O)CNC(=O)C(CC1=CC=CC=C1)N(C)C(=O)C(CC2=CC=CC=C2)NC(=O)C(CC(=O)O)NC(=O)CCC(=O)O
+LT01394,flurazepam,4,Adverse reactions,vLess-DILI-Concern,2,387.9,CCN(CC)CCN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3F
+LT01396,fluvoxamine,3,Adverse reactions,Ambiguous DILI-concern,2,318.33,COCCCCC(=NOCCN)C1=CC=C(C=C1)C(F)(F)F
+LT01397,foscarnet,3,Adverse reactions,Ambiguous DILI-concern,2,122.98,C(=O)([O-])P(=O)([O-])[O-]
+LT01398,fosfomycin,6,Adverse reactions,vLess-DILI-Concern,2,138.06,CC1C(O1)P(=O)(O)O
+LT01399,fosinopril,3,Adverse reactions,vLess-DILI-Concern,2,563.7,CCC(=O)OC(C(C)C)OP(=O)(CCCCC1=CC=CC=C1)CC(=O)N2CC(CC2C(=O)O)C3CCCCC3
+LT01400,fosphenytoin,8,Warnings and precautions,vMost-DILI-Concern,2,406.24,C1=CC=C(C=C1)C2(C(=O)N(C(=O)N2)COP(=O)([O-])[O-])C3=CC=CC=C3.[Na+].[Na+]
+LT01401,galsulfase,0,No match,vNo-DILI-Concern,2,182.22,CC1(C(=O)CCCC1=O)CCC=O
+LT01402,abatacept,0,No match,vLess-DILI-Concern,2,ND,ND
+LT01404,alglucosidase alfa,0,No match,vNo-DILI-Concern,2,ND,ND
+LT01406,ganciclovir,7,Adverse reactions,Ambiguous DILI-concern,1,277.21,C1=NC2=C(N1COC(CO)CO)N=C(N=C2[O-])N.[Na+]
+LT01407,gemcitabine,8,Warnings and precautions,vMost-DILI-Concern,2,263.20,C1=CN(C(=O)N=C1N)C2C(C(C(O2)CO)O)(F)F
+LT01408,panitumumab,0,No match,vNo-DILI-Concern,2,ND,ND
+LT01409,idursulfase,0,No match,vNo-DILI-Concern,2,ND,ND
+LT01412,certolizumab pegol,4,Adverse reactions,Ambiguous DILI-concern,2,ND,ND
+LT01414,eculizumab,0,No match,vNo-DILI-Concern,2,ND,ND
+LT01415,rilonacept,0,No match,vNo-DILI-Concern,2,ND,ND
+LT01416,ustekinumab,0,No match,vNo-DILI-Concern,2,394.7,CC1(N=C(N=C(N1OCCCOC2=CC(=C(C=C2Cl)Cl)Cl)N)N)C
+LT01417,romiplostim,0,No match,vNo-DILI-Concern,2,238.28,CC1=CC(=C(N1)C=C2C3=CC=CC=C3NC2=O)C
+LT01419,golimumab,8,Adverse reactions,Ambiguous DILI-concern,2,ND,ND
+LT01421,ofatumumab,0,No match,vNo-DILI-Concern,2,242.23,C1COCC2=C3C(=CN=C21)NC(=N3)C4=NOC=C4
+LT01422,guanfacine,3,Adverse reactions,Ambiguous DILI-concern,2,246.09,C1=CC(=C(C(=C1)Cl)CC(=O)N=C(N)N)Cl
+LT01426,heparin sodium,3,Adverse reactions,vLess-DILI-Concern,2,1134.9,CC(=O)NC1C(C(C(OC1O)COS(=O)(=O)O)OC2C(C(C(C(O2)C(=O)O)OC3C(C(C(C(O3)CO)OC4C(C(C(C(O4)C(=O)O)O)O)OS(=O)(=O)O)OS(=O)(=O)O)NS(=O)(=O)O)O)OS(=O)(=O)O)O
+LT01433,hydrochlorothiazide,2,Adverse reactions,vLess-DILI-Concern,2,297.7,C1NC2=CC(=C(C=C2S(=O)(=O)N1)S(=O)(=O)N)Cl
+LT01437,hydroxyzine,0,No match,vNo-DILI-Concern,1,374.9,C1CN(CCN1CCOCCO)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl
+LT01440,idarubicin,3,Warnings and precautions,Ambiguous DILI-concern,2,497.5,CC1C(C(CC(O1)OC2CC(CC3=C2C(=C4C(=C3O)C(=O)C5=CC=CC=C5C4=O)O)(C(=O)C)O)N)O
+LT01442,antithymocyte globulin,3,Adverse reactions,Ambiguous DILI-concern,2,ND,ND
+LT01444,indapamide,5,Adverse reactions,Ambiguous DILI-concern,2,365.8,CC1CC2=CC=CC=C2N1NC(=O)C3=CC(=C(C=C3)Cl)S(=O)(=O)N
+LT01446,indinavir,8,Warnings and precautions,Ambiguous DILI-concern,1,613.8,CC(C)(C)NC(=O)C1CN(CCN1CC(CC(CC2=CC=CC=C2)C(=O)NC3C(CC4=CC=CC=C34)O)O)CC5=CN=CC=C5
+LT01454,iodipamide meglumine,0,No match,vNo-DILI-Concern,2,1139.8,C1=C(C(=C(C(=C1I)NC(=O)CCCCC(=O)NC2=C(C=C(C(=C2I)C(=O)O)I)I)I)C(=O)O)I
+LT01466,irinotecan,3,Adverse reactions,vLess-DILI-Concern,2,586.7,CCC1=C2CN3C(=CC4=C(C3=O)COC(=O)C4(CC)O)C2=NC5=C1C=C(C=C5)OC(=O)N6CCC(CC6)N7CCCCC7
+LT01468,l-methionine,0,No match,vNo-DILI-Concern,2,149.21,CSCCC(C(=O)O)N
+LT01469,isocarboxazid,5,Warnings and precautions,Ambiguous DILI-concern,1,231.25,CC1=CC(=NO1)C(=O)NNCC2=CC=CC=C2
+LT01475,isradipine,3,Adverse reactions,vLess-DILI-Concern,2,163.17,C1C(C(C(C(N1)CO)O)O)O
+LT01477,kanamycin,0,No match,vNo-DILI-Concern,1,484.5,C1C(C(C(C(C1N)OC2C(C(C(C(O2)CN)O)O)O)O)OC3C(C(C(C(O3)CO)O)N)O)N
+LT01479,riboflavin,0,No match,vNo-DILI-Concern,2,456.3,CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(COP(=O)(O)O)O)O)O
+LT01481,lamotrigine,7,Warnings and precautions,vMost-DILI-Concern,2,256.09,C1=CC(=C(C(=C1)Cl)Cl)C2=C(N=C(N=N2)N)N
+LT01486,l-carnitine,0,No match,vNo-DILI-Concern,1,162.21,C[N+](C)(C)CC(CC(=O)O)O
+LT01488,levofloxacin,8,Warnings and precautions,vMost-DILI-Concern,2,361.4,CC1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O
+LT01489,levonorgestrel,0,No match,vNo-DILI-Concern,2,312.4,CCC12CCC3C(C1CCC2(C#C)O)CCC4=CC(=O)CCC34
+LT01491,lincomycin,3,Warnings and precautions,Ambiguous DILI-concern,2,406.5,CCCC1CC(N(C1)C)C(=O)NC(C2C(C(C(C(O2)SC)O)O)O)C(C)O
+LT01492,lisinopril,3,Adverse reactions,vLess-DILI-Concern,2,312.4,CCCCOC(=O)C1=CC=CC=C1C(=O)OCC2=CC=CC=C2
+LT01497,loracarbef,3,Adverse reactions,vLess-DILI-Concern,2,349.77,C1CC(=C(N2C1C(C2=O)NC(=O)C(C3=CC=CC=C3)N)C(=O)O)Cl
+LT01498,loratadine,0,No match,vNo-DILI-Concern,2,382.9,CCOC(=O)N1CCC(=C2C3=C(CCC4=C2N=CC=C4)C=C(C=C3)Cl)CC1
+LT01499,losartan,4,Adverse reactions,vLess-DILI-Concern,2,422.9,CCCCC1=NC(=C(N1CC2=CC=C(C=C2)C3=CC=CC=C3C4=NNN=N4)CO)Cl
+LT01501,loxapine,5,Adverse reactions,Ambiguous DILI-concern,2,327.8,CN1CCN(CC1)C2=NC3=CC=CC=C3OC4=C2C=C(C=C4)Cl
+LT01503,maprotiline,5,Adverse reactions,Ambiguous DILI-concern,1,277.4,CNCCCC12CCC(C3=CC=CC=C31)C4=CC=CC=C24
+LT01508,mebanazine,8,Withdrawn,vMost-DILI-Concern,1,136.19,CC(C1=CC=CC=C1)NN
+LT01509,mechlorethamine,3,Warnings and precautions,Ambiguous DILI-concern,2,156.05,CN(CCCl)CCCl
+LT01511,meclofenamic acid,3,Warnings and precautions,Ambiguous DILI-concern,2,296.1,CC1=C(C(=C(C=C1)Cl)NC2=CC=CC=C2C(=O)O)Cl
+LT01513,medroxyprogesterone,2,Adverse reactions,Ambiguous DILI-concern,2,386.5,CC1CC2C(CCC3(C2CCC3(C(=O)C)OC(=O)C)C)C4(C1=CC(=O)CC4)C
+LT01514,mefloquine,7,Adverse reactions,vLess-DILI-Concern,2,378.31,C1CCNC(C1)C(C2=CC(=NC3=C2C=CC=C3C(F)(F)F)C(F)(F)F)O
+LT01516,vitamin e,0,No match,vNo-DILI-Concern,2,430.7,CC1=C(C2=C(CCC(O2)(C)CCCC(C)CCCC(C)CCCC(C)C)C(=C1O)C)C
+LT01517,melphalan,5,Adverse reactions,vLess-DILI-Concern,2,305.20,C1=CC(=CC=C1CC(C(=O)O)N)N(CCCl)CCCl
+LT01520,mephenytoin,5,Adverse reactions,Ambiguous DILI-concern,2,218.25,CCC1(C(=O)N(C(=O)N1)C)C2=CC=CC=C2
+LT01521,meprobamate,0,No match,vNo-DILI-Concern,2,260.33,CCCC(C)(COC(=O)N)COC(=O)NC(C)C
+LT01525,meropenem,3,Warnings and precautions,vLess-DILI-Concern,2,437.5,CC1C2C(C(=O)N2C(=C1SC3CC(NC3)C(=O)N(C)C)C(=O)O)C(C)O.O.O.O
+LT01526,mesna,3,Adverse reactions,Ambiguous DILI-concern,2,142.20,C(CS(=O)(=O)O)S
+LT01527,mesoridazine,5,Adverse reactions,Ambiguous DILI-concern,2,386.6,CN1CCCCC1CCN2C3=CC=CC=C3SC4=C2C=C(C=C4)S(=O)C
+LT01532,methazolamide,7,Adverse reactions,vLess-DILI-Concern,2,236.3,CC(=O)N=C1N(N=C(S1)S(=O)(=O)N)C
+LT01537,methoxsalen,3,Warnings and precautions,vLess-DILI-Concern,2,216.19,COC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2
+LT01545,methylphenidate,3,Adverse reactions,vLess-DILI-Concern,2,233.31,COC(=O)C(C1CCCCN1)C2=CC=CC=C2
+LT01547,methylscopolamine bromide,0,No match,vNo-DILI-Concern,2,318.4,C[N+]1(C2CC(CC1C3C2O3)OC(=O)C(CO)C4=CC=CC=C4)C
+LT01549,metoclopramide,5,Adverse reactions,vLess-DILI-Concern,2,299.79,CCN(CC)CCNC(=O)C1=CC(=C(C=C1OC)N)Cl
+LT01553,mexiletine,3,Box warning,vMost-DILI-Concern,1,179.26,CC1=C(C(=CC=C1)C)OCC(C)N
+LT01557,midazolam,0,No match,vNo-DILI-Concern,2,325.8,CC1=NC=C2N1C3=C(C=C(C=C3)Cl)C(=NC2)C4=CC=CC=C4F
+LT01558,midodrine,0,No match,vNo-DILI-Concern,2,254.28,COC1=CC(=C(C=C1)OC)C(CNC(=O)CN)O
+LT01560,mirtazapine,3,Warnings and precautions,vLess-DILI-Concern,2,265.35,CN1CCN2C(C1)C3=CC=CC=C3CC4=C2N=CC=C4
+LT01564,mitotane,0,No match,vNo-DILI-Concern,2,320.0,C1=CC=C(C(=C1)C(C2=CC=C(C=C2)Cl)C(Cl)Cl)Cl
+LT01565,mitoxantrone,3,Warnings and precautions,vLess-DILI-Concern,2,444.5,C1=CC(=C2C(=C1NCCNCCO)C(=O)C3=C(C=CC(=C3C2=O)O)O)NCCNCCO
+LT01567,moexipril,3,Adverse reactions,Ambiguous DILI-concern,2,535.0,CCOC(=O)C(CCC1=CC=CC=C1)NC(C)C(=O)N2CC3=CC(=C(C=C3CC2C(=O)O)OC)OC.Cl
+LT01571,moricizine,5,Adverse reactions,Ambiguous DILI-concern,2,464.0,CCOC(=O)NC1=CC2=C(C=C1)SC3=CC=CC=C3N2C(=O)CCN4CCOCC4.Cl
+LT01574,moxisylyte,8,Withdrawn,vMost-DILI-Concern,1,279.37,CC1=CC(=C(C=C1OC(=O)C)C(C)C)OCCN(C)C
+LT01580,folic acid,0,No match,vNo-DILI-Concern,1,441.4,C1=CC(=CC=C1C(=O)NC(CCC(=O)O)C(=O)O)NCC2=NC3C(=NC(=NC3=O)N)N=C2
+LT01581,nabumetone,3,Warnings and precautions,Ambiguous DILI-concern,2,228.29,CC(=O)CCC1=CC2=C(C=C1)C=C(C=C2)OC
+LT01582,nadolol,3,Adverse reactions,Ambiguous DILI-concern,2,309.4,CC(C)(C)NCC(COC1=CC=CC2=C1CC(C(C2)O)O)O
+LT01583,nafcillin,3,Warnings and precautions,vLess-DILI-Concern,2,138.16,C1=CC=C(C=C1)C(CO)O
+LT01586,nalbuphine,0,No match,vNo-DILI-Concern,2,357.4,C1CC(C1)CN2CCC34C5C(CCC3(C2CC6=C4C(=C(C=C6)O)O5)O)O
+LT01587,nalidixic acid,3,Warnings and precautions,Ambiguous DILI-concern,2,252.27,C1=CC=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC=CC=C3
+LT01588,nalmefene hydrochloride,3,Adverse reactions,Ambiguous DILI-concern,2,375.9,C=C1CCC2(C3CC4=C5C2(C1OC5=C(C=C4)O)CCN3CC6CC6)O.Cl
+LT01589,esomeprazole Sodium,4,Adverse reactions,vLess-DILI-Concern,2,345.4,CC1=CN=C(C(=C1OC)C)CS(=O)C2=NC3=C(N2)C=C(C=C3)OC
+LT01594,nialamide,8,Withdrawn,vMost-DILI-Concern,1,298.34,C1=CC=C(C=C1)CNC(=O)CCNNC(=O)C2=CC=NC=C2
+LT01595,nicardipine,3,Adverse reactions,Ambiguous DILI-concern,2,479.5,CC1=C(C(C(=C(N1)C)C(=O)OCCN(C)CC2=CC=CC=C2)C3=CC(=CC=C3)[N+](=O)[O-])C(=O)OC
+LT01600,nilutamide,8,Warnings and precautions,vMost-DILI-Concern,2,317.22,CC1(C(=O)N(C(=O)N1)C2=CC(=C(C=C2)[N+](=O)[O-])C(F)(F)F)C
+LT01601,nimodipine,3,Adverse reactions,Ambiguous DILI-concern,2,388.8,C1CN(CCN1CC2=CC3=C(C=C2)OCO3)C(=O)COC4=CC=C(C=C4)Cl
+LT01602,niperotidine,8,Withdrawn,vMost-DILI-Concern,1,244.4,CC1=C(N=CN1)CSCCNC(=S)NC
+LT01608,nitroglycerin,0,No match,vNo-DILI-Concern,2,227.09,C(C(CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-]
+LT01611,nomifensine,8,Withdrawn,vMost-DILI-Concern,1,238.33,CN1CC(C2=C(C1)C(=CC=C2)N)C3=CC=CC=C3
+LT01614,norfloxacin,3,Warnings and precautions,vLess-DILI-Concern,2,319.33,CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCNCC3)F)C(=O)O
+LT01615,nortriptyline,8,Warnings and precautions,vMost-DILI-Concern,1,263.4,CNCCC=C1C2=CC=CC=C2CCC3=CC=CC=C31
+LT01618,octreotide,2,Warnings and precautions,vLess-DILI-Concern,2,1139.3,CC(C1C(=O)NC(CSSCC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N1)CCCCN)CC2=CNC3=CC=CC=C32)CC4=CC=CC=C4)NC(=O)C(CC5=CC=CC=C5)N)C(=O)NC(CO)C(C)O)O.CC(=O)O.CC(=O)O
+LT01619,ondansetron,7,Adverse reactions,vLess-DILI-Concern,2,293.4,CC1=NC=CN1CC2CCC3=C(C2=O)C4=CC=CC=C4N3C
+LT01620,ofloxacin,3,Warnings and precautions,vLess-DILI-Concern,2,361.4,CC1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O
+LT01623,diphenoxylate,0,No match,vNo-DILI-Concern,2,452.6,CCOC(=O)C1(CCN(CC1)CCC(C#N)(C2=CC=CC=C2)C3=CC=CC=C3)C4=CC=CC=C4
+LT01624,oxacillin,3,Warnings and precautions,vLess-DILI-Concern,2,400.4,CC1=C(C(=NO1)C2=CC=CC=C2)C(=O)NC3C4N(C3=O)C(C(S4)(C)C)C(=O)[O-]
+LT01629,ambenonium,0,No match,vNo-DILI-Concern,2,537.6,CC[N+](CC)(CCNC(=O)C(=O)NCC[N+](CC)(CC)CC1=CC=CC=C1Cl)CC2=CC=CC=C2Cl
+LT01637,papaverine,5,Warnings and precautions,vMost-DILI-Concern,2,339.4,COC1=C(C=C(C=C1)CC2=NC=CC3=CC(=C(C=C32)OC)OC)OC
+LT01644,penbutolol,0,No match,vNo-DILI-Concern,1,291.4,CC(C)(C)NCC(COC1=CC=CC=C1C2CCCC2)O
+LT01646,penicillin g,3,Adverse reactions,vLess-DILI-Concern,2,334.4,CC1(C(N2C(S1)C(C2=O)NC(=O)CC3=CC=CC=C3)C(=O)O)C
+LT01648,penicillin v,0,No match,vNo-DILI-Concern,2,349.4,CC1(C(N2C(S1)C(C2=O)NC(=O)COC3=CC=CC=C3)C(=O)[O-])C
+LT01650,pentazocine,0,No match,vNo-DILI-Concern,2,285.4,CC1C2CC3=C(C1(CCN2CC=C(C)C)C)C=C(C=C3)O
+LT01651,pentostatin,3,Box warning,vMost-DILI-Concern,2,268.27,C1C(C(OC1N2C=NC3=C2NC=NCC3O)CO)O
+LT01652,pentoxifylline,5,Adverse reactions,Ambiguous DILI-concern,2,278.31,CC(=O)CCCCN1C(=O)C2=C(N=CN2C)N(C1=O)C
+LT01655,perphenazine,3,Warnings and precautions,vLess-DILI-Concern,2,404.0,C1CN(CCN1CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)Cl)CCO
+LT01657,phenelzine,3,Adverse reactions,vLess-DILI-Concern,2,136.19,C1=CC=C(C=C1)CCNN
+LT01666,ephedrine,0,No match,vNo-DILI-Concern,2,165.23,CC(C(C1=CC=CC=C1)O)NC
+LT01671,pilocarpine,3,Adverse reactions,Ambiguous DILI-concern,2,208.26,CCC1C(COC1=O)CC2=CN=CN2C
+LT01672,pimozide,0,No match,vNo-DILI-Concern,2,461.5,C1CN(CCC1N2C3=CC=CC=C3NC2=O)CCCC(C4=CC=C(C=C4)F)C5=CC=C(C=C5)F
+LT01673,pindolol,0,No match,vNo-DILI-Concern,2,180.16,C(C(C(C(C(=O)CO)O)O)O)O
+LT01675,piperacillin,3,Warnings and precautions,Ambiguous DILI-concern,2,517.6,CCN1CCN(C(=O)C1=O)C(=O)NC(C2=CC=CC=C2)C(=O)NC3C4N(C3=O)C(C(S4)(C)C)C(=O)O
+LT01679,piroxicam,3,Warnings and precautions,vLess-DILI-Concern,1,285.30,C1=CC(=CC=C1C#N)C(C2=CC=C(C=C2)C#N)N3C=NC=N3
+LT01680,pirprofen,8,Withdrawn,vMost-DILI-Concern,1,251.71,CC(C1=CC(=C(C=C1)N2CC=CC2)Cl)C(=O)O
+LT01684,salsalate,3,Warnings and precautions,vLess-DILI-Concern,2,258.23,C1=CC=C(C(=C1)C(=O)OC2=CC=CC=C2C(=O)O)O
+LT01688,polythiazide,2,Adverse reactions,Ambiguous DILI-concern,2,439.9,CN1C(NC2=CC(=C(C=C2S1(=O)=O)S(=O)(=O)N)Cl)CSCC(F)(F)F
+LT01698,probenecid,6,Adverse reactions,Ambiguous DILI-concern,2,285.36,CCCN(CCC)S(=O)(=O)C1=CC=C(C=C1)C(=O)O
+LT01699,procainamide,4,Adverse reactions,vLess-DILI-Concern,2,235.33,CCN(CC)CCNC(=O)C1=CC=C(C=C1)N
+LT01705,propafenone,3,Adverse reactions,vLess-DILI-Concern,2,341.4,CCCNCC(COC1=CC=CC=C1C(=O)CCC2=CC=CC=C2)O
+LT01706,propranolol,3,Warnings and precautions,Ambiguous DILI-concern,1,259.34,CC(C)NCC(COC1=CC=CC2=CC=CC=C21)O
+LT01708,propofol,3,Adverse reactions,vLess-DILI-Concern,2,178.27,CC(C)C1=C(C(=CC=C1)C(C)C)O
+LT01713,pyrantel,0,No match,vNo-DILI-Concern,2,206.31,CN1CCCN=C1C=CC2=CC=CS2
+LT01716,pyrimethamine,3,Warnings and precautions,vLess-DILI-Concern,2,248.71,CCC1=C(C(=NC(=N1)N)N)C2=CC=C(C=C2)Cl
+LT01721,quazepam,0,No match,vNo-DILI-Concern,2,386.8,C1C(=S)N(C2=C(C=C(C=C2)Cl)C(=N1)C3=CC=CC=C3F)CC(F)(F)F
+LT01723,quinapril,3,Adverse reactions,vLess-DILI-Concern,2,438.5,CCOC(=O)C(CCC1=CC=CC=C1)NC(C)C(=O)N2CC3=CC=CC=C3CC2C(=O)O
+LT01725,quinidine,3,Adverse reactions,vLess-DILI-Concern,2,324.4,COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4C=C)O
+LT01726,ramipril,7,Adverse reactions,vLess-DILI-Concern,2,416.5,CCOC(=O)C(CCC1=CC=CC=C1)NC(C)C(=O)N2C3CCCC3CC2C(=O)O
+LT01729,reserpine,0,No match,vNo-DILI-Concern,2,608.7,COC1C(CC2CN3CCC4=C(C3CC2C1C(=O)OC)NC5=C4C=CC(=C5)OC)OC(=O)C6=CC(=C(C(=C6)OC)OC)OC
+LT01730,ribavirin,7,Adverse reactions,Ambiguous DILI-concern,1,244.20,C1=NC(=NN1C2C(C(C(O2)CO)O)O)C(=O)N
+LT01731,riluzole,8,Warnings and precautions,vMost-DILI-Concern,2,165.19,CCOC1=CC=CC=C1C(=O)N
+LT01735,risperidone,3,Adverse reactions,vLess-DILI-Concern,2,410.5,CC1=C(C(=O)N2CCCCC2=N1)CCN3CCC(CC3)C4=NOC5=C4C=CC(=C5)F
+LT01737,ritonavir,8,Warnings and precautions,vMost-DILI-Concern,1,378.5,CC12CCC3C(C1CC(C2O)O)CCC4=C3C=CC(=C4)OCC5=CC=CC=C5
+LT01746,saquinavir,3,Warnings and precautions,vLess-DILI-Concern,1,670.8,CC(C)(C)NC(=O)C1CC2CCCCC2CN1CC(C(CC3=CC=CC=C3)NC(=O)C(CC(=O)N)NC(=O)C4=NC5=CC=CC=C5C=C4)O
+LT01749,selegiline,0,No match,vNo-DILI-Concern,2,187.28,CC(CC1=CC=CC=C1)N(C)CC#C
+LT01757,spectinomycin,3,Adverse reactions,Ambiguous DILI-concern,2,332.35,CC1CC(=O)C2(C(O1)OC3C(C(C(C(C3O2)NC)O)NC)O)O
+LT01766,succimer,2,Warnings and precautions,vLess-DILI-Concern,2,182.2,C(C(C(=O)O)S)(C(=O)O)S
+LT01779,sumatriptan,3,Adverse reactions,Ambiguous DILI-concern,2,295.40,CNS(=O)(=O)CC1=CC2=C(C=C1)NC=C2CCN(C)C
+LT01785,temazepam,3,Warnings and precautions,Ambiguous DILI-concern,2,300.74,CN1C2=C(C=C(C=C2)Cl)C(=NC(C1=O)O)C3=CC=CC=C3
+LT01786,teniposide,3,Warnings and precautions,vLess-DILI-Concern,2,656.7,COC1=CC(=CC(=C1O)OC)C2C3C(COC3=O)C(C4=CC5=C(C=C24)OCO5)OC6C(C(C7C(O6)COC(O7)C8=CC=CS8)O)O
+LT01787,terazosin,0,No match,vNo-DILI-Concern,2,248.32,CC(C)NCC(COC1=CC=CC2=C1C=CN2)O
+LT01804,thiotepa,3,Warnings and precautions,vLess-DILI-Concern,2,189.22,C1CN1P(=S)(N2CC2)N3CC3
+LT01805,thiothixene,2,Warnings and precautions,Ambiguous DILI-concern,2,443.6,CN1CCN(CC1)CCC=C2C3=CC=CC=C3SC4=C2C=C(C=C4)S(=O)(=O)N(C)C
+LT01815,timolol,5,Adverse reactions,Ambiguous DILI-concern,2,316.42,CC(C)(C)NCC(COC1=NSN=C1N2CCOCC2)O
+LT01816,sulcotidil,8,Withdrawn,vMost-DILI-Concern,1,337.6,CCCCCCCCNC(C)C(C1=CC=C(C=C1)SC(C)C)O
+LT01818,tiopronin,3,Warnings and precautions,Ambiguous DILI-concern,2,163.20,CC(C(=O)NCC(=O)O)S
+LT01820,tolmetin,3,Adverse reactions,vLess-DILI-Concern,2,257.28,CC1=CC=C(C=C1)C(=O)C2=CC=C(N2C)CC(=O)O
+LT01822,tolrestat,8,Withdrawn,vMost-DILI-Concern,1,357.3,CN(CC(=O)O)C(=S)C1=CC=CC2=C1C=CC(=C2C(F)(F)F)OC
+LT01824,topotecan,0,No match,vNo-DILI-Concern,2,421.4,CCC1(C2=C(COC1=O)C(=O)N3CC4=CC5=C(C=CC(=C5CN(C)C)O)N=C4C3=C2)O
+LT01827,tramadol,7,Adverse reactions,Ambiguous DILI-concern,2,263.37,CN(C)CC1CCCCC1(C2=CC(=CC=C2)OC)O
+LT01828,trandolapril,4,Adverse reactions,vLess-DILI-Concern,2,430.5,CCOC(=O)C(CCC1=CC=CC=C1)NC(C)C(=O)N2C3CCCCC3CC2C(=O)O
+LT01829,tranylcypromine,3,Adverse reactions,vLess-DILI-Concern,2,166.24,CC[N+](C)(C)C1=CC(=CC=C1)O
+LT01830,trazodone,5,Adverse reactions,vLess-DILI-Concern,1,371.9,C1CN(CCN1CCCN2C(=O)N3C=CC=CC3=N2)C4=CC(=CC=C4)Cl
+LT01833,triamterene,5,Adverse reactions,vLess-DILI-Concern,2,253.26,C1=CC=C(C=C1)C2=NC3=C(N=C(N=C3N=C2N)N)N
+LT01834,triazolam,4,Adverse reactions,Ambiguous DILI-concern,2,343.2,CC1=NN=C2N1C3=C(C=C(C=C3)Cl)C(=NC2)C4=CC=CC=C4Cl
+LT01839,trihexyphenidyl,0,No match,vNo-DILI-Concern,2,301.5,C1CCC(CC1)C(CCN2CCCCC2)(C3=CC=CC=C3)O
+LT01840,trimethadione,5,Warnings and precautions,Ambiguous DILI-concern,2,143.14,CC1(C(=O)N(C(=O)O1)C)C
+LT01841,trimethobenzamide,5,Adverse reactions,Ambiguous DILI-concern,2,388.5,CN(C)CCOC1=CC=C(C=C1)CNC(=O)C2=CC(=C(C(=C2)OC)OC)OC
+LT01842,trimethoprim,4,Adverse reactions,vLess-DILI-Concern,2,290.32,COC1=CC(=CC(=C1OC)OC)CC2=CN=C(N=C2N)N
+LT01843,trimetrexate,3,Warnings and precautions,Ambiguous DILI-concern,2,370.4,CC1=C(C=CC2=C1C(=[NH+]C(=N2)N)N)CNC3=CC(=C(C(=C3)OC)OC)OC
+LT01844,trimipramine,2,Adverse reactions,Ambiguous DILI-concern,2,294.4,CC(CN1C2=CC=CC=C2CCC3=CC=CC=C31)CN(C)C
+LT01846,fenclozic acid,8,Withdrawn,vMost-DILI-Concern,1,253.71,C1=CC(=CC=C1C2=NC(=CS2)CC(=O)O)Cl
+LT01849,ebrotidine,8,Withdrawn,vMost-DILI-Concern,1,477.4,C1=CC(=CC=C1S(=O)(=O)NC=NCCSCC2=CSC(=N2)N=C(N)N)Br
+LT01853,aceclofenac,0,No match,vLess-DILI-Concern,2,354.2,C1=CC=C(C(=C1)CC(=O)OCC(=O)O)NC2=C(C=CC=C2Cl)Cl
+LT01854,nitrefazole,8,Withdrawn,vMost-DILI-Concern,1,248.19,CC1=NC(=CN1C2=CC=C(C=C2)[N+](=O)[O-])[N+](=O)[O-]
+LT01855,ursodeoxycholic acid,0,Warnings and precautions,Ambiguous DILI-concern,2,392.6,CC(CCC(=O)O)C1CCC2C1(CCC3C2C(CC4C3(CCC(C4)O)C)O)C
+LT01856,valaciclovir,3,Adverse reactions,vLess-DILI-Concern,2,324.34,CC(C)C(C(=O)OCCOCN1C=NC2C1=NC(=NC2=O)N)N
+LT01857,valsartan,3,Adverse reactions,vLess-DILI-Concern,2,435.5,CCCCC(=O)N(CC1=CC=C(C=C1)C2=CC=CC=C2C3=NNN=N3)C(C(C)C)C(=O)O
+LT01858,tetrabamate,8,Withdrawn,vMost-DILI-Concern,1,1216.3,CCCCOCC(CN1C(=O)C(C(=O)NC1=O)(CC)C2=CC=CC=C2)OC(=O)N.CCCCOCC(CN1C(=O)C(C(=O)N(C1=O)CC(COCCCC)OC(=O)N)(CC)C2=CC=CC=C2)OC(=O)N.CCC1(C(=O)NC(=O)NC1=O)C2=CC=CC=C2
+LT01862,vincristine,8,Adverse reactions,vLess-DILI-Concern,2,342.4,CCOC(=O)C1C(O1)C(=O)NC(CC(C)C)C(=O)NCCC(C)C
+LT01867,xenazoic acid,8,Withdrawn,vMost-DILI-Concern,1,375.4,CCOC(C(=O)C1=CC=C(C=C1)C2=CC=CC=C2)NC3=CC=C(C=C3)C(=O)O
+LT01869,zafirlukast,8,Warnings and precautions,vMost-DILI-Concern,1,575.7,CC1=CC=CC=C1S(=O)(=O)NC(=O)C2=CC(=C(C=C2)CC3=CN(C4=C3C=C(C=C4)NC(=O)OC5CCCC5)C)OC
+LT01870,falnidamol,8,Discontinued,vMost-DILI-Concern,1,387.8,CN1CCC(CC1)NC2=NC=C3C(=N2)C(=NC=N3)NC4=CC(=C(C=C4)F)Cl
+LT01874,zimelidine,8,Withdrawn,vMost-DILI-Concern,1,317.22,CN(C)CC=C(C1=CC=C(C=C1)Br)C2=CN=CC=C2
+LT01888,caffeine,0,No match,vNo-DILI-Concern,2,194.19,CN1C=NC2=C1C(=O)N(C(=O)N2C)C
+LT01889,capreomycin,3,Adverse reactions,Ambiguous DILI-concern,2,668.7,C1CN=C(NC1C2C(=O)NCC(C(=O)NC(C(=O)NC(C(=O)NC(=CNC(=O)N)C(=O)N2)CNC(=O)CC(CCCN)N)CO)N)N
+LT01905,lidocaine,0,No match,vNo-DILI-Concern,2,234.34,CCN(CC)CC(=O)NC1=C(C=CC=C1C)C
+LT01908,memantine,7,Adverse reactions,vLess-DILI-Concern,2,179.30,CC12CC3CC(C1)(CC(C3)(C2)N)C
+LT01916,pamidronate,3,Adverse reactions,Ambiguous DILI-concern,2,235.07,C(CN)C(O)(P(=O)(O)O)P(=O)(O)O
+LT01923,quinine,3,Warnings and precautions,vLess-DILI-Concern,2,324.4,COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4C=C)O
+LT01928,rosuvastatin,3,Warnings and precautions,vLess-DILI-Concern,2,481.5,CC(C)C1=NC(=NC(=C1C=CC(CC(CC(=O)O)O)O)C2=CC=C(C=C2)F)N(C)S(=O)(=O)C
+LT01933,sulfamethizole,0,No match,vLess-DILI-Concern,2,270.3,CC1=NN=C(S1)NS(=O)(=O)C2=CC=C(C=C2)N
+LT01944,telithromycin,8,Warnings and precautions,vMost-DILI-Concern,2,812.0,CCC1C2(C(C(C(=O)C(CC(C(C(C(=O)C(C(=O)O1)C)C)OC3C(C(CC(O3)C)N(C)C)O)(C)OC)C)C)N(C(=O)O2)CCCCN4C=C(N=C4)C5=CN=CC=C5)C
+LT01953,follitropin alfa/beta,3,Warnings and precautions,Ambiguous DILI-concern,2,ND,ND
+LT01968,entacapone,0,No match,vLess-DILI-Concern,2,426.7,CCCCCCCCCCCCCCCCCC(=O)CC(CC(=O)O)C[N+](C)(C)C
+LT01971,valdecoxib,3,Warnings and precautions,vLess-DILI-Concern,2,314.4,CC1=C(C(=NO1)C2=CC=CC=C2)C3=CC=C(C=C3)S(=O)(=O)N
+LT01972,dexpanthenol,0,No match,vNo-DILI-Concern,2,205.25,CC(C)(CO)C(C(=O)NCCCO)O
+LT01974,scopolamine,0,No match,vNo-DILI-Concern,2,303.35,CN1C2CC(CC1C3C2O3)OC(=O)C(CO)C4=CC=CC=C4
+LT01980,pyridoxine,0,No match,vNo-DILI-Concern,2,169.18,CC1=NC=C(C(=C1O)CO)CO
+LT01981,thiamine,0,No match,vNo-DILI-Concern,2,265.36,CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCO
+LT02002,cyanocobalamin,0,No match,vNo-DILI-Concern,1,1355.4,CC1=CC2=C(C=C1C)N(C=N2)C3C(C(C(O3)CO)OP(=O)([O-])OC(C)CNC(=O)CCC4(C(C5C6(C(C(C(=N6)C(=C7C(C(C(=N7)C=C8C(C(C(=N8)C(=C4[N-]5)C)CCC(=O)N)(C)C)CCC(=O)N)(C)CC(=O)N)C)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.[C-]#N.[Co+3]
+LT02004,cromoglicate,3,Adverse reactions,vLess-DILI-Concern,1,468.4,C1=CC2=C(C(=C1)OCC(COC3=CC=CC4=C3C(=O)C=C(O4)C(=O)O)O)C(=O)C=C(O2)C(=O)O
+LT02007,montelukast,3,Adverse reactions,vLess-DILI-Concern,1,586.2,CC(C)(C1=CC=CC=C1CCC(C2=CC=CC(=C2)C=CC3=NC4=C(C=CC(=C4)Cl)C=C3)SCC5(CC5)CC(=O)O)O
+LT02008,moxifloxacin,8,Adverse reactions,vLess-DILI-Concern,2,401.4,COC1=C2C(=CC(=C1N3CC4CCCNC4C3)F)C(=O)C(=CN2C5CC5)C(=O)O
+LT02009,vitamin c,0,No match,vNo-DILI-Concern,2,198.11,C(C(C1C(=C(C(=O)O1)O)[O-])O)O.[Na+]
+LT02010,sorbitol,0,No match,vNo-DILI-Concern,2,182.17,C(C(C(C(C(CO)O)O)O)O)O
+LT02018,capecitabine,2,Warnings and precautions,Ambiguous DILI-concern,2,359.35,CCCCCOC(=O)NC1=NC(=O)N(C=C1F)C2C(C(C(O2)C)O)O
+LT02019,leuprolide,3,Adverse reactions,vLess-DILI-Concern,2,1209.4,CCNC(=O)C1CCCN1C(=O)C(CCCN=C(N)N)NC(=O)C(CC(C)C)NC(=O)C(CC(C)C)NC(=O)C(CC2=CC=C(C=C2)O)NC(=O)C(CO)NC(=O)C(CC3=CNC4=CC=CC=C43)NC(=O)C(CC5=CN=CN5)NC(=O)C6CCC(=O)N6
+LT02024,eletriptan,3,Adverse reactions,Ambiguous DILI-concern,2,382.5,CN1CCCC1CC2=CNC3=C2C=C(C=C3)CCS(=O)(=O)C4=CC=CC=C4
+LT02026,hydroxychloroquine,7,Adverse reactions,vLess-DILI-Concern,2,335.9,CCN(CCCC(C)NC1=C2C=CC(=CC2=NC=C1)Cl)CCO
+LT02031,fluoxymesterone,8,Warnings and precautions,Ambiguous DILI-concern,2,336.4,CC12CCC(=O)C=C1CCC3C2(C(CC4(C3CCC4(C)O)C)O)F
+LT02033,ximelagatran,8,Withdrawn,vMost-DILI-Concern,1,473.6,CCOC(=O)CNC(C1CCCCC1)C(=O)N2CCC2C(=O)NCC3=CC=C(C=C3)C(=NO)N
+LT02035,duloxetine,8,Warnings and precautions,vMost-DILI-Concern,2,333.9,CNCCC(C1=CC=CS1)OC2=CC=CC3=CC=CC=C32.Cl
+LT02037,carisoprodol,0,No match,vNo-DILI-Concern,2,260.33,CCCC(C)(COC(=O)N)COC(=O)NC(C)C
+LT02041,dicloxacillin,3,Warnings and precautions,vLess-DILI-Concern,2,470.3,CC1=C(C(=NO1)C2=C(C=CC=C2Cl)Cl)C(=O)NC3C4N(C3=O)C(C(S4)(C)C)C(=O)O
+LT02043,estrone,2,Warnings and precautions,Ambiguous DILI-concern,2,270.4,CC12CCC3C(C1CCC2=O)CCC4=C3C=CC(=C4)O
+LT02046,metolazone,3,Adverse reactions,Ambiguous DILI-concern,2,365.8,CC1NC2=CC(=C(C=C2C(=O)N1C3=CC=CC=C3C)S(=O)(=O)N)Cl
+LT02055,pamabrom,0,No match,vNo-DILI-Concern,2,348.20,CC(C)(CO)N.CN1C2=C(C(=O)N(C1=O)C)NC(=N2)Br
+LT02056,dextromethorphan,0,No match,vNo-DILI-Concern,2,271.4,CN1CCC23CCCCC2C1CC4=C3C=C(C=C4)OC
+LT02059,bacitracin,0,No match,vNo-DILI-Concern,1,1422.7,CCC(C)C1C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N1)CCCN)CCCCNC(=O)C(C(C)CC)NC(=O)C(CCC(=O)O)NC(=O)C(CC(C)C)NC(=O)C2CSC(=N2)C(C(C)CC)N)CC(=O)N)CC(=O)O)CC3=CN=CN3)CC4=CC=CC=C4
+LT02061,paromomycin,0,No match,vNo-DILI-Concern,1,615.6,C1C(C(C(C(C1N)OC2C(C(C(C(O2)CO)O)O)N)OC3C(C(C(O3)CO)OC4C(C(C(C(O4)CN)O)O)N)O)O)N
+LT02063,telmisartan,3,Adverse reactions,vLess-DILI-Concern,2,201.02,C1=CC=C(C(=C1)C(=O)O)Br
+LT02064,gallium nitrate,3,Adverse reactions,Ambiguous DILI-concern,2,63.013,[N+](=O)(O)[O-]
+LT02067,ammonium chloride,0,No match,vNo-DILI-Concern,2,18.039,[NH4+]
+LT02070,amiloride,3,Adverse reactions,vLess-DILI-Concern,2,311.77,C1CCCN(CC1)C2=NC(=C(N=C2Cl)C(=O)N=C(N)N)N
+LT02072,methysergide,0,No match,vNo-DILI-Concern,1,353.5,CCC(CO)NC(=O)C1CN(C2CC3=CN(C4=CC=CC(=C34)C2=C1)C)C
+LT02074,methylergonovine,0,No match,vNo-DILI-Concern,2,339.4,CCC(CO)NC(=O)C1CN(C2CC3=CNC4=CC=CC(=C34)C2=C1)C
+LT02076,brompheniramine,0,No match,vNo-DILI-Concern,2,319.24,CN(C)CCC(C1=CC=C(C=C1)Br)C2=CC=CC=N2
+LT02077,l-arginine,0,No match,vNo-DILI-Concern,2,174.20,C(CC(C(=O)O)N)CN=C(N)N
+LT02081,pyridostigmine,0,No match,vNo-DILI-Concern,2,181.21,C[N+]1=CC=CC(=C1)OC(=O)N(C)C
+LT02082,phenoxybenzamine,0,No match,vNo-DILI-Concern,1,303.8,CC(COC1=CC=CC=C1)N(CCCl)CC2=CC=CC=C2
+LT02084,oxybutynin,0,No match,vNo-DILI-Concern,1,357.5,CCN(CC)CC#CCOC(=O)C(C1CCCCC1)(C2=CC=CC=C2)O
+LT02085,orphenadrine,0,No match,vNo-DILI-Concern,2,269.4,CC1=CC=CC=C1C(C2=CC=CC=C2)OCCN(C)C
+LT02086,orciprenaline,0,No match,vNo-DILI-Concern,1,211.26,CC(C)NCC(C1=CC(=CC(=C1)O)O)O
+LT02087,loperamide,0,No match,vNo-DILI-Concern,2,477.0,CN(C)C(=O)C(CCN1CCC(CC1)(C2=CC=C(C=C2)Cl)O)(C3=CC=CC=C3)C4=CC=CC=C4
+LT02089,isoxsuprine,0,No match,vNo-DILI-Concern,2,301.4,CC(COC1=CC=CC=C1)NC(C)C(C2=CC=C(C=C2)O)O
+LT02092,glafenine,8,Withdrawn,vMost-DILI-Concern,1,372.8,C1=CC=C(C(=C1)C(=O)OCC(CO)O)NC2=C3C=CC(=CC3=NC=C2)Cl
+LT02093,edrophonium,0,No match,vNo-DILI-Concern,1,166.24,CC[N+](C)(C)C1=CC(=CC=C1)O
+LT02096,acetylcholine chloride,0,No match,vNo-DILI-Concern,2,146.21,CC(=O)OCC[N+](C)(C)C
+LT02100,amphetamine,0,No match,vLess-DILI-Concern,2,135.21,CC(CC1=CC=CC=C1)N
+LT02110,mepazine,8,Withdrawn,vMost-DILI-Concern,1,310.5,CN1CCCC(C1)CN2C3=CC=CC=C3SC4=CC=CC=C42
+LT02121,nandrolone decanoate,7,Warnings and precautions,vMost-DILI-Concern,2,428.6,CCCCCCCCCC(=O)OC1CCC2C1(CCC3C2CCC4=CC(=O)CCC34)C
+LT02166,auranofin,3,Warnings and precautions,vLess-DILI-Concern,2,679.5,CC[PH+](CC)CC.CC(=O)OCC1C(C(C(C(O1)[S-])OC(=O)C)OC(=O)C)OC(=O)C.[Au+]
+LT02171,simethicone,0,No match,vNo-DILI-Concern,2,238.46,CO[Si](C)(C)O[Si](C)(C)C.O=[Si]=O
+LT02189,betaine,0,No match,vNo-DILI-Concern,1,117.15,C[N+](C)(C)CC(=O)[O-]
+LT02190,bisacodyl,0,No match,vNo-DILI-Concern,2,361.4,CC(=O)OC1=CC=C(C=C1)C(C2=CC=C(C=C2)OC(=O)C)C3=CC=CC=N3
+LT02192,leucovorin,0,No match,vNo-DILI-Concern,2,225.28,CCC(C1=CC=CC=C1)C(=O)O.C(CO)N
+LT02203,ixabepilone,7,Adverse reactions,Ambiguous DILI-concern,2,275.30,C1=CC=C2C(=C1)C3=C(N2C4=CC=C(C=C4)NO)C=NC=C3
+LT02204,lapatinib,8,Box warning,vMost-DILI-Concern,1,581.1,CS(=O)(=O)CCNCC1=CC=C(O1)C2=CC3=C(C=C2)N=CN=C3NC4=CC(=C(C=C4)OCC5=CC(=CC=C5)F)Cl
+LT02210,oseltamivir,3,Adverse reactions,Ambiguous DILI-concern,1,312.40,CCC(CC)OC1C=C(CC(C1NC(=O)C)N)C(=O)OCC
+LT02213,alaproclate,8,Withdrawn,vMost-DILI-Concern,1,255.74,CC(C(=O)OC(C)(C)CC1=CC=C(C=C1)Cl)N
+LT02216,orlistat,8,Warnings and precautions,vMost-DILI-Concern,1,495.7,CCCCCCCCCCCC(CC1C(C(=O)O1)CCCCCC)OC(=O)C(CC(C)C)NC=O
+LT02217,apomorphine,0,No match,vNo-DILI-Concern,2,267.32,CN1CCC2=C3C1CC4=C(C3=CC=C2)C(=C(C=C4)O)O
+LT02218,dihydroergotamine,0,No match,vNo-DILI-Concern,1,583.7,CC1(C(=O)N2C(C(=O)N3CCCC3C2(O1)O)CC4=CC=CC=C4)NC(=O)C5CC6C(CC7=CNC8=CC=CC6=C78)N(C5)C
+LT02219,procyclidine,0,No match,vNo-DILI-Concern,1,287.4,C1CCC(CC1)C(CCN2CCCC2)(C3=CC=CC=C3)O
+LT02222,clemastine,0,No match,vNo-DILI-Concern,1,343.9,CC(C1=CC=CC=C1)(C2=CC=C(C=C2)Cl)OCCC3CCCN3C
+LT02224,tenofovir,3,Warnings and precautions,vLess-DILI-Concern,1,186.16,C1CC2C(C(C1O2)C(=O)O)C(=O)O
+LT02269,norethindrone acetate,0,No match,vNo-DILI-Concern,2,340.5,CC(=O)OC1(CCC2C1(CCC3C2CCC4=CC(=O)CCC34)C)C#C
+LT02329,exametazime,0,No match,vNo-DILI-Concern,2,272.39,CC(C(=NO)C)NCC(C)(C)CNC(C)C(=NO)C
+LT02330,erythropoietin,0,No match,vNo-DILI-Concern,2,461.0,CCCCC1=NC(=C(N1CC2=CC=C(C=C2)C3=CC=CC=C3C4=NN=N[N-]4)CO)Cl.[K+]
+LT02331,Argipressin,0,No match,vNo-DILI-Concern,2,1084.2,C1CC(N(C1)C(=O)C2CSSCC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N2)CC(=O)N)CCC(=O)N)CC3=CC=CC=C3)CC4=CC=C(C=C4)O)N)C(=O)NC(CCCN=C(N)N)C(=O)NCC(=O)N
+LT02337,sodium bicarbonate,0,No match,vNo-DILI-Concern,2,62.025,C(=O)(O)O
+LT02340,plerixafor,0,No match,vNo-DILI-Concern,2,287.35,CCC1=C2C(=CC=C1)C3=C(N2)C(OCC3)(CC)CC(=O)O
+LT02343,4-phenylbutyric acid,4,Adverse reactions,Ambiguous DILI-concern,2,164.20,C1=CC=C(C=C1)CCCC(=O)O
+LT02346,clindamycin-2-phosphate,3,Warnings and precautions,Ambiguous DILI-concern,2,505.0,CCCC1CC(N(C1)C)C(=O)NC(C2C(C(C(C(O2)SC)OP(=O)(O)O)O)O)C(C)Cl
+LT02356,tyramine,0,No match,vNo-DILI-Concern,2,137.18,C1=CC(=CC=C1CCN)O
+LT02382,Hetastarch,0,No match,vNo-DILI-Concern,2,580.6,C(COCC1C(C(C(C(O1)OCCO)OCCO)OCCO)OCCO)O.C(C1C(C(C(C(O1)O)O)O)O)O
+LT02384,imiglucerase,0,No match,vNo-DILI-Concern,2,ND,ND
+LT02385,agalsidase beta,0,No match,vNo-DILI-Concern,2,959.2,CCCCCCCC(=O)NC(CN1CCCC1)C(C2=CC3=C(C=C2)OCCO3)O.CCCCCCCC(=O)NC(CN1CCCC1)C(C2=CC3=C(C=C2)OCCO3)O.C(C(C(=O)O)O)(C(=O)O)O
+LT02404,gadolinium ethoxybenzyl DTPA,0,No match,vNo-DILI-Concern,2,684.8,CCOC1=CC=C(C=C1)CC(CN(CCN(CC(=O)O)CC(=O)O)CC(=O)O)N(CC(=O)O)CC(=O)O.[Gd+3]
+LT02424,"Estrogens, Conjugated",1,Adverse reactions,Ambiguous DILI-concern,2,373.4,CC12CCC3C(C1CCC2=O)CCC4=C3C=CC(=C4)OS(=O)(=O)O.[Na+]
+LT02427,haloperidol decanoate,3,Adverse reactions,Ambiguous DILI-concern,2,375.9,C1CN(CCC1(C2=CC=C(C=C2)Cl)O)CCCC(=O)C3=CC=C(C=C3)F
+LT02432,canakinumab,3,Adverse reactions,vLess-DILI-Concern,2,ND,ND
+LT02437,Levoleucovorin,0,No match,vNo-DILI-Concern,2,473.4,C1C(N(C2=C(N1)N=C(NC2=O)N)C=O)CNC3=CC=C(C=C3)C(=O)NC(CCC(=O)O)C(=O)O
+LT02442,levomefolate calcium,0,No match,vNo-DILI-Concern,2,501.5,CN1C(CNC2C1C(=O)NC(N2)N)CNC3=CC=C(C=C3)C(=O)NC(CCC(=O)[O-])C(=O)[O-].[Ca+2]
+LT02449,sitaxsentan,8,Withdrawn,vMost-DILI-Concern,2,454.9,CC1=CC2=C(C=C1CC(=O)C3=C(C=CS3)S(=O)(=O)NC4=C(C(=NO4)C)Cl)OCO2
+LT02907,laronidase,4,Adverse reactions,Ambiguous DILI-concern,2,ND,ND
+LT02909,dexmethylphenidate,7,Adverse reactions,vLess-DILI-Concern,2,269.77,COC(=O)C(C1CCCCN1)C2=CC=CC=C2.Cl
+LT02913,hyaluronidase recombinant human,0,No match,vNo-DILI-Concern,2,ND,ND
+LT02929,escitalopram,7,Adverse reactions,vLess-DILI-Concern,2,324.4,CN(C)CCCC1(C2=C(CO1)C=C(C=C2)C#N)C3=CC=C(C=C3)F

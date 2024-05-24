@@ -1,0 +1,7 @@
+seed: 386916626
+
+Confusion Matrix:
+  - TN: 190
+  - FP: 60
+  - FN: 18
+  - TP: 86
